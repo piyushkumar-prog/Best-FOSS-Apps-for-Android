@@ -1,4 +1,4 @@
-# Best-foss-apps-for-privacy-security-
+# Best-foss-apps-for-privacy-&-security-
 ☆ 𝗕𝗲𝘀𝘁 𝗕𝗿𝗼𝘄𝘀𝗲𝗿𝘀:
 
 • <a href="https://play.google.com/store/apps/details?id=com.brave.browser">Brave</a>🇺🇲
@@ -134,6 +134,94 @@ __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗡𝗮𝘃𝗶𝗴𝗮𝘁𝗶𝗼𝗻 𝗮𝗽𝗽(𝗠𝗮𝗽):
 
 • <a href="https://f-droid.org/en/packages/net.osmand.plus/">OsmAnd~</a>
+
+• <a href="https://organicmaps.app/">Organic App</a>
+
+
+__________________________________________
+☆ 𝗕𝗲𝘀𝘁 𝘄𝗲𝗮𝘁𝗵𝗲𝗿 𝗮𝗽𝗽:
+
+• <a href="https://f-droid.org/en/packages/cz.martykan.forecastie/">Forecastie</a>
+
+• <a href="https://f-droid.org/packages/wangdaye.com.geometricweather/">Geometric Weather</a>
+
+
+
+____________________________________________________________________________________
+☆ 𝗕𝗲𝘀𝘁 𝗡𝗼𝘁𝗲𝘀 𝗔𝗽𝗽:
+
+• <a href="https://f-droid.org/en/packages/com.standardnotes/">Standard Notes</a>
+
+
+
+__________________________________________
+☆ 𝗕𝗲𝘀𝘁 𝗠𝘂𝘀𝗶𝗰 𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗔𝗽𝗽:
+
+• <a href="https://f-droid.org/en/packages/com.shadow.blackhole/">BlackHole</a>🇮🇳
+
+
+
+__________________________________________
+☆ 𝗕𝗲𝘀𝘁 𝗽𝗼𝗱𝗰𝗮𝘀𝘁 𝗮𝗽𝗽:
+
+• <a href="https://f-droid.org/en/packages/de.danoeh.antennapod/">Antennapod</a>
+
+
+
+__________________________________________
+☆ 𝗕𝗲𝘀𝘁 𝗮𝗽𝗽 𝘁𝗼 𝗺𝘂𝘁𝗲 𝗦𝗽𝗼𝘁𝗶𝗳𝘆 𝗮𝗱𝘀:
+
+• <a href="https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify">Mutify</a>🇮🇳
+
+
+
+__________________________________________
+☆ 𝗕𝗲𝘀𝘁 𝗣𝗗𝗙 𝗥𝗲𝗮𝗱𝗲𝗿 𝗮𝗽𝗽:
+
+• <a href="https://github.com/GrapheneOS/PdfViewer">PDF Viewer </a>
+
+• <a href="https://www.f-droid.org/packages/com.foobnix.pro.pdf.reader/">Librera PRO</a>
+
+
+
+
+__________________________________________
+☆ 𝗕𝗲𝘀𝘁 𝗚𝗮𝗹𝗹𝗲𝗿𝘆 𝗮𝗽𝗽:
+
+• <a href="https://www.f-droid.org/packages/com.simplemobiletools.gallery.pro/">Simple Gallery PRO</a>
+
+
+
+
+__________________________________________
+☆ 𝗕𝗲𝘀𝘁 𝗙𝗶𝗹𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿:
+
+• <a href="https://www.f-droid.org/packages/com.amaze.filemanager/">Amaze File Manager </a>
+
+• <a href="https://www.f-droid.org/packages/me.zhanghai.android.files/">Material Files</a>
+
+
+
+
+__________________________________________
+☆ 𝗕𝗲𝘀𝘁 𝗧𝘄𝗶𝘁𝘁𝗲𝗿 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:(𝘈𝘤𝘤𝘦𝘴𝘴 𝘵𝘸𝘦𝘦𝘵𝘴 𝘸𝘪𝘵𝘩𝘰𝘶𝘵 𝘈𝘤𝘤𝘰𝘶𝘯𝘵)
+
+• <a href="https://www.f-droid.org/packages/com.jonjomckay.fritter/">Fritter</a>
+
+• <a href="https://nitter.net/">Nitter</a> (𝘞𝘦𝘣 𝘢𝘱𝘱)
+
+❌𝘋𝘰𝘯𝘰𝘵 𝘶𝘴𝘦 𝘢𝘯𝘺 𝘴𝘰𝘤𝘪𝘢𝘭 𝘮𝘦𝘥𝘪𝘢 𝘞𝘪𝘵𝘩 𝘢𝘤𝘤𝘰𝘶𝘯𝘵. 
+
+
+__________________________________________
+☆𝗕𝗲𝘀𝘁 𝗥𝗲𝗱𝗱𝗶𝘁 𝗖𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:
+
+• <a href="https://www.f-droid.org/packages/ml.docilealligator.infinityforreddit/">Infinity for reddit</a>
+
+
+
+
+__________________________________________
 
 🟢𝙰𝚍𝚍𝚒𝚗𝚐 𝚖𝚘𝚛𝚎 𝚟𝚎𝚛𝚢 𝚜𝚘𝚘𝚗........
 
