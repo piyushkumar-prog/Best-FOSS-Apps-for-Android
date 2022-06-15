@@ -1,11 +1,11 @@
 # Best-foss-apps-for-privacy-security-
-☆ Best Browsers:
+☆ 𝗕𝗲𝘀𝘁 𝗕𝗿𝗼𝘄𝘀𝗲𝗿𝘀:
 
 • <a href="https://play.google.com/store/apps/details?id=com.brave.browser">Brave</a>🇺🇲
                   
 • <a href="https://www.mozilla.org/en-GB/firefox/new/">Firefox</a>🇺🇲 and its FOSS versions
 
-☆ Best Search Engine:
+☆ 𝗕𝗲𝘀𝘁 𝗦𝗲𝗮𝗿𝗰𝗵 𝗘𝗻𝗴𝗶𝗻𝗲:
 
 • <a href="https://search.brave.com/">Brave Search</a>🇺🇲 (Beta)
 
@@ -18,7 +18,7 @@
 
 
 
-☆Best Email provider:
+☆ 𝗕𝗲𝘀𝘁 𝗘𝗺𝗮𝗶𝗹 𝗽𝗿𝗼𝘃𝗶𝗱𝗲𝗿:
 
 • <a href="https://account.proton.me/signup">Proton Mail</a>🇨🇭
 
@@ -26,7 +26,7 @@
 
 
 
-☆Best Email Client app:
+☆ 𝗕𝗲𝘀𝘁 𝗘𝗺𝗮𝗶𝗹 𝗖𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:
 
 • <a href="https://email.faircode.eu/">FairMail</a>🇳🇱
 
@@ -34,7 +34,7 @@
 
 
 
-☆Best VPN:
+☆ 𝗕𝗲𝘀𝘁 𝗩𝗣𝗡:
 
 • <a href="https://protonvpn.com/">Proton VPN</a>🇨🇭 (3 countries with free plan)
 
@@ -44,19 +44,19 @@
 
 
 
-☆Best Youtube client app:(ad-free)
+☆ 𝗕𝗲𝘀𝘁 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:(ad-free)
 
 • <a href="https://newpipe.net/">Newpipe</a>
 
 
 
-☆Best Messaging app:
+☆ 𝗕𝗲𝘀𝘁 𝗠𝗲𝘀𝘀𝗮𝗴𝗶𝗻𝗴 𝗮𝗽𝗽:
 
 • <a href="https://signal.org/en/">Signal</a>🇺🇲
 
 
 
-☆Best Private DNS:
+☆ 𝗕𝗲𝘀𝘁 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗗𝗡𝗦:
 
 • <a href="https://nextdns.io/">Nextdns</a>🇺🇲
 
@@ -65,7 +65,7 @@
 • <a href="https://adguard-dns.io/en/welcome.html">Adguard DNS</a>🇨🇾  
 
 
-☆Best password manager :
+☆ 𝗕𝗲𝘀𝘁 𝗽𝗮𝘀𝘀𝘄𝗼𝗿𝗱 𝗺𝗮𝗻𝗮𝗴𝗲𝗿:
 
 Online:
 
@@ -81,7 +81,7 @@ Offline:
 • <a href="https://getaegis.app/">Aegis</a>
 
 
-☆Best File encryption app:
+☆ 𝗕𝗲𝘀𝘁 𝗙𝗶𝗹𝗲 𝗲𝗻𝗰𝗿𝘆𝗽𝘁𝗶𝗼𝗻 𝗮𝗽𝗽:
 Free:
 
 • <a href="https://www.openkeychain.org/">Openkeychain</a>🇩🇪(Requires app to encryption/decryption)
@@ -92,7 +92,7 @@ Paid:
 
 
 
-☆Best Cloud service:
+☆ 𝗕𝗲𝘀𝘁 𝗖𝗹𝗼𝘂𝗱 𝘀𝗲𝗿𝘃𝗶𝗰𝗲:
 
 • <a href="https://proton.me/drive">Proton Drive</a>🇨🇭 (1GB free storage)
 (NOTE: when you create proton account you get 500MB free storage, but after completing some task given by proton drive you will get more 500Mb free storage)
