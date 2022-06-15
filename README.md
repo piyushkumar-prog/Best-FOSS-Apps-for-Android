@@ -106,7 +106,7 @@ Paid:
 •Mega🇳🇿 (20 Gb free) https://mega.io/
 
 
-
+<a href="https://adguard.com/en/blog/adguard-dns-beta.html">Click Here</a>
 
 🟢Adding more very soon....
 
