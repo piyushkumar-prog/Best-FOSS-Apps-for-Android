@@ -5,6 +5,7 @@
                   
 • <a href="https://www.mozilla.org/en-GB/firefox/new/">Firefox</a>🇺🇲 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘍𝘖𝘚𝘚 𝘷𝘦𝘳𝘴𝘪𝘰𝘯𝘴
 
+_________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗦𝗲𝗮𝗿𝗰𝗵 𝗘𝗻𝗴𝗶𝗻𝗲:
 
 • <a href="https://search.brave.com/">Brave Search</a>🇺🇲 (𝘉𝘦𝘵𝘢)
@@ -17,7 +18,7 @@
 
 
 
-
+__________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗘𝗺𝗮𝗶𝗹 𝗽𝗿𝗼𝘃𝗶𝗱𝗲𝗿:
 
 • <a href="https://account.proton.me/signup">Proton Mail</a>🇨🇭
@@ -25,7 +26,7 @@
 • <a href="https://tutanota.com/">Tutanota </a>🇩🇪  
 
 
-
+__________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗘𝗺𝗮𝗶𝗹 𝗖𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:
 
 • <a href="https://email.faircode.eu/">FairMail</a>🇳🇱
@@ -33,7 +34,7 @@
 • <a href="https://k9mail.app/">K9Mail</a>🇺🇲
 
 
-
+__________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗩𝗣𝗡:
 
 • <a href="https://protonvpn.com/">Proton VPN</a>🇨🇭 (3 𝘤𝘰𝘶𝘯𝘵𝘳𝘪𝘦𝘴 𝘸𝘪𝘵𝘩 𝘧𝘳𝘦𝘦 𝘱𝘭𝘢𝘯)
@@ -43,19 +44,19 @@
 • <a href="https://www.ivpn.net/">IVPN</a>🇬🇮
 
 
-
+__________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:(𝘢𝘥-𝘧𝘳𝘦𝘦)
 
 • <a href="https://newpipe.net/">Newpipe</a>
 
 
-
+__________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗠𝗲𝘀𝘀𝗮𝗴𝗶𝗻𝗴 𝗮𝗽𝗽:
 
 • <a href="https://signal.org/en/">Signal</a>🇺🇲
 
 
-
+__________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗗𝗡𝗦:
 
 • <a href="https://nextdns.io/">Nextdns</a>🇺🇲
@@ -65,6 +66,7 @@
 • <a href="https://adguard-dns.io/en/welcome.html">Adguard DNS</a>🇨🇾  
 
 
+__________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗽𝗮𝘀𝘀𝘄𝗼𝗿𝗱 𝗺𝗮𝗻𝗮𝗴𝗲𝗿:
 
 𝙊𝙣𝙡𝙞𝙣𝙚:
@@ -74,11 +76,13 @@
 • <a href="https://www.keepassdx.com/">KeepassDx</a>🇫🇷
 
 
+__________________________________________
 ☆Best 2FA Authenticator app:
 
 • <a href="https://getaegis.app/">Aegis</a>
 
 
+__________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗙𝗶𝗹𝗲 𝗲𝗻𝗰𝗿𝘆𝗽𝘁𝗶𝗼𝗻 𝗮𝗽𝗽:
 
 𝙁𝙧𝙚𝙚:
@@ -89,7 +93,7 @@
 
 
 
-
+__________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗖𝗹𝗼𝘂𝗱 𝘀𝗲𝗿𝘃𝗶𝗰𝗲:
 
 • <a href="https://proton.me/drive">Proton Drive</a>🇨🇭 (1𝘎𝘉 𝘧𝘳𝘦𝘦 𝘴𝘵𝘰𝘳𝘢𝘨𝘦)
