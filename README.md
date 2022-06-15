@@ -3,111 +3,111 @@
 
 • <a href="https://play.google.com/store/apps/details?id=com.brave.browser">Brave</a>🇺🇲
                   
-•Firefox🇺🇲 and its FOSS versions https://www.mozilla.org/en-GB/firefox/new/
+• <a href="https://www.mozilla.org/en-GB/firefox/new/">Firefox</a>🇺🇲 and its FOSS versions
 
 ☆ Best Search Engine:
 
-•Brave search🇺🇲 (Beta)
-https://search.brave.com/
+• <a href="https://search.brave.com/">Brave Search</a>🇺🇲 (Beta)
 
-•DuckDuckGo🇺🇲
-https://duckduckgo.com/
 
-•Starpage🇳🇱 (Not available worldwide)
-https://www.startpage.com/
+• <a href="https://duckduckgo.com/">DuckDuckGo</a>🇺🇲
+
+
+• <a href="https://www.startpage.com/">Stratpage</a>🇳🇱 (Not available worldwide)
+
 
 
 
 ☆Best Email provider:
 
-•Proton Mail🇨🇭  https://account.proton.me/signup
+• <a href="https://account.proton.me/signup">Proton Mail</a>🇨🇭
 
-•Tutanota🇩🇪  https://tutanota.com/
+• <a href="https://tutanota.com/">Tutanota </a>🇩🇪  
 
 
 
 ☆Best Email Client app:
 
-•Fairmail🇳🇱  https://email.faircode.eu/
+• <a href="https://email.faircode.eu/">FairMail</a>🇳🇱
 
-•K9Mail🇺🇲  https://k9mail.app/
+• <a href="https://k9mail.app/">K9Mail</a>🇺🇲
 
 
 
 ☆Best VPN:
 
-•ProtonVPN🇨🇭 (3 countries with free plan)  https://protonvpn.com/
+• <a href="https://protonvpn.com/">Proton VPN</a>🇨🇭 (3 countries with free plan)
 
-•Mullvad🇸🇪 https://mullvad.net/en/
+• <a href="https://mullvad.net/en/">Mullvad VPN</a>🇸🇪
 
-•IVPN🇬🇮 https://www.ivpn.net/
+• <a href="https://www.ivpn.net/">IVPN</a>🇬🇮
 
 
 
 ☆Best Youtube client app:(ad-free)
 
-•Newpipe  https://newpipe.net/
+• <a href="https://newpipe.net/">Newpipe</a>
 
 
 
 ☆Best Messaging app:
 
-•Signal🇺🇲  https://signal.org/en/
+• <a href="https://signal.org/en/">Signal</a>🇺🇲
 
 
 
 ☆Best Private DNS:
 
-•NextDNS🇺🇲 https://nextdns.io/
+• <a href="https://nextdns.io/">Nextdns</a>🇺🇲
 
-•Quad9🇨🇭   https://www.quad9.net/
+• <a href="https://www.quad9.net/">Quad9</a>🇨🇭
 
-•Adguard🇨🇾  https://adguard-dns.io/en/welcome.html
+• <a href="https://adguard-dns.io/en/welcome.html">Adguard DNS</a>🇨🇾  
 
 
 ☆Best password manager :
 
 Online:
 
-•Birwarden🇺🇲  https://bitwarden.com/
+• <a href="https://bitwarden.com/">Bitwarden</a>🇺🇲
 
 Offline:
 
-•KeepassDX🇫🇷  https://www.keepassdx.com/
+• <a href="https://www.keepassdx.com/">KeepassDx</a>🇫🇷
 
 
 ☆Best 2FA Authenticator app:
 
-•Aegis  https://getaegis.app/
+• <a href="https://getaegis.app/">Aegis</a>
 
 
 ☆Best File encryption app:
 Free:
 
-•Openchainkey🇩🇪(Requires app to encryption/decryption) https://www.openkeychain.org/
+• <a href="https://www.openkeychain.org/">Openkeychain</a>🇩🇪(Requires app to encryption/decryption)
 Paid:
 
-•Cryptomator🇩🇪 https://cryptomator.org/
+• <a href="https://cryptomator.org/">Cryptomator</a>🇩🇪
 
 
 
 
 ☆Best Cloud service:
 
-•Ptoton Drive🇨🇭 (1GB free storage)  https://proton.me/drive
+• <a href="https://proton.me/drive">Proton Drive</a>🇨🇭 (1GB free storage)
 (NOTE: when you create proton account you get 500MB free storage, but after completing some task given by proton drive you will get more 500Mb free storage)
 
-•NextCloud🇩🇪 (Self hosted)  https://nextcloud.com/
+• <a href="https://nextcloud.com/">NextCloud</a>🇩🇪 (Self hosted)
 
-•Tresorit  https://tresorit.com/
+• <a href="https://tresorit.com/">Tresorit</a>
 
-•Filen🇩🇪 (10GB free) https://filen.io/
+• <a href="https://filen.io/">Filen</a>🇩🇪 (10GB free)
 
-•Mega🇳🇿 (20 Gb free) https://mega.io/
+• <a href="https://mega.io/">MEGA</a>🇳🇿 (20 Gb free)
 
 
 
 🟢Adding more very soon....
 
 Follow us on 
-●Reddit: https://www.reddit.com/r/OpenSourceApps4you
+● <a href="https://www.reddit.com/r/OpenSourceApps4you">Reddit</a>
