@@ -1,7 +1,7 @@
 # Best-foss-apps-for-privacy-security-
 ☆ Best Browsers:
 
-•Brave🇺🇲 https://play.google.com/store/apps/details?id=com.brave.browser
+• <a href="https://play.google.com/store/apps/details?id=com.brave.browser">Brave</a>🇺🇲
                   
 •Firefox🇺🇲 and its FOSS versions https://www.mozilla.org/en-GB/firefox/new/
 
@@ -106,7 +106,6 @@ Paid:
 •Mega🇳🇿 (20 Gb free) https://mega.io/
 
 
-<a href="https://adguard.com/en/blog/adguard-dns-beta.html">Click Here</a>
 
 🟢Adding more very soon....
 
