@@ -47,7 +47,7 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:(𝘢𝘥-𝘧𝘳𝘦𝘦)
 
-• <a href="https://newpipe.net/">Newpipe</a>
+• <a href="https://newpipe.net/">Newpipe</a>🌍
 
 
 __________________________________________
@@ -79,7 +79,7 @@ __________________________________________
 __________________________________________
 ☆Best 2FA Authenticator app:
 
-• <a href="https://getaegis.app/">Aegis</a>
+• <a href="https://getaegis.app/">Aegis</a>🌍
 
 
 __________________________________________
@@ -101,7 +101,7 @@ __________________________________________
 
 • <a href="https://nextcloud.com/">NextCloud</a>🇩🇪 (𝘚𝘦𝘭𝘧 𝘩𝘰𝘴𝘵𝘦𝘥)
 
-• <a href="https://tresorit.com/">Tresorit</a>
+• <a href="https://tresorit.com/">Tresorit</a>🌍
 
 • <a href="https://filen.io/">Filen</a>🇩🇪 (10𝘎𝘉 𝘧𝘳𝘦𝘦)
 
@@ -119,23 +119,23 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗙𝗢𝗦𝗦 𝗮𝗽𝗽 𝘀𝘁𝗼𝗿𝗲:
 
-• <a href="https://f-droid.org/">Fdroid</a>
+• <a href="https://f-droid.org/">Fdroid</a>🌍
 
 
 
 __________________________________________
 ☆𝗕𝗲𝘀𝘁 𝗙𝗱𝗿𝗼𝗶𝗱 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:
 
-• <a href="https://f-droid.org/packages/com.looker.droidify/">Droid-ify</a>
+• <a href="https://f-droid.org/packages/com.looker.droidify/">Droid-ify</a>🌍
 
 
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗡𝗮𝘃𝗶𝗴𝗮𝘁𝗶𝗼𝗻 𝗮𝗽𝗽(𝗠𝗮𝗽):
 
-• <a href="https://f-droid.org/en/packages/net.osmand.plus/">OsmAnd~</a>
+• <a href="https://f-droid.org/en/packages/net.osmand.plus/">OsmAnd~</a>🇳🇱
 
-• <a href="https://organicmaps.app/">Organic App</a>
+• <a href="https://organicmaps.app/">Organic App</a>🇪🇪
 
 
 __________________________________________
@@ -143,14 +143,14 @@ __________________________________________
 
 • <a href="https://f-droid.org/en/packages/cz.martykan.forecastie/">Forecastie</a>
 
-• <a href="https://f-droid.org/packages/wangdaye.com.geometricweather/">Geometric Weather</a>
+• <a href="https://f-droid.org/packages/wangdaye.com.geometricweather/">Geometric Weather</a>🇨🇳
 
 
 
 ____________________________________________________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗡𝗼𝘁𝗲𝘀 𝗔𝗽𝗽:
 
-• <a href="https://f-droid.org/en/packages/com.standardnotes/">Standard Notes</a>
+• <a href="https://f-droid.org/en/packages/com.standardnotes/">Standard Notes</a>🌍
 
 
 
@@ -164,7 +164,7 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗽𝗼𝗱𝗰𝗮𝘀𝘁 𝗮𝗽𝗽:
 
-• <a href="https://f-droid.org/en/packages/de.danoeh.antennapod/">Antennapod</a>
+• <a href="https://f-droid.org/en/packages/de.danoeh.antennapod/">Antennapod</a>🌍
 
 
 
@@ -178,9 +178,9 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗣𝗗𝗙 𝗥𝗲𝗮𝗱𝗲𝗿 𝗮𝗽𝗽:
 
-• <a href="https://github.com/GrapheneOS/PdfViewer">PDF Viewer </a>
+• <a href="https://github.com/GrapheneOS/PdfViewer">PDF Viewer </a>🌍
 
-• <a href="https://www.f-droid.org/packages/com.foobnix.pro.pdf.reader/">Librera PRO</a>
+• <a href="https://www.f-droid.org/packages/com.foobnix.pro.pdf.reader/">Librera PRO</a>🇺🇦
 
 
 
@@ -188,7 +188,7 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗚𝗮𝗹𝗹𝗲𝗿𝘆 𝗮𝗽𝗽:
 
-• <a href="https://www.f-droid.org/packages/com.simplemobiletools.gallery.pro/">Simple Gallery PRO</a>
+• <a href="https://www.f-droid.org/packages/com.simplemobiletools.gallery.pro/">Simple Gallery PRO</a>🇸🇰
 
 
 
@@ -196,9 +196,7 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗙𝗶𝗹𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿:
 
-• <a href="https://www.f-droid.org/packages/com.amaze.filemanager/">Amaze File Manager </a>
-
-• <a href="https://www.f-droid.org/packages/me.zhanghai.android.files/">Material Files</a>
+• <a href="https://www.f-droid.org/packages/com.amaze.filemanager/">Amaze File Manager </a>🇮🇳
 
 
 
@@ -206,9 +204,9 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗧𝘄𝗶𝘁𝘁𝗲𝗿 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:(𝘈𝘤𝘤𝘦𝘴𝘴 𝘵𝘸𝘦𝘦𝘵𝘴 𝘸𝘪𝘵𝘩𝘰𝘶𝘵 𝘈𝘤𝘤𝘰𝘶𝘯𝘵)
 
-• <a href="https://www.f-droid.org/packages/com.jonjomckay.fritter/">Fritter</a>
+• <a href="https://www.f-droid.org/packages/com.jonjomckay.fritter/">Fritter</a>🌍
 
-• <a href="https://nitter.net/">Nitter</a> (𝘞𝘦𝘣 𝘢𝘱𝘱)
+• <a href="https://nitter.net/">Nitter</a>🌍 (𝘞𝘦𝘣 𝘢𝘱𝘱)
 
 ❌𝘋𝘰𝘯𝘰𝘵 𝘶𝘴𝘦 𝘢𝘯𝘺 𝘴𝘰𝘤𝘪𝘢𝘭 𝘮𝘦𝘥𝘪𝘢 𝘞𝘪𝘵𝘩 𝘢𝘤𝘤𝘰𝘶𝘯𝘵. 
 
@@ -216,7 +214,7 @@ __________________________________________
 __________________________________________
 ☆𝗕𝗲𝘀𝘁 𝗥𝗲𝗱𝗱𝗶𝘁 𝗖𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:
 
-• <a href="https://www.f-droid.org/packages/ml.docilealligator.infinityforreddit/">Infinity for reddit</a>
+• <a href="https://www.f-droid.org/packages/ml.docilealligator.infinityforreddit/">Infinity for reddit</a>🌍
 
 
 
