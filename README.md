@@ -21,6 +21,7 @@ https://www.startpage.com/
 ☆Best Email provider:
 
 •Proton Mail  https://account.proton.me/signup
+
 •Tutanota  https://tutanota.com/
 
 
@@ -28,6 +29,7 @@ https://www.startpage.com/
 ☆Best Email Client app:
 
 •Fairmail  https://email.faircode.eu/
+
 •K9Mail  https://k9mail.app/
 
 
@@ -35,7 +37,9 @@ https://www.startpage.com/
 ☆Best VPN:
 
 •ProtonVPN (3 countries with free plan)  https://protonvpn.com/
+
 •Mullvad  https://mullvad.net/en/
+
 •IVPN  https://www.ivpn.net/
 
 
@@ -55,15 +59,20 @@ https://www.startpage.com/
 ☆Best Private DNS:
 
 •NextDNS https://nextdns.io/
+
 •Quad9
+
 •Adguard
 
 
 ☆Best password manager :
 
 Online:
+
 •Birwarden  https://bitwarden.com/
+
 Offline:
+
 •KeepassDX  https://www.keepassdx.com/
 
 
@@ -74,8 +83,10 @@ Offline:
 
 ☆Best File encryption app:
 Free:
+
 •Openchainkey(Requires app to encryption/decryption) https://www.openkeychain.org/
 Paid:
+
 •Cryptomator https://cryptomator.org/
 
 
@@ -85,9 +96,13 @@ Paid:
 
 •Ptoton Drive (1GB free storage)  https://proton.me/drive
 (NOTE: when you create proton account you get 500MB free storage, but after completing some task given by proton drive you will get more 500Mb free storage)
+
 •NextCloud (Self hosted)  https://nextcloud.com/
+
 •Tresorit  https://tresorit.com/
+
 •Filen (10GB free) https://filen.io/
+
 •Mega (20 Gb free) https://mega.io/
 
 
