@@ -90,7 +90,7 @@ __________________________________________
 
 𝘾𝙪𝙨𝙩𝙤𝙢𝙞𝙯𝙖𝙗𝙡𝙚 : 
 
-• <a href="https://nextdns.io/">Nextdns</a>🇺🇲 (𝘈𝘥 & 𝘛𝘳𝘢𝘤𝘬𝘦𝘳 𝘣𝘭𝘰𝘤𝘬𝘦𝘳 + 𝘗𝘢𝘳𝘦𝘯𝘵𝘢𝘭 𝘤𝘰𝘯𝘵𝘳𝘰𝘭))
+• <a href="https://nextdns.io/">Nextdns</a>🇺🇲 (𝘈𝘥 & 𝘛𝘳𝘢𝘤𝘬𝘦𝘳 𝘣𝘭𝘰𝘤𝘬𝘦𝘳 + 𝘗𝘢𝘳𝘦𝘯𝘵𝘢𝘭 𝘤𝘰𝘯𝘵𝘳𝘰𝘭) ⭐❤
 
 ❌𝘋𝘰𝘯𝘰𝘵 𝘶𝘴𝘦 𝘗𝘢𝘳𝘦𝘯𝘵𝘢𝘭 𝘊𝘰𝘯𝘵𝘳𝘰𝘭 𝘢𝘱𝘱 𝘢𝘯𝘥 𝘯𝘰𝘯-𝘍𝘖𝘚𝘚 𝘈𝘥-𝘉𝘭𝘰𝘤𝘬𝘦𝘳
 
@@ -108,16 +108,24 @@ __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗽𝗮𝘀𝘀𝘄𝗼𝗿𝗱 𝗺𝗮𝗻𝗮𝗴𝗲𝗿:
 
 𝙊𝙣𝙡𝙞𝙣𝙚:
-• <a href="https://bitwarden.com/">Bitwarden</a>🇺🇲
+• <a href="https://bitwarden.com/">Bitwarden</a>🇺🇲 ⭐❤
 
 𝙊𝙛𝙛𝙡𝙞𝙣𝙚:
-• <a href="https://www.keepassdx.com/">KeepassDx</a>🇫🇷
+• <a href="https://www.keepassdx.com/">KeepassDx</a>🇫🇷 ⭐❤
+
+
+(✅ 𝘜𝘴𝘦 𝘣𝘰𝘵𝘩 𝘴𝘦𝘳𝘷𝘪𝘤𝘦𝘴 𝘧𝘰𝘳 𝘦𝘢𝘴𝘺 𝘢𝘤𝘤𝘦𝘴𝘴𝘪𝘣𝘪𝘭𝘪𝘵𝘺 𝘢𝘯𝘥 𝘴𝘦𝘤𝘶𝘳𝘦 𝘣𝘢𝘤𝘬𝘶𝘱)
+
+
 
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝟮𝗙𝗔 𝗔𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰𝗮𝘁𝗼𝗿 𝗮𝗽𝗽:
 
-• <a href="https://getaegis.app/">Aegis</a>🌍
+• <a href="https://getaegis.app/">Aegis</a>🌍 ⭐❤
+
+(𝘐 𝘳𝘦𝘤𝘰𝘮𝘮𝘦𝘯𝘥 𝘺𝘰𝘶 𝘵𝘰 𝘸𝘢𝘵𝘤𝘩 𝘴𝘰𝘮𝘦 𝘵𝘶𝘵𝘰𝘳𝘪𝘢𝘭𝘴 𝘷𝘪𝘥𝘦𝘰 𝘣𝘦𝘧𝘰𝘳𝘦 𝘦𝘯𝘢𝘣𝘭𝘪𝘯𝘨 2𝘍𝘈 ,𝘢𝘯𝘥 𝘮𝘢𝘬𝘦 𝘢 𝘱𝘭𝘢𝘯 𝘰𝘯 𝘴𝘪𝘵𝘶𝘢𝘵𝘪𝘰𝘯 𝘸𝘩𝘦𝘯 𝘺𝘰𝘶 𝘭𝘰𝘴𝘵 𝘺𝘰𝘶𝘳 𝘢𝘤𝘤𝘦𝘴𝘴 𝘵𝘰 𝘺𝘰𝘶𝘳 𝘢𝘤𝘤𝘰𝘶𝘯𝘵 ,𝘧𝘳𝘰𝘮 𝘸𝘩𝘦𝘳𝘦 𝘺𝘰𝘶 𝘴𝘵𝘢𝘳𝘵 𝘢𝘯𝘥 𝘸𝘩𝘪𝘤𝘩 𝘢𝘤𝘤𝘰𝘶𝘯𝘵 𝘺𝘰𝘶 𝘳𝘦𝘤𝘰𝘷𝘦𝘳 𝘧𝘪𝘳𝘴𝘵 𝘦𝘵𝘤..)
+
 
 
 __________________________________________
@@ -134,7 +142,7 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗖𝗹𝗼𝘂𝗱 𝘀𝗲𝗿𝘃𝗶𝗰𝗲:
 
-• <a href="https://proton.me/drive">Proton Drive</a>🇨🇭 (1𝘎𝘉 𝘧𝘳𝘦𝘦 𝘴𝘵𝘰𝘳𝘢𝘨𝘦)
+• <a href="https://proton.me/drive">Proton Drive</a>🇨🇭 (1𝘎𝘉 𝘧𝘳𝘦𝘦 𝘴𝘵𝘰𝘳𝘢𝘨𝘦) ⭐❤
 (𝘕𝘖𝘛𝘌: 𝘸𝘩𝘦𝘯 𝘺𝘰𝘶 𝘤𝘳𝘦𝘢𝘵𝘦 𝘱𝘳𝘰𝘵𝘰𝘯 𝘢𝘤𝘤𝘰𝘶𝘯𝘵 𝘺𝘰𝘶 𝘨𝘦𝘵 500𝘔𝘉 𝘧𝘳𝘦𝘦 𝘴𝘵𝘰𝘳𝘢𝘨𝘦, 𝘣𝘶𝘵 𝘢𝘧𝘵𝘦𝘳 𝘤𝘰𝘮𝘱𝘭𝘦𝘵𝘪𝘯𝘨 𝘴𝘰𝘮𝘦 𝘵𝘢𝘴𝘬 𝘨𝘪𝘷𝘦𝘯 𝘣𝘺 𝘱𝘳𝘰𝘵𝘰𝘯 𝘥𝘳𝘪𝘷𝘦 𝘺𝘰𝘶 𝘸𝘪𝘭𝘭 𝘨𝘦𝘵 𝘮𝘰𝘳𝘦 500𝘔𝘣 𝘧𝘳𝘦𝘦 𝘴𝘵𝘰𝘳𝘢𝘨𝘦)
 
 • <a href="https://nextcloud.com/">NextCloud</a>🇩🇪 (𝘚𝘦𝘭𝘧 𝘩𝘰𝘴𝘵𝘦𝘥)
@@ -150,28 +158,28 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗣𝗹𝗮𝘆𝘀𝘁𝗼𝗿𝗲 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:
 
-• <a href="https://f-droid.org/packages/com.aurora.store/">Aurora Store</a>🇮🇳
+• <a href="https://f-droid.org/packages/com.aurora.store/">Aurora Store</a>🇮🇳 
 
 
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗙𝗢𝗦𝗦 𝗮𝗽𝗽 𝘀𝘁𝗼𝗿𝗲:
 
-• <a href="https://f-droid.org/">Fdroid</a>🌍
+• <a href="https://f-droid.org/">Fdroid</a>🌍 ⭐❤
 
 
 
 __________________________________________
 ☆𝗕𝗲𝘀𝘁 𝗙𝗱𝗿𝗼𝗶𝗱 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:
 
-• <a href="https://f-droid.org/packages/com.looker.droidify/">Droid-ify</a>🌍
+• <a href="https://f-droid.org/packages/com.looker.droidify/">Droid-ify</a>🌍 ⭐❤
 
 
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗡𝗮𝘃𝗶𝗴𝗮𝘁𝗶𝗼𝗻 𝗮𝗽𝗽(𝗠𝗮𝗽):
 
-• <a href="https://f-droid.org/en/packages/net.osmand.plus/">OsmAnd~</a>🇳🇱
+• <a href="https://f-droid.org/en/packages/net.osmand.plus/">OsmAnd~</a>🇳🇱 ⭐❤
 
 • <a href="https://organicmaps.app/">Organic App</a>🇪🇪
 
@@ -179,7 +187,7 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝘄𝗲𝗮𝘁𝗵𝗲𝗿 𝗮𝗽𝗽:
 
-• <a href="https://f-droid.org/en/packages/cz.martykan.forecastie/">Forecastie</a>
+• <a href="https://f-droid.org/en/packages/cz.martykan.forecastie/">Forecastie</a>🌍 ⭐❤
 
 • <a href="https://f-droid.org/packages/wangdaye.com.geometricweather/">Geometric Weather</a>🇨🇳
 
@@ -188,37 +196,39 @@ __________________________________________
 ____________________________________________________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗡𝗼𝘁𝗲𝘀 𝗔𝗽𝗽:
 
-• <a href="https://f-droid.org/en/packages/com.standardnotes/">Standard Notes</a>🌍
+• <a href="https://f-droid.org/en/packages/com.standardnotes/">Standard Notes</a>🌍 ⭐❤
 
 
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗠𝘂𝘀𝗶𝗰 𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗔𝗽𝗽:
 
-• <a href="https://f-droid.org/en/packages/com.shadow.blackhole/">BlackHole</a>🇮🇳
+• <a href="https://f-droid.org/en/packages/com.shadow.blackhole/">BlackHole</a>🇮🇳 ⭐❤ (ᵢf yₒᵤ ₐᵣₑ ₘᵤₛᵢc🎶 ₗₒᵥₑᵣ)
+
 
 
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗽𝗼𝗱𝗰𝗮𝘀𝘁 𝗮𝗽𝗽:
 
-• <a href="https://f-droid.org/en/packages/de.danoeh.antennapod/">Antennapod</a>🌍
+• <a href="https://f-droid.org/en/packages/de.danoeh.antennapod/">Antennapod</a>🌍 ⭐❤ (𝘐𝘧 𝘺𝘰𝘶 𝘭𝘪𝘬𝘦 𝘭𝘪𝘴𝘵𝘦𝘯𝘪𝘯𝘨 𝘵𝘰 𝘱𝘰𝘥𝘤𝘢𝘴𝘵 ,𝘵𝘩𝘦𝘳𝘦 𝘢𝘳𝘦 𝘮𝘢𝘯𝘺 𝘱𝘰𝘥𝘤𝘢𝘴𝘵𝘴 𝘵𝘰 𝘭𝘦𝘢𝘳𝘯 𝘱𝘳𝘪𝘷𝘢𝘤𝘺 & 𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺)
+
 
 
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗮𝗽𝗽 𝘁𝗼 𝗺𝘂𝘁𝗲 𝗦𝗽𝗼𝘁𝗶𝗳𝘆 𝗮𝗱𝘀:
 
-• <a href="https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify">Mutify</a>🇮🇳
+• <a href="https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify">Mutify</a>🇮🇳 ⭐❤ (𝘐𝘧 𝘺𝘰𝘶 𝘭𝘪𝘬𝘦 𝘚𝘱𝘰𝘵𝘪𝘧𝘺 𝘫𝘶𝘴𝘵 𝘭𝘪𝘬𝘦 𝘮𝘦,𝘴𝘰 𝘫𝘶𝘴𝘵 𝘮𝘶𝘵𝘦 𝘢𝘥𝘴😌🎧)
 
 
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗣𝗗𝗙 𝗥𝗲𝗮𝗱𝗲𝗿 𝗮𝗽𝗽:
 
-• <a href="https://github.com/GrapheneOS/PdfViewer">PDF Viewer </a>🌍
+• <a href="https://github.com/GrapheneOS/PdfViewer">PDF Viewer </a>🌍 ⭐❤ (𝘖𝘯𝘭𝘺 𝘴𝘶𝘱𝘱𝘰𝘳𝘵𝘴 𝘗𝘋𝘍)
 
-• <a href="https://www.f-droid.org/packages/com.foobnix.pro.pdf.reader/">Librera PRO</a>🇺🇦
+• <a href="https://www.f-droid.org/packages/com.foobnix.pro.pdf.reader/">Librera PRO</a>🇺🇦 ⭐❤ (𝘚𝘶𝘱𝘱𝘰𝘳𝘵𝘴 𝘢𝘭𝘮𝘰𝘴𝘵 𝘢𝘭𝘭 𝘧𝘰𝘳𝘮𝘢𝘵𝘴)
 
 
 
@@ -236,21 +246,20 @@ __________________________________________
 
 • <a href="https://www.f-droid.org/packages/com.amaze.filemanager/">Amaze File Manager </a>🇮🇳
 
-
-
+❌𝘋𝘰𝘯𝘰𝘵 𝘶𝘴𝘦 𝘍𝘪𝘭𝘦 𝘣𝘺 𝘎𝘰𝘰𝘨𝘭𝘦
 
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:(𝘢𝘥-𝘧𝘳𝘦𝘦)
 
-• <a href="https://newpipe.net/">Newpipe</a>🌍
+• <a href="https://newpipe.net/">Newpipe</a>🌍 ⭐❤ 
 
 
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗧𝘄𝗶𝘁𝘁𝗲𝗿 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:(𝘈𝘤𝘤𝘦𝘴𝘴 𝘵𝘸𝘦𝘦𝘵𝘴 𝘸𝘪𝘵𝘩𝘰𝘶𝘵 𝘈𝘤𝘤𝘰𝘶𝘯𝘵)
 
-• <a href="https://www.f-droid.org/packages/com.jonjomckay.fritter/">Fritter</a>🌍
+• <a href="https://www.f-droid.org/packages/com.jonjomckay.fritter/">Fritter</a>🌍 ❤
 
 • <a href="https://nitter.net/">Nitter</a>🌍 (𝘞𝘦𝘣 𝘢𝘱𝘱)
 
@@ -260,7 +269,7 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗥𝗲𝗱𝗱𝗶𝘁 𝗖𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:
 
-• <a href="https://www.f-droid.org/packages/ml.docilealligator.infinityforreddit/">Infinity for reddit</a>🌍
+• <a href="https://www.f-droid.org/packages/ml.docilealligator.infinityforreddit/">Infinity for reddit</a>🌍 ❤
 
 • <a href="https://libredd.it/">Libreddit</a>🌍 (𝘞𝘦𝘣 𝘈𝘱𝘱)
 
