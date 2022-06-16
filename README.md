@@ -2,11 +2,13 @@
 
 ________________________
 [⭐ - Highly Recommended]
+
+[❤ - My personal Fav]
 __________________________
 
 ☆ 𝗕𝗲𝘀𝘁 𝗕𝗿𝗼𝘄𝘀𝗲𝗿𝘀:
 
-• <a href="https://play.google.com/store/apps/details?id=com.brave.browser">Brave</a>🇺🇲 ⭐
+• <a href="https://play.google.com/store/apps/details?id=com.brave.browser">Brave</a>🇺🇲 ⭐❤
                   
 • <a href="https://www.mozilla.org/en-GB/firefox/new/">Firefox</a>🇺🇲 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘍𝘖𝘚𝘚 𝘷𝘦𝘳𝘴𝘪𝘰𝘯𝘴 eg.<a href="https://www.f-droid.org/packages/org.mozilla.fennec_fdroid/">Fennec </a> ⭐(𝘐𝘧 𝘺𝘰𝘶 𝘢𝘳𝘦 𝘛𝘦𝘤𝘩 𝘴𝘢𝘷𝘺 𝘢𝘯𝘥 𝘩𝘢𝘷𝘦 𝘵𝘪𝘮𝘦 𝘵𝘰 𝘴𝘦𝘵𝘶𝘱)
 
@@ -22,16 +24,22 @@ __________________________
 _________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗦𝗲𝗮𝗿𝗰𝗵 𝗘𝗻𝗴𝗶𝗻𝗲:
 
-• <a href="https://search.brave.com/">Brave Search</a>🇺🇲 (𝘉𝘦𝘵𝘢)
+• <a href="https://search.brave.com/">Brave Search</a>🇺🇲 (𝘉𝘦𝘵𝘢) ⭐❤
 
 
-• <a href="https://duckduckgo.com/">DuckDuckGo</a>🇺🇲
+• <a href="https://duckduckgo.com/">DuckDuckGo</a>🇺🇲 ⭐
 
 
 • <a href="https://www.startpage.com/">Stratpage</a>🇳🇱 (𝘕𝘰𝘵 𝘢𝘷𝘢𝘪𝘭𝘢𝘣𝘭𝘦 𝘸𝘰𝘳𝘭𝘥𝘸𝘪𝘥𝘦)
 
+• <a href="https://search.albony.xyz/?cookies_disabled=1">Whoogle</a>🌍
 
 • <a href="https://searx.space/#">SearX</a>🌍
+
+
+(𝘐 𝘶𝘴𝘦 𝘧𝘰𝘶𝘳 𝘴𝘦𝘢𝘳𝘤𝘩 𝘦𝘯𝘨𝘪𝘯𝘦 𝘵𝘰 𝘥𝘦𝘤𝘳𝘦𝘢𝘴𝘦 𝘵𝘩𝘦 𝘤𝘩𝘢𝘯𝘤𝘦𝘴 𝘰𝘧 𝘧𝘢𝘭𝘭𝘪𝘯𝘨 𝘣𝘢𝘤𝘬 𝘵𝘰 𝘎𝘰𝘰𝘨𝘭𝘦 𝘧𝘰𝘳 𝘴𝘰𝘮𝘦 𝘴𝘦𝘢𝘳𝘤𝘩 𝘳𝘦𝘴𝘶𝘭𝘵.
+𝘐 𝘶𝘴𝘦 𝘉𝘳𝘢𝘷𝘦 𝘢𝘴 𝘮𝘺 𝘮𝘢𝘪𝘯 𝘦𝘯𝘨𝘪𝘯𝘦,𝘋𝘶𝘤𝘬𝘋𝘶𝘤𝘬𝘎𝘰 𝘰𝘯 𝘋𝘋𝘎 𝘈𝘱𝘱 𝘢𝘯𝘥 𝘴𝘵𝘢𝘳𝘵𝘱𝘢𝘨𝘦 𝘰𝘯 𝘉𝘳𝘢𝘷𝘦 𝘉𝘳𝘰𝘸𝘴𝘦𝘳 𝘱𝘳𝘪𝘷𝘢𝘵𝘦 𝘮𝘰𝘥𝘦,𝘺𝘦𝘴 𝘺𝘰𝘶 𝘤𝘢𝘯 𝘶𝘴𝘦 𝘵𝘸𝘰 𝘥𝘪𝘧𝘧𝘦𝘳𝘦𝘯𝘵 𝘦𝘯𝘨𝘪𝘯𝘦𝘴 𝘰𝘯 𝘉𝘳𝘢𝘷𝘦.
+𝘈𝘯𝘥 𝘧𝘰𝘳𝘵𝘩 𝘰𝘯𝘦 𝘪𝘴 𝘞𝘩𝘰𝘰𝘨𝘭𝘦 ,𝘸𝘩𝘦𝘯 𝘪 𝘸𝘢𝘯𝘵 𝘵𝘰 𝘴𝘦𝘢𝘳𝘤𝘩 𝘰𝘯 𝘎𝘰𝘰𝘨𝘭𝘦)
 
 
 
@@ -39,7 +47,7 @@ _________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗘𝗺𝗮𝗶𝗹 𝗽𝗿𝗼𝘃𝗶𝗱𝗲𝗿:
 
-• <a href="https://account.proton.me/signup">Proton Mail</a>🇨🇭
+• <a href="https://account.proton.me/signup">Proton Mail</a>🇨🇭 ⭐❤
 
 • <a href="https://tutanota.com/">Tutanota </a>🇩🇪  
 
@@ -48,25 +56,33 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗘𝗺𝗮𝗶𝗹 𝗖𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:
 
-• <a href="https://email.faircode.eu/">FairEmail</a>🇳🇱
+• <a href="https://email.faircode.eu/">FairEmail</a>🇳🇱 ⭐❤
 
-• <a href="https://k9mail.app/">K9Mail</a>🇺🇲
+• <a href="https://k9mail.app/">K9Mail</a>🇺🇲 ⭐❤
+
+
+(𝘐 𝘭𝘪𝘬𝘦 𝘣𝘰𝘵𝘩 𝘢𝘱𝘱𝘴,𝘪𝘵𝘴 𝘶𝘱 𝘵𝘰 𝘺𝘰𝘶 𝘸𝘩𝘪𝘤𝘩 𝘰𝘯𝘦'𝘴 𝘪𝘯𝘵𝘦𝘳𝘧𝘢𝘤𝘦 𝘢𝘯𝘥 𝘧𝘦𝘢𝘵𝘶𝘳𝘦𝘴 𝘺𝘰𝘶 𝘭𝘪𝘬𝘦)
+
 
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗩𝗣𝗡:
 
-• <a href="https://protonvpn.com/">Proton VPN</a>🇨🇭 (3 𝘤𝘰𝘶𝘯𝘵𝘳𝘪𝘦𝘴 𝘸𝘪𝘵𝘩 𝘧𝘳𝘦𝘦 𝘱𝘭𝘢𝘯)
+• <a href="https://protonvpn.com/">Proton VPN</a>🇨🇭 (3 𝘤𝘰𝘶𝘯𝘵𝘳𝘪𝘦𝘴 𝘸𝘪𝘵𝘩 𝘧𝘳𝘦𝘦 𝘱𝘭𝘢𝘯) ❤
 
 • <a href="https://mullvad.net/en/">Mullvad VPN</a>🇸🇪
 
 • <a href="https://www.ivpn.net/">IVPN</a>🇬🇮
 
 
+(𝘝𝘗𝘕𝘴 𝘢𝘳𝘦 𝘯𝘰𝘵 𝘯𝘦𝘤𝘦𝘴𝘴𝘢𝘳𝘺 𝘧𝘰𝘳 𝘱𝘳𝘪𝘷𝘢𝘤𝘺,𝘺𝘰𝘶 𝘤𝘢𝘯 𝘶𝘴𝘦 𝘝𝘗𝘕 𝘵𝘰 𝘩𝘪𝘥𝘦 𝘺𝘰𝘶𝘳 𝘢𝘤𝘤𝘶𝘳𝘢𝘵𝘦 𝘭𝘰𝘤𝘢𝘵𝘪𝘰𝘯 𝘣𝘶𝘵 𝘝𝘗𝘕 𝘥𝘰𝘯𝘰𝘵 𝘨𝘪𝘷𝘦 𝘺𝘰𝘶 𝘵𝘩𝘢𝘵 𝘩𝘪𝘨𝘩 𝘭𝘷𝘭 𝘢𝘯𝘰𝘯𝘺𝘮𝘪𝘵𝘺 𝘢𝘴 𝘵𝘩𝘦𝘺 𝘢𝘥𝘷𝘦𝘳𝘵𝘪𝘴𝘪𝘯𝘨 <a href="https://youtu.be/9_b8Z2kAFyY">Learn more</a>)
+
+
+
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗠𝗲𝘀𝘀𝗮𝗴𝗶𝗻𝗴 𝗮𝗽𝗽:
 
-• <a href="https://signal.org/en/">Signal</a>🇺🇲
+• <a href="https://signal.org/en/">Signal</a>🇺🇲⭐❤
 
 
 __________________________________________
