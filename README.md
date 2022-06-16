@@ -3,7 +3,14 @@
 
 • <a href="https://play.google.com/store/apps/details?id=com.brave.browser">Brave</a>🇺🇲
                   
-• <a href="https://www.mozilla.org/en-GB/firefox/new/">Firefox</a>🇺🇲 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘍𝘖𝘚𝘚 𝘷𝘦𝘳𝘴𝘪𝘰𝘯𝘴
+• <a href="https://www.mozilla.org/en-GB/firefox/new/">Firefox</a>🇺🇲 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘍𝘖𝘚𝘚 𝘷𝘦𝘳𝘴𝘪𝘰𝘯𝘴 eg.<a href="https://www.f-droid.org/packages/org.mozilla.fennec_fdroid/">Fennec </a>
+
+(𝘛𝘰 𝘶𝘴𝘦 𝘍𝘪𝘳𝘦𝘧𝘰𝘹 ,𝘺𝘰𝘶 𝘩𝘢𝘷𝘦 𝘵𝘰 𝘮𝘢𝘬𝘦 𝘮𝘢𝘯𝘺 𝘤𝘩𝘢𝘯𝘨𝘦𝘴 𝘢𝘯𝘥 𝘢𝘥𝘥 𝘴𝘰𝘮𝘦 𝘢𝘥𝘰𝘯𝘴 𝘵𝘰 𝘺𝘰𝘶𝘳 𝘣𝘳𝘰𝘸𝘴𝘦𝘳. <a href="https://chrisx.xyz/blog/yet-another-firefox-hardening-guide/">Learn how to make Firefox more privacy friendly </a> )
+
+• <a href="https://www.bromite.org/">Bromite</a>🌍
+
+
+
 
 _________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗦𝗲𝗮𝗿𝗰𝗵 𝗘𝗻𝗴𝗶𝗻𝗲:
@@ -17,6 +24,10 @@ _________________________________________
 • <a href="https://www.startpage.com/">Stratpage</a>🇳🇱 (𝘕𝘰𝘵 𝘢𝘷𝘢𝘪𝘭𝘢𝘣𝘭𝘦 𝘸𝘰𝘳𝘭𝘥𝘸𝘪𝘥𝘦)
 
 
+• <a href="https://searx.space/#">SearX</a>🌍
+
+
+
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗘𝗺𝗮𝗶𝗹 𝗽𝗿𝗼𝘃𝗶𝗱𝗲𝗿:
@@ -26,10 +37,11 @@ __________________________________________
 • <a href="https://tutanota.com/">Tutanota </a>🇩🇪  
 
 
+
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗘𝗺𝗮𝗶𝗹 𝗖𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:
 
-• <a href="https://email.faircode.eu/">FairMail</a>🇳🇱
+• <a href="https://email.faircode.eu/">FairEmail</a>🇳🇱
 
 • <a href="https://k9mail.app/">K9Mail</a>🇺🇲
 
@@ -42,12 +54,6 @@ __________________________________________
 • <a href="https://mullvad.net/en/">Mullvad VPN</a>🇸🇪
 
 • <a href="https://www.ivpn.net/">IVPN</a>🇬🇮
-
-
-__________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:(𝘢𝘥-𝘧𝘳𝘦𝘦)
-
-• <a href="https://newpipe.net/">Newpipe</a>🌍
 
 
 __________________________________________
@@ -70,6 +76,9 @@ __________________________________________
 • <a href="https://www.quad9.net/">Quad9</a>🇨🇭
 
 • <a href="https://adguard-dns.io/en/welcome.html">Adguard DNS</a>🇨🇾  
+
+<a href="https://www.online-tech-tips.com/computer-tips/what-is-private-dns-and-how-to-use-it/">Learn to setup Private DNS</a>
+
 
 
 __________________________________________
@@ -204,6 +213,14 @@ __________________________________________
 
 • <a href="https://www.f-droid.org/packages/com.amaze.filemanager/">Amaze File Manager </a>🇮🇳
 
+
+
+
+
+__________________________________________
+☆ 𝗕𝗲𝘀𝘁 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:(𝘢𝘥-𝘧𝘳𝘦𝘦)
+
+• <a href="https://newpipe.net/">Newpipe</a>🌍
 
 
 
