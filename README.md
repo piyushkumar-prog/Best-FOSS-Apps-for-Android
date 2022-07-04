@@ -10,7 +10,7 @@ __________________________
 
 • <a href="https://play.google.com/store/apps/details?id=com.brave.browser">Brave</a>🇺🇲 ⭐❤
                   
-• <a href="https://www.mozilla.org/en-GB/firefox/new/">Firefox</a>🇺🇲 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘍𝘖𝘚𝘚 𝘷𝘦𝘳𝘴𝘪𝘰𝘯𝘴 eg.<a href="https://www.f-droid.org/packages/org.mozilla.fennec_fdroid/">Fennec </a> ⭐(𝘐𝘧 𝘺𝘰𝘶 𝘢𝘳𝘦 𝘛𝘦𝘤𝘩 𝘴𝘢𝘷𝘺 𝘢𝘯𝘥 𝘩𝘢𝘷𝘦 𝘵𝘪𝘮𝘦 𝘵𝘰 𝘴𝘦𝘵𝘶𝘱)
+• <a href="https://www.mozilla.org/en-GB/firefox/new/">Firefox</a>🇺🇲 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘍𝘖𝘚𝘚 𝘷𝘦𝘳𝘴𝘪𝘰𝘯𝘴 eg.<a href="https://www.f-droid.org/packages/org.mozilla.fennec_fdroid/">Fennec </a> , <a href="https://f-droid.org/packages/us.spotco.fennec_dos/">Mull</a> ⭐(𝘐𝘧 𝘺𝘰𝘶 𝘢𝘳𝘦 𝘛𝘦𝘤𝘩 𝘴𝘢𝘷𝘺 𝘢𝘯𝘥 𝘩𝘢𝘷𝘦 𝘵𝘪𝘮𝘦 𝘵𝘰 𝘴𝘦𝘵𝘶𝘱)
 
 
 (𝘛𝘰 𝘶𝘴𝘦 𝘍𝘪𝘳𝘦𝘧𝘰𝘹 ,𝘺𝘰𝘶 𝘩𝘢𝘷𝘦 𝘵𝘰 𝘮𝘢𝘬𝘦 𝘮𝘢𝘯𝘺 𝘤𝘩𝘢𝘯𝘨𝘦𝘴 𝘢𝘯𝘥 𝘢𝘥𝘥 𝘴𝘰𝘮𝘦 𝘢𝘥𝘰𝘯𝘴 𝘵𝘰 𝘺𝘰𝘶𝘳 𝘣𝘳𝘰𝘸𝘴𝘦𝘳. <a href="https://chrisx.xyz/blog/yet-another-firefox-hardening-guide/">Learn how to make Firefox more privacy friendly </a> )
@@ -218,10 +218,10 @@ __________________________________________
 
 𝘖𝘧𝘧𝘭𝘪𝘯𝘦:
 
-• <a href="https://retromusic.app/">Retro Music Player</a> ( 𝘔𝘪𝘯𝘪𝘮𝘢𝘭𝘪𝘴𝘵𝘪𝘤 𝘪𝘯𝘵𝘦𝘳𝘧𝘢𝘤𝘦 )
+• <a href="https://retromusic.app/">Retro Music Player</a>🇮🇳 ( 𝘔𝘪𝘯𝘪𝘮𝘢𝘭𝘪𝘴𝘵𝘪𝘤 𝘪𝘯𝘵𝘦𝘳𝘧𝘢𝘤𝘦 )
 
 
-• <a href="https://www.f-droid.org/packages/org.videolan.vlc/">VLC</a> ⭐❤
+• <a href="https://www.f-droid.org/packages/org.videolan.vlc/">VLC</a>🇫🇷 ⭐❤
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗽𝗼𝗱𝗰𝗮𝘀𝘁 𝗮𝗽𝗽:
@@ -234,7 +234,7 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗩𝗶𝗱𝗲𝗼 𝗣𝗹𝗮𝘆𝗲𝗿:
 
-• <a href="https://www.f-droid.org/packages/org.videolan.vlc/">VLC</a> ⭐❤
+• <a href="https://www.f-droid.org/packages/org.videolan.vlc/">VLC</a>🇫🇷 ⭐❤
 
 
 __________________________________________
