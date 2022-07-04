@@ -209,7 +209,7 @@ ________________________________________________________________________________
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗠𝘂𝘀𝗶𝗰 𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗔𝗽𝗽:
+☆ 𝗕𝗲𝘀𝘁 𝗠𝘂𝘀𝗶𝗰 𝗔𝗽𝗽:
 
 𝘖𝘯𝘭𝘪𝘯𝘦:
 
@@ -218,9 +218,10 @@ __________________________________________
 
 𝘖𝘧𝘧𝘭𝘪𝘯𝘦:
 
-• <a href="https://retromusic.app/">Retro Music Player</a>
+• <a href="https://retromusic.app/">Retro Music Player</a> ( 𝘔𝘪𝘯𝘪𝘮𝘢𝘭𝘪𝘴𝘵𝘪𝘤 𝘪𝘯𝘵𝘦𝘳𝘧𝘢𝘤𝘦 )
 
 
+• <a href="https://www.f-droid.org/packages/org.videolan.vlc/">VLC</a> ⭐❤
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗽𝗼𝗱𝗰𝗮𝘀𝘁 𝗮𝗽𝗽:
@@ -231,9 +232,15 @@ __________________________________________
 
 
 __________________________________________
+☆ 𝗕𝗲𝘀𝘁 𝗩𝗶𝗱𝗲𝗼 𝗣𝗹𝗮𝘆𝗲𝗿:
+
+• <a href="https://www.f-droid.org/packages/org.videolan.vlc/">VLC</a> ⭐❤
+
+
+__________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗮𝗽𝗽 𝘁𝗼 𝗺𝘂𝘁𝗲 𝗦𝗽𝗼𝘁𝗶𝗳𝘆 𝗮𝗱𝘀:
 
-• <a href="https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify">Mutify</a>🇮🇳 ⭐❤ (𝘐𝘧 𝘺𝘰𝘶 𝘭𝘪𝘬𝘦 𝘚𝘱𝘰𝘵𝘪𝘧𝘺 𝘫𝘶𝘴𝘵 𝘭𝘪𝘬𝘦 𝘮𝘦,𝘴𝘰 𝘫𝘶𝘴𝘵 𝘮𝘶𝘵𝘦 𝘢𝘥𝘴😌🎧)
+• <a href="https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify">Mutify</a>🇮🇳 ⭐❤ (𝘐𝘧 𝘺𝘰𝘶 𝘭𝘪𝘬𝘦 𝘚𝘱𝘰𝘵𝘪𝘧𝘺,𝘴𝘰 𝘫𝘶𝘴𝘵 𝘮𝘶𝘵𝘦 𝘢𝘥𝘴🎧)
 
 
 
