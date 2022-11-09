@@ -172,16 +172,16 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗙𝗶𝗿𝗲𝘄𝗮𝗹𝗹:
 
-• <a href="https://github.com/celzero/rethink-app">Rethink: DNS + Firewall</a>⭐❤️
+• <a href="https://github.com/celzero/rethink-app">Rethink: DNS + Firewall</a>🌍⭐❤️
 
-• <a href="https://github.com/TrackerControl/tracker-control-android">TrackerControl</a>
+• <a href="https://github.com/TrackerControl/tracker-control-android">TrackerControl</a>🇬🇧
 
-• <a href="https://github.com/M66B/NetGuard">NetGuard</a>
+• <a href="https://github.com/M66B/NetGuard">NetGuard</a>🇳🇱
 
 
 
 __________________________________________
->𝗕𝗲𝘀𝘁 𝗞𝗲𝘆𝗯𝗼𝗮𝗿𝗱:
+☆𝗕𝗲𝘀𝘁 𝗞𝗲𝘆𝗯𝗼𝗮𝗿𝗱:
 
 • [OpenBoard](https://github.com/openboard-team/openboard)🌍⭐❤️
 
