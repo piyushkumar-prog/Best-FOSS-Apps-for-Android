@@ -24,7 +24,7 @@ __________________________
 _________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗦𝗲𝗮𝗿𝗰𝗵 𝗘𝗻𝗴𝗶𝗻𝗲:
 
-• <a href="https://search.brave.com/">Brave Search</a>🇺🇲 (𝘉𝘦𝘵𝘢) ⭐❤
+• <a href="https://search.brave.com/">Brave Search</a>🇺🇲 ⭐❤
 
 
 • <a href="https://duckduckgo.com/">DuckDuckGo</a>🇺🇲 ⭐
@@ -213,7 +213,9 @@ __________________________________________
 
 𝘖𝘯𝘭𝘪𝘯𝘦:
 
-• <a href="https://f-droid.org/en/packages/com.shadow.blackhole/">BlackHole</a>🇮🇳 ⭐❤ (ᵢf yₒᵤ ₐᵣₑ ₘᵤₛᵢc🎶 ₗₒᵥₑᵣ)
+• <a href="https://github.com/vfsfitvnm/ViMusic">ViMusic</a> ❤️
+
+• <a href="https://f-droid.org/en/packages/com.shadow.blackhole/">BlackHole</a> 🇮🇳
 
 
 𝘖𝘧𝘧𝘭𝘪𝘯𝘦:
