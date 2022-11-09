@@ -80,12 +80,18 @@ __________________________________________
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗠𝗲𝘀𝘀𝗮𝗴𝗶𝗻𝗴 𝗮𝗽𝗽:
+☆ 𝗕𝗲𝘀𝘁 𝙄𝙣𝙨𝙩𝙖𝙣𝙩 𝗠𝗲𝘀𝘀𝗮𝗴𝗶𝗻𝗴 𝗮𝗽𝗽(𝘖𝘯𝘭𝘪𝘯𝘦):
 
 • <a href="https://signal.org/en/">Signal</a>🇺🇲⭐❤
 
 
-(𝘠𝘰𝘶 𝘤𝘢𝘯 𝘢𝘭𝘴𝘰 𝘶𝘴𝘦 𝘴𝘪𝘨𝘯𝘢𝘭 𝘢𝘴 𝘥𝘦𝘧𝘢𝘶𝘭𝘵 𝘮𝘦𝘴𝘴𝘢𝘨𝘪𝘯𝘨 𝘢𝘱𝘱,𝘪 𝘳𝘦𝘤𝘰𝘮𝘮𝘦𝘯𝘥 𝘵𝘰 𝘶𝘴𝘦 𝘚𝘪𝘨𝘯𝘢𝘭 𝘧𝘰𝘳 𝘣𝘰𝘵𝘩 𝘖𝘯𝘭𝘪𝘯𝘦 𝘢𝘯𝘥 𝘰𝘧𝘧𝘭𝘪𝘯𝘦 𝘤𝘰𝘯𝘷𝘦𝘳𝘴𝘢𝘵𝘪𝘰𝘯𝘴)
+
+__________________________________________
+☆ 𝗕𝗲𝘀𝘁 𝘿𝙚𝙛𝙖𝙪𝙡𝙩 𝗠𝗲𝘀𝘀𝗮𝗴𝗶𝗻𝗴 𝗮𝗽𝗽(𝘖𝘧𝘧𝘭𝘪𝘯𝘦):
+
+• <a href="https://github.com/SimpleMobileTools/Simple-SMS-Messenger">Simple SMS Messenger</a> ⭐❤️
+
+
 
 
 __________________________________________
@@ -164,6 +170,20 @@ __________________________________________
 
 
 __________________________________________
+☆ 𝗕𝗲𝘀𝘁 𝗙𝗶𝗿𝗲𝘄𝗮𝗹𝗹:
+
+• <a href="https://github.com/celzero/rethink-app">Rethink: DNS + Firewall</a>⭐❤️
+
+• <a href="https://github.com/TrackerControl/tracker-control-android">TrackerControl</a>
+
+• <a href="https://github.com/M66B/NetGuard">NetGuard</a>
+
+
+
+
+
+
+__________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗣𝗹𝗮𝘆𝘀𝘁𝗼𝗿𝗲 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:
 
 • <a href="https://f-droid.org/packages/com.aurora.store/">Aurora Store</a>🇮🇳 
@@ -213,7 +233,7 @@ __________________________________________
 
 𝘖𝘯𝘭𝘪𝘯𝘦:
 
-• <a href="https://github.com/vfsfitvnm/ViMusic">ViMusic</a> ❤️
+• <a href="https://github.com/vfsfitvnm/ViMusic">ViMusic</a> 🌍❤️
 
 • <a href="https://f-droid.org/en/packages/com.shadow.blackhole/">BlackHole</a> 🇮🇳
 
@@ -223,7 +243,7 @@ __________________________________________
 • <a href="https://retromusic.app/">Retro Music Player</a>🇮🇳 ( 𝘔𝘪𝘯𝘪𝘮𝘢𝘭𝘪𝘴𝘵𝘪𝘤 𝘪𝘯𝘵𝘦𝘳𝘧𝘢𝘤𝘦 )
 
 
-• <a href="https://www.f-droid.org/packages/org.videolan.vlc/">VLC</a>🇫🇷 ⭐❤
+• <a href="https://www.f-droid.org/packages/org.videolan.vlc/">VLC</a>🇫🇷
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗽𝗼𝗱𝗰𝗮𝘀𝘁 𝗮𝗽𝗽:
@@ -236,7 +256,10 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗩𝗶𝗱𝗲𝗼 𝗣𝗹𝗮𝘆𝗲𝗿:
 
-• <a href="https://www.f-droid.org/packages/org.videolan.vlc/">VLC</a>🇫🇷 ⭐❤
+• <a href="https://github.com/moneytoo/Player">Just (video) Player</a>🌍 ⭐❤️
+
+
+• <a href="https://www.f-droid.org/packages/org.videolan.vlc/">VLC</a>🇫🇷
 
 
 __________________________________________
