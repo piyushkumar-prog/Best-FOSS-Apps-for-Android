@@ -84,6 +84,9 @@ __________________________________________
 
 • <a href="https://signal.org/en/">Signal</a>🇺🇲⭐❤
 
+• [Session](https://github.com/oxen-io/session-android)🌍 (𝘞𝘪𝘵𝘩𝘰𝘶𝘵 𝘱𝘩𝘰𝘯𝘦 𝘯𝘶𝘮𝘣𝘦𝘳)
+
+• [Element](https://www.f-droid.org/packages/im.vector.app/)🌍 ( [𝘔𝘢𝘵𝘳𝘪𝘹](https://matrix.org/) 𝘊𝘭𝘪𝘦𝘯𝘵)
 
 
 __________________________________________
@@ -91,6 +94,7 @@ __________________________________________
 
 • <a href="https://github.com/SimpleMobileTools/Simple-SMS-Messenger">Simple SMS Messenger</a> ⭐❤️
 
+• [QKSMS](https://www.f-droid.org/packages/com.moez.QKSMS/)🇨🇦
 
 
 
@@ -277,6 +281,7 @@ __________________________________________
 
 • <a href="https://www.f-droid.org/packages/org.videolan.vlc/">VLC</a>🇫🇷
 
+• [MPV](https://github.com/mpv-android/mpv-android)🌍
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗮𝗽𝗽 𝘁𝗼 𝗺𝘂𝘁𝗲 𝗦𝗽𝗼𝘁𝗶𝗳𝘆 𝗮𝗱𝘀:
@@ -292,6 +297,7 @@ __________________________________________
 
 • <a href="https://www.f-droid.org/packages/com.foobnix.pro.pdf.reader/">Librera PRO</a>🇺🇦 ⭐❤ (𝘚𝘶𝘱𝘱𝘰𝘳𝘵𝘴 𝘢𝘭𝘮𝘰𝘴𝘵 𝘢𝘭𝘭 𝘧𝘰𝘳𝘮𝘢𝘵𝘴)
 
+• [MJ PDF Reader](https://apt.izzysoft.de/fdroid/repo/com.gitlab.mudlej.MjPdfReader_44.apk) (𝘋𝘢𝘳𝘬 𝘮𝘰𝘥𝘦 𝘢𝘷𝘢𝘪𝘭𝘢𝘣𝘭𝘦)
 
 
 
@@ -308,6 +314,8 @@ __________________________________________
 
 • <a href="https://www.f-droid.org/packages/com.amaze.filemanager/">Amaze File Manager </a>🇮🇳
 
+• [Material Files](https://www.f-droid.org/packages/me.zhanghai.android.files/)🇺🇲
+
 ❌𝘋𝘰𝘯𝘰𝘵 𝘶𝘴𝘦 𝘍𝘪𝘭𝘦𝘴 𝘣𝘺 𝘎𝘰𝘰𝘨𝘭𝘦
 
 
@@ -316,6 +324,7 @@ __________________________________________
 
 • <a href="https://newpipe.net/">Newpipe</a>🌍 ⭐❤ 
 
+• [LibreTube](https://github.com/libre-tube/LibreTube)🌍 (𝘈𝘥𝘴+𝘴𝘱𝘰𝘯𝘴𝘰𝘳 𝘉𝘭𝘰𝘤𝘬)
 
 
 __________________________________________
@@ -353,6 +362,13 @@ __________________________________________
 
 
 __________________________________________
+☆𝘽𝙚𝙨𝙩 𝙃𝙚𝙖𝙡𝙩𝙝 𝘼𝙥𝙥:
+
+• [Loop Habit Tracker](https://f-droid.org/repo/org.isoron.uhabits_20101.apk)🇺🇲
+
+
+
+
 
 🟢𝙰𝚍𝚍𝚒𝚗𝚐 𝚖𝚘𝚛𝚎 𝚟𝚎𝚛𝚢 𝚜𝚘𝚘𝚗........
 
