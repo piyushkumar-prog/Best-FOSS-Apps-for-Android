@@ -8,17 +8,23 @@ __________________________
 
 ☆ 𝗕𝗲𝘀𝘁 𝗕𝗿𝗼𝘄𝘀𝗲𝗿𝘀:
 
-• <a href="https://play.google.com/store/apps/details?id=com.brave.browser">Brave</a>🇺🇲 ⭐❤
-                  
-• <a href="https://www.mozilla.org/en-GB/firefox/new/">Firefox</a>🇺🇲 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘍𝘖𝘚𝘚 𝘷𝘦𝘳𝘴𝘪𝘰𝘯𝘴 eg.<a href="https://www.f-droid.org/packages/org.mozilla.fennec_fdroid/">Fennec </a> , <a href="https://f-droid.org/packages/us.spotco.fennec_dos/">Mull</a> ⭐❤️(𝘐𝘧 𝘺𝘰𝘶 𝘢𝘳𝘦 𝘛𝘦𝘤𝘩 𝘴𝘢𝘷𝘺 𝘢𝘯𝘥 𝘩𝘢𝘷𝘦 𝘵𝘪𝘮𝘦 𝘵𝘰 𝘴𝘦𝘵𝘶𝘱)
+• <a href="https://play.google.com/store/apps/details?id=com.brave.browser">Brave</a>🇺🇲 ⭐❤ ([𝙃𝙤𝙬 𝙩𝙤 𝙝𝙖𝙧𝙙𝙚𝙣 𝘽𝙧𝙖𝙫𝙚 𝘽𝙧𝙤𝙬𝙨𝙚𝙧](https://github.com/Finalboss77/Hardening-Brave-Browser) )
+   
+(𝘏𝘢𝘳𝘥𝘦𝘯 𝘉𝘳𝘢𝘷𝘦 𝘉𝘳𝘰𝘸𝘴𝘦𝘳 𝘣𝘦𝘧𝘰𝘳𝘦 𝘶𝘴𝘪𝘯𝘨 𝘪𝘵)
 
+
+
+               
+• <a href="https://www.mozilla.org/en-GB/firefox/new/">Firefox</a>🇺🇲 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘍𝘖𝘚𝘚 𝘷𝘦𝘳𝘴𝘪𝘰𝘯𝘴 eg.<a href="https://www.f-droid.org/packages/org.mozilla.fennec_fdroid/">Fennec </a> , <a href="https://f-droid.org/packages/us.spotco.fennec_dos/">Mull</a> ⭐❤️
 
 (𝘛𝘰 𝘶𝘴𝘦 𝘍𝘪𝘳𝘦𝘧𝘰𝘹 ,𝘺𝘰𝘶 𝘩𝘢𝘷𝘦 𝘵𝘰 𝘮𝘢𝘬𝘦 𝘮𝘢𝘯𝘺 𝘤𝘩𝘢𝘯𝘨𝘦𝘴 𝘢𝘯𝘥 𝘢𝘥𝘥 𝘴𝘰𝘮𝘦 𝘢𝘥𝘰𝘯𝘴 𝘵𝘰 𝘺𝘰𝘶𝘳 𝘣𝘳𝘰𝘸𝘴𝘦𝘳. <a href="https://chrisx.xyz/blog/yet-another-firefox-hardening-guide/">Learn how to make Firefox more privacy friendly </a> )
 
-• <a href="https://www.bromite.org/">Bromite</a>🌍 ⭐(𝘐𝘧 𝘺𝘰𝘶 𝘸𝘢𝘯𝘵 𝘊𝘩𝘳𝘰𝘮𝘦 𝘪𝘯𝘵𝘦𝘳𝘧𝘢𝘤𝘦 𝘢𝘯𝘥 𝘩𝘢𝘷𝘦 𝘦𝘯𝘰𝘶𝘨𝘩 𝘴𝘱𝘢𝘤𝘦 𝘰𝘧 𝘱𝘩𝘰𝘯𝘦)
+• <a href="https://www.bromite.org/">Bromite</a>🌍 ⭐
+
+(𝘐𝘧 𝘺𝘰𝘶 𝘸𝘢𝘯𝘵 𝘊𝘩𝘳𝘰𝘮𝘦 𝘪𝘯𝘵𝘦𝘳𝘧𝘢𝘤𝘦 𝘢𝘯𝘥 𝘺𝘰𝘶 𝘮𝘢𝘺 𝘭𝘪𝘬𝘦 𝘉𝘳𝘰𝘮𝘪𝘵𝘦)
 
 
-🚫𝙋𝙡𝙚𝙖𝙨𝙚 𝙙𝙤𝙣𝙤𝙩 𝙪𝙨𝙚 𝘾𝙝𝙧𝙤𝙢𝙚 𝙖𝙣𝙙 𝙖𝙡𝙨𝙤 ✅ 𝙡𝙚𝙩 𝙮𝙤𝙪𝙧 𝙛𝙖𝙢𝙞𝙡𝙮 & 𝙛𝙧𝙞𝙚𝙣𝙙𝙨 𝙠𝙣𝙤𝙬 𝙩𝙝𝙖𝙩 𝙩𝙝𝙚𝙧𝙚 𝙖𝙧𝙚 𝙢𝙖𝙣𝙮 𝙜𝙤𝙤𝙙 𝙖𝙡𝙩𝙚𝙧𝙣𝙖𝙩𝙞𝙫𝙚,𝙞 𝙧𝙚𝙘𝙤𝙢𝙢𝙖𝙣𝙙 𝙮𝙤𝙪 𝙩𝙤 𝙡𝙚𝙩 𝙩𝙝𝙚𝙢 𝙩𝙧𝙮 𝘽𝙧𝙤𝙢𝙞𝙩𝙚 𝙖𝙨 𝙞𝙩𝙨 𝙡𝙤𝙤𝙠𝙨 𝙡𝙞𝙠𝙚 𝙘𝙝𝙧𝙤𝙢𝙚
+🚫𝙋𝙡𝙚𝙖𝙨𝙚 𝙙𝙤𝙣𝙤𝙩 𝙪𝙨𝙚 𝘾𝙝𝙧𝙤𝙢𝙚 𝙖𝙣𝙙 𝙖𝙡𝙨𝙤 ✅ 𝙡𝙚𝙩 𝙮𝙤𝙪𝙧 𝙛𝙖𝙢𝙞𝙡𝙮 & 𝙛𝙧𝙞𝙚𝙣𝙙𝙨 𝙠𝙣𝙤𝙬 𝙩𝙝𝙖𝙩 𝙩𝙝𝙚𝙧𝙚 𝙖𝙧𝙚 𝙢𝙖𝙣𝙮 𝙜𝙤𝙤𝙙 𝙖𝙡𝙩𝙚𝙧𝙣𝙖𝙩𝙞𝙫𝙚𝙨,𝙞 𝙧𝙚𝙘𝙤𝙢𝙢𝙖𝙣𝙙 𝙮𝙤𝙪 𝙩𝙤 𝙡𝙚𝙩 𝙩𝙝𝙚𝙢 𝙩𝙧𝙮 𝘽𝙧𝙤𝙢𝙞𝙩𝙚 𝙖𝙨 𝙞𝙩 𝙡𝙤𝙤𝙠𝙨 𝙡𝙞𝙠𝙚 𝙘𝙝𝙧𝙤𝙢𝙚
 
 
 _________________________________________
