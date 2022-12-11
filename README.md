@@ -1,6 +1,8 @@
 # Best-foss-apps-for-privacy-&-security-
 
 ________________________
+[👑 - Privacy Community Fav]
+
 [⭐ - Highly Recommended]
 
 [❤ - My personal Fav]
@@ -16,7 +18,7 @@ __________________________
 
                
 • <img src="https://user-images.githubusercontent.com/104879897/206898853-4de2afcb-dfe0-434b-8aff-945cf2895a0d.png" width="20" height="20"/> <a href="https://www.mozilla.org/en-GB/firefox/new/">Firefox</a>🇺🇲 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘍𝘖𝘚𝘚 𝘷𝘦𝘳𝘴𝘪𝘰𝘯𝘴 eg.<a href="https://www.f-droid.org/packages/org.mozilla.fennec_fdroid/">Fennec </a> , <a href="https://f-droid.org/packages/us.spotco.fennec_dos/">Mull</a> ⭐❤️
-
+👑
 (𝘛𝘰 𝘶𝘴𝘦 𝘍𝘪𝘳𝘦𝘧𝘰𝘹 ,𝘺𝘰𝘶 𝘩𝘢𝘷𝘦 𝘵𝘰 𝘮𝘢𝘬𝘦 𝘮𝘢𝘯𝘺 𝘤𝘩𝘢𝘯𝘨𝘦𝘴 𝘢𝘯𝘥 𝘢𝘥𝘥 𝘴𝘰𝘮𝘦 𝘢𝘥𝘰𝘯𝘴 𝘵𝘰 𝘺𝘰𝘶𝘳 𝘣𝘳𝘰𝘸𝘴𝘦𝘳. <a href="https://chrisx.xyz/blog/yet-another-firefox-hardening-guide/">Learn how to make Firefox more privacy friendly </a> )
 
 •<img src="https://www.bromite.org/bromite.png" width="20" height="20"/><a href="https://www.bromite.org/">Bromite</a>🌍 ⭐
@@ -33,7 +35,7 @@ _________________________________________
 • <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/brave_browser_logo_icon_153013.png" width="20" height="20"/> <a href="https://search.brave.com/">Brave Search</a>🇺🇲 ⭐❤
 
 
-• <img src="https://logodix.com/logo/48248.png" width="20" height="20"/> <a href="https://duckduckgo.com/">DuckDuckGo</a>🇺🇲 ⭐
+• <img src="https://logodix.com/logo/48248.png" width="20" height="20"/> <a href="https://duckduckgo.com/">DuckDuckGo</a>🇺🇲 ❤️⭐👑
 
 
 • <img src="https://www.startpage.com/startpageblog/wp-content/uploads/2021/05/linkedin-profile-image.png" width="20" height="20"/> <a href="https://www.startpage.com/">Startpage</a>🇳🇱
@@ -53,7 +55,7 @@ _________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗘𝗺𝗮𝗶𝗹 𝗽𝗿𝗼𝘃𝗶𝗱𝗲𝗿<img src="https://cdn-icons-png.flaticon.com/512/3062/3062634.png" width="20" height="20"/>:
 
-• <img src="https://proton.me/static/proton-mail-badge-0e258be9edc6287a49fd01558c106073.svg" width="20" height="20"/> <a href="https://account.proton.me/signup">Proton Mail</a>🇨🇭 ⭐❤
+• <img src="https://proton.me/static/proton-mail-badge-0e258be9edc6287a49fd01558c106073.svg" width="20" height="20"/> <a href="https://account.proton.me/signup">Proton Mail</a>🇨🇭 ⭐❤👑
 
 • <img src="https://image.winudf.com/v2/image/ZGUudHV0YW8udHV0YW5vdGFfaWNvbl8xNTI4MTIyNzk1XzAwMw/icon.png?w=170&fakeurl=1&type=.png" width="20" height="20"/><a href="https://tutanota.com/">Tutanota </a>🇩🇪  
 
@@ -62,9 +64,9 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗘𝗺𝗮𝗶𝗹 𝗖𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/911/911993.png" width="20" height="20"/>:
 
-• <img src="https://apk-s.io/wp-content/uploads/fairemail-android-logo.png" width="20" height="20"/><a href="https://email.faircode.eu/">FairEmail</a>🇳🇱 ⭐❤
+• <img src="https://apk-s.io/wp-content/uploads/fairemail-android-logo.png" width="20" height="20"/><a href="https://email.faircode.eu/">FairEmail</a>🇳🇱 ⭐❤👑
 
-• <img src="https://cdn.pngsumo.com/releases-k9mail-k-9-github-k9-mail-png-400_400.jpg" width="20" height="20"/><a href="https://k9mail.app/">K9Mail</a>🇺🇲 ⭐❤
+• <img src="https://cdn.pngsumo.com/releases-k9mail-k-9-github-k9-mail-png-400_400.jpg" width="20" height="20"/><a href="https://k9mail.app/">K9Mail</a>🇺🇲 ⭐❤👑
 
 
 (𝘐 𝘭𝘪𝘬𝘦 𝘣𝘰𝘵𝘩 𝘢𝘱𝘱𝘴,𝘪𝘵𝘴 𝘶𝘱 𝘵𝘰 𝘺𝘰𝘶 𝘸𝘩𝘪𝘤𝘩 𝘰𝘯𝘦'𝘴 𝘪𝘯𝘵𝘦𝘳𝘧𝘢𝘤𝘦 𝘢𝘯𝘥 𝘧𝘦𝘢𝘵𝘶𝘳𝘦𝘴 𝘺𝘰𝘶 𝘭𝘪𝘬𝘦)
@@ -88,7 +90,7 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝙄𝙣𝙨𝙩𝙖𝙣𝙩 𝗠𝗲𝘀𝘀𝗮𝗴𝗶𝗻𝗴 𝗮𝗽𝗽(𝘖𝘯𝘭𝘪𝘯𝘦)<img src="https://cdn-icons-png.flaticon.com/512/2190/2190552.png" width="20" height="20"/>:
 
-• <img src="https://idroot.us/wp-content/uploads/2021/01/Signal-messenger-300x300.png" width="20" height="20"/><a href="https://signal.org/en/">Signal</a>🇺🇲⭐❤
+• <img src="https://idroot.us/wp-content/uploads/2021/01/Signal-messenger-300x300.png" width="20" height="20"/><a href="https://signal.org/en/">Signal</a>🇺🇲⭐❤👑
 
 • <img src="https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fdownloadr2.apkmirror.com%2Fwp-content%2Fuploads%2F2020%2F09%2F99%2F5f5d3ef6ee0ae.png" width="20" height="20"/>[Session](https://github.com/oxen-io/session-android)🌍 (𝘞𝘪𝘵𝘩𝘰𝘶𝘵 𝘱𝘩𝘰𝘯𝘦 𝘯𝘶𝘮𝘣𝘦𝘳)
 
@@ -98,7 +100,7 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝘿𝙚𝙛𝙖𝙪𝙡𝙩 𝗠𝗲𝘀𝘀𝗮𝗴𝗶𝗻𝗴 𝗮𝗽𝗽(𝘖𝘧𝘧𝘭𝘪𝘯𝘦)<img src="https://cdn-icons-png.flaticon.com/512/4457/4457168.png" width="20" height="20"/>:
 
-• <img src="https://vectorified.com/images/text-message-icon-android-26.png" width="20" height="20"/><a href="https://github.com/SimpleMobileTools/Simple-SMS-Messenger">Simple SMS Messenger</a> ⭐❤️
+• <img src="https://vectorified.com/images/text-message-icon-android-26.png" width="20" height="20"/><a href="https://github.com/SimpleMobileTools/Simple-SMS-Messenger">Simple SMS Messenger</a> ⭐❤️👑
 
 • <img src="https://1.bp.blogspot.com/-Ho5SZvgSkuM/WtSrEcql5NI/AAAAAAAAEyE/gUofW97uH0kwRx6bzM1zZibw0Gbtb_QsQCK4BGAYYCw/s400/qk-sms.png" width="20" height="20"/>[QKSMS](https://www.f-droid.org/packages/com.moez.QKSMS/)🇨🇦
 
@@ -109,7 +111,7 @@ __________________________________________
 
 𝘾𝙪𝙨𝙩𝙤𝙢𝙞𝙯𝙖𝙗𝙡𝙚 : 
 
-• <img src="https://avatars3.githubusercontent.com/u/48380765?s=200&v=4" width="20" height="20"/><a href="https://nextdns.io/">Nextdns</a>🇺🇲 (𝘈𝘥 & 𝘛𝘳𝘢𝘤𝘬𝘦𝘳 𝘣𝘭𝘰𝘤𝘬𝘦𝘳 + 𝘗𝘢𝘳𝘦𝘯𝘵𝘢𝘭 𝘤𝘰𝘯𝘵𝘳𝘰𝘭) ⭐❤
+• <img src="https://avatars3.githubusercontent.com/u/48380765?s=200&v=4" width="20" height="20"/><a href="https://nextdns.io/">Nextdns</a>🇺🇲 (𝘈𝘥 & 𝘛𝘳𝘢𝘤𝘬𝘦𝘳 𝘣𝘭𝘰𝘤𝘬𝘦𝘳 + 𝘗𝘢𝘳𝘦𝘯𝘵𝘢𝘭 𝘤𝘰𝘯𝘵𝘳𝘰𝘭) ⭐❤👑
 
 ❌𝘋𝘰𝘯𝘰𝘵 𝘶𝘴𝘦 𝘗𝘢𝘳𝘦𝘯𝘵𝘢𝘭 𝘊𝘰𝘯𝘵𝘳𝘰𝘭 𝘢𝘱𝘱 𝘢𝘯𝘥 𝘯𝘰𝘯-𝘍𝘖𝘚𝘚 𝘈𝘥-𝘉𝘭𝘰𝘤𝘬𝘦𝘳
 
@@ -128,11 +130,11 @@ __________________________________________
 
 𝙊𝙣𝙡𝙞𝙣𝙚:
 
-• <img src="https://hund-client-logos.s3.amazonaws.com/uploads/square-5e81e1e910bdfb739a1300da-09c2775c-4639-47ec-9638-4a2cf546f05a.png" width="20" height="20"/><a href="https://bitwarden.com/">Bitwarden</a>🇺🇲 ⭐❤
+• <img src="https://hund-client-logos.s3.amazonaws.com/uploads/square-5e81e1e910bdfb739a1300da-09c2775c-4639-47ec-9638-4a2cf546f05a.png" width="20" height="20"/><a href="https://bitwarden.com/">Bitwarden</a>🇺🇲 ⭐❤👑
 
 𝙊𝙛𝙛𝙡𝙞𝙣𝙚:
 
-• <img src="https://framalibre.org/sites/default/files/leslogos/ic_launcher_round.png" width="20" height="20"/><a href="https://www.keepassdx.com/">KeepassDx</a>🇫🇷 ⭐❤
+• <img src="https://framalibre.org/sites/default/files/leslogos/ic_launcher_round.png" width="20" height="20"/><a href="https://www.keepassdx.com/">KeepassDx</a>🇫🇷 ⭐❤👑
 
 
 (✅ 𝘜𝘴𝘦 𝘣𝘰𝘵𝘩 𝘴𝘦𝘳𝘷𝘪𝘤𝘦𝘴 𝘧𝘰𝘳 𝘦𝘢𝘴𝘺 𝘢𝘤𝘤𝘦𝘴𝘴𝘪𝘣𝘪𝘭𝘪𝘵𝘺 𝘢𝘯𝘥 𝘴𝘦𝘤𝘶𝘳𝘦 𝘣𝘢𝘤𝘬𝘶𝘱)
@@ -143,7 +145,7 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝟮𝗙𝗔 𝗔𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰𝗮𝘁𝗼𝗿 𝗮𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/5541/5541632.png" width="20" height="20"/>:
 
-• <img src="https://www.thinkprivacy.net/assets/img/tools/aegis.png" width="20" height="20"/><a href="https://getaegis.app/">Aegis</a>🌍 ⭐❤
+• <img src="https://www.thinkprivacy.net/assets/img/tools/aegis.png" width="20" height="20"/><a href="https://getaegis.app/">Aegis</a>🌍 ⭐❤👑
 
 (𝘐 𝘳𝘦𝘤𝘰𝘮𝘮𝘦𝘯𝘥 𝘺𝘰𝘶 𝘵𝘰 𝘸𝘢𝘵𝘤𝘩 𝘴𝘰𝘮𝘦 𝘵𝘶𝘵𝘰𝘳𝘪𝘢𝘭𝘴 𝘷𝘪𝘥𝘦𝘰 𝘣𝘦𝘧𝘰𝘳𝘦 𝘦𝘯𝘢𝘣𝘭𝘪𝘯𝘨 2𝘍𝘈 ,𝘢𝘯𝘥 𝘮𝘢𝘬𝘦 𝘢 𝘱𝘭𝘢𝘯 𝘰𝘯 𝘴𝘪𝘵𝘶𝘢𝘵𝘪𝘰𝘯 𝘸𝘩𝘦𝘯 𝘺𝘰𝘶 𝘭𝘰𝘴𝘵 𝘢𝘤𝘤𝘦𝘴𝘴 𝘵𝘰 𝘺𝘰𝘶𝘳 𝘢𝘤𝘤𝘰𝘶𝘯𝘵 ,𝘧𝘳𝘰𝘮 𝘸𝘩𝘦𝘳𝘦 𝘺𝘰𝘶 𝘴𝘵𝘢𝘳𝘵 𝘢𝘯𝘥 𝘸𝘩𝘪𝘤𝘩 𝘢𝘤𝘤𝘰𝘶𝘯𝘵 𝘺𝘰𝘶 𝘳𝘦𝘤𝘰𝘷𝘦𝘳 𝘧𝘪𝘳𝘴𝘵 𝘦𝘵𝘤..)
 
@@ -158,18 +160,18 @@ __________________________________________
 
 𝙋𝙖𝙞𝙙:
 
-• <img src="https://cryptomator.org/presskit/cryptomator-logo.png" width="20" height="20"/><a href="https://cryptomator.org/">Cryptomator</a>🇩🇪
+• <img src="https://cryptomator.org/presskit/cryptomator-logo.png" width="20" height="20"/><a href="https://cryptomator.org/">Cryptomator</a>🇩🇪👑
 
 
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗖𝗹𝗼𝘂𝗱 𝘀𝗲𝗿𝘃𝗶𝗰𝗲<img src="https://cdn-icons-png.flaticon.com/512/3305/3305673.png" width="20" height="20"/>:
 
-• <img src="https://www.itopnews.de/appicons/icons.php?src=https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/61/2a/b6/612ab6fa-afc9-b7df-dab3-68923b5e006d/AppIcon-Release-External-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg&zc=3" width="20" height="20"/><a href="https://proton.me/drive">Proton Drive</a>🇨🇭 (1𝘎𝘉 𝘧𝘳𝘦𝘦 𝘴𝘵𝘰𝘳𝘢𝘨𝘦) ⭐❤
+• <img src="https://www.itopnews.de/appicons/icons.php?src=https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/61/2a/b6/612ab6fa-afc9-b7df-dab3-68923b5e006d/AppIcon-Release-External-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg&zc=3" width="20" height="20"/><a href="https://proton.me/drive">Proton Drive</a>🇨🇭 (1𝘎𝘉 𝘧𝘳𝘦𝘦 𝘴𝘵𝘰𝘳𝘢𝘨𝘦) ⭐❤👑
 
 (𝘕𝘖𝘛𝘌: 𝘸𝘩𝘦𝘯 𝘺𝘰𝘶 𝘤𝘳𝘦𝘢𝘵𝘦 𝘱𝘳𝘰𝘵𝘰𝘯 𝘢𝘤𝘤𝘰𝘶𝘯𝘵 𝘺𝘰𝘶 𝘨𝘦𝘵 500𝘔𝘉 𝘧𝘳𝘦𝘦 𝘴𝘵𝘰𝘳𝘢𝘨𝘦, 𝘣𝘶𝘵 𝘢𝘧𝘵𝘦𝘳 𝘤𝘰𝘮𝘱𝘭𝘦𝘵𝘪𝘯𝘨 𝘴𝘰𝘮𝘦 𝘵𝘢𝘴𝘬 𝘨𝘪𝘷𝘦𝘯 𝘣𝘺 𝘱𝘳𝘰𝘵𝘰𝘯 𝘥𝘳𝘪𝘷𝘦 𝘺𝘰𝘶 𝘸𝘪𝘭𝘭 𝘨𝘦𝘵 𝘮𝘰𝘳𝘦 500𝘔𝘣 𝘧𝘳𝘦𝘦 𝘴𝘵𝘰𝘳𝘢𝘨𝘦)
 
-• <img src="https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/nextcloud-icon.png" width="20" height="20"/><a href="https://nextcloud.com/">NextCloud</a>🇩🇪 (𝘚𝘦𝘭𝘧 𝘩𝘰𝘴𝘵𝘦𝘥)(𝘛𝘩𝘦𝘳𝘦 𝘢𝘳𝘦 𝘧𝘳𝘦𝘦 𝘴𝘦𝘳𝘷𝘦𝘳𝘴 𝘢𝘭𝘴𝘰 𝘣𝘶𝘵 𝘯𝘰𝘵 𝘴𝘶𝘳𝘦 𝘵𝘩𝘢𝘵 𝘵𝘩𝘦𝘺 𝘦𝘯𝘤𝘳𝘺𝘱𝘵 𝘰𝘶𝘳 𝘥𝘢𝘵𝘢 𝘴𝘢𝘧𝘦𝘭𝘺 𝘰𝘳 𝘯𝘰𝘵,𝘣𝘶𝘵 𝘪𝘧 𝘺𝘰𝘶 𝘸𝘢𝘯𝘵 𝘵𝘰 𝘵𝘳𝘺 ,𝘺𝘰𝘶 𝘤𝘢𝘯 𝘤𝘩𝘰𝘰𝘴𝘦 [𝘞ö𝘭𝘬𝘭𝘪](https://woelkli.com/en) )
+• <img src="https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/nextcloud-icon.png" width="20" height="20"/><a href="https://nextcloud.com/">NextCloud</a>🇩🇪 (👑𝘚𝘦𝘭𝘧 𝘩𝘰𝘴𝘵𝘦𝘥)(𝘛𝘩𝘦𝘳𝘦 𝘢𝘳𝘦 𝘧𝘳𝘦𝘦 𝘴𝘦𝘳𝘷𝘦𝘳𝘴 𝘢𝘭𝘴𝘰 𝘣𝘶𝘵 𝘯𝘰𝘵 𝘴𝘶𝘳𝘦 𝘵𝘩𝘢𝘵 𝘵𝘩𝘦𝘺 𝘦𝘯𝘤𝘳𝘺𝘱𝘵 𝘰𝘶𝘳 𝘥𝘢𝘵𝘢 𝘴𝘢𝘧𝘦𝘭𝘺 𝘰𝘳 𝘯𝘰𝘵,𝘣𝘶𝘵 𝘪𝘧 𝘺𝘰𝘶 𝘸𝘢𝘯𝘵 𝘵𝘰 𝘵𝘳𝘺 ,𝘺𝘰𝘶 𝘤𝘢𝘯 𝘤𝘩𝘰𝘰𝘴𝘦 [𝘞ö𝘭𝘬𝘭𝘪](https://woelkli.com/en) )
 
 • <img src="https://mobile-cdn.softpedia.com/apk/images/icon_tresorit.png" width="20" height="20"/><a href="https://tresorit.com/">Tresorit</a>🌍 (3𝘎𝘉 𝘍𝘳𝘦𝘦 𝘸𝘪𝘵𝘩 [𝘛𝘳𝘦𝘴𝘰𝘳𝘪𝘵 𝘉𝘢𝘴𝘪𝘤](https://tresorit.com/pricing/basic) )
 
@@ -182,7 +184,7 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗙𝗶𝗿𝗲𝘄𝗮𝗹𝗹<img src="https://cdn-icons-png.flaticon.com/512/2653/2653500.png" width="20" height="20"/>:
 
-• <img src="https://docs.rethinkdns.com/img/app_icon.svg" width="20" height="20"/><a href="https://github.com/celzero/rethink-app">Rethink: DNS + Firewall</a>🌍⭐❤️
+• <img src="https://docs.rethinkdns.com/img/app_icon.svg" width="20" height="20"/><a href="https://github.com/celzero/rethink-app">Rethink: DNS + Firewall</a>🌍⭐❤️👑
 
 • <img src="https://user-images.githubusercontent.com/104879897/206905049-08615220-54db-44c6-a83c-a4cc9f1ea448.png" width="20" height="20"/><a href="https://github.com/TrackerControl/tracker-control-android">TrackerControl</a>🇬🇧
 
@@ -193,9 +195,9 @@ __________________________________________
 __________________________________________
 ☆𝗕𝗲𝘀𝘁 𝗞𝗲𝘆𝗯𝗼𝗮𝗿𝗱<img src="https://cdn-icons-png.flaticon.com/512/5021/5021416.png" width="20" height="20"/>:
 
-• <img src="https://www.gadgetreview.com/wp-content/uploads/OpenBoard-Keyboard-for-Android.png" width="20" height="20"/>[OpenBoard](https://github.com/openboard-team/openboard)🌍⭐❤️
+• <img src="https://www.gadgetreview.com/wp-content/uploads/OpenBoard-Keyboard-for-Android.png" width="20" height="20"/>[OpenBoard](https://github.com/openboard-team/openboard)🌍⭐❤️👑
 
-• <img src="https://github.com/florisboard/florisboard/blob/master/.github/repo_icon.png" width="20" height="20"/>[Florisboard](https://github.com/florisboard/florisboard)🌍
+• <img src="https://github.com/florisboard/florisboard/blob/master/.github/repo_icon.png" width="20" height="20"/>[Florisboard](https://github.com/florisboard/florisboard)🌍👑
 
 
 
@@ -203,28 +205,28 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗣𝗹𝗮𝘆𝘀𝘁𝗼𝗿𝗲 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/3845/3845822.png" width="20" height="20"/>:
 
-• <img src="https://github.com/whyorean/AuroraStore/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="20" height="20"/><a href="https://f-droid.org/packages/com.aurora.store/">Aurora Store</a>🇮🇳 
+• <img src="https://github.com/whyorean/AuroraStore/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="20" height="20"/><a href="https://f-droid.org/packages/com.aurora.store/">Aurora Store</a>🇮🇳👑
 
 
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗙𝗢𝗦𝗦 𝗮𝗽𝗽 𝘀𝘁𝗼𝗿𝗲<img src="https://cdn-icons-png.flaticon.com/512/3845/3845822.png" width="20" height="20"/>:
 
-• <img src="https://avatars.githubusercontent.com/u/8239603?s=200&v=4" width="20" height="20"/><a href="https://f-droid.org/">Fdroid</a>🌍 ⭐❤
+• <img src="https://avatars.githubusercontent.com/u/8239603?s=200&v=4" width="20" height="20"/><a href="https://f-droid.org/">Fdroid</a>🌍 ⭐❤👑
 
 
 
 __________________________________________
 ☆𝗕𝗲𝘀𝘁 𝗙𝗱𝗿𝗼𝗶𝗱 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/3845/3845822.png" width="20" height="20"/>:
 
-• <img src="https://github.com/Iamlooker/Droid-ify/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="20" height="20"/><a href="https://f-droid.org/packages/com.looker.droidify/">Droid-ify</a>🌍 ⭐❤
+• <img src="https://github.com/Iamlooker/Droid-ify/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="20" height="20"/><a href="https://f-droid.org/packages/com.looker.droidify/">Droid-ify</a>🌍 ⭐❤👑
 
 
 
 __________________________________________
 ☆𝗕𝗲𝘀𝘁 𝗪𝗼𝗿𝗸 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗔𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/5403/5403802.png" width="20" height="20"/>:
 
-• <img src="https://f-droid.org/repo/net.typeblog.shelter/en-US/icon_SadI7N5owTo-UKqex_wGEQdfXb3rvqoD4y_DXKRRRl8=.png" width="20" height="20"/>[Shelter](https://www.f-droid.org/packages/net.typeblog.shelter/)🌍⭐❤️
+• <img src="https://f-droid.org/repo/net.typeblog.shelter/en-US/icon_SadI7N5owTo-UKqex_wGEQdfXb3rvqoD4y_DXKRRRl8=.png" width="20" height="20"/>[Shelter](https://www.f-droid.org/packages/net.typeblog.shelter/)🌍⭐❤️👑
 
 (𝘞𝘰𝘳𝘬 𝘗𝘳𝘰𝘧𝘪𝘭𝘦 𝘪𝘴 𝘶𝘴𝘦 𝘵𝘰 𝘪𝘴𝘰𝘭𝘢𝘵𝘦 𝘢𝘱𝘱𝘴 𝘵𝘩𝘢𝘵 𝘢𝘳𝘦 𝘯𝘰𝘵 𝘨𝘰𝘰𝘥 𝘧𝘰𝘳 𝘰𝘶𝘳 𝘪𝘯𝘵𝘦𝘳𝘯𝘦𝘵 𝘱𝘳𝘪𝘷𝘢𝘤𝘺 𝘣𝘶𝘵 𝘺𝘰𝘶 𝘩𝘢𝘷𝘦 𝘵𝘰 𝘶𝘴𝘦 𝘪𝘵 𝘧𝘰𝘳 𝘞𝘰𝘳𝘬 𝘰𝘳 𝘢𝘯𝘺 𝘰𝘵𝘩𝘦𝘳 𝘳𝘦𝘢𝘴𝘰𝘯𝘴)
 
@@ -233,7 +235,7 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗡𝗮𝘃𝗶𝗴𝗮𝘁𝗶𝗼𝗻 𝗮𝗽𝗽(𝗠𝗮𝗽)<img src="https://cdn-icons-png.flaticon.com/128/854/854929.png" width="20" height="20"/>:
 
-• <img src="https://avatars.githubusercontent.com/u/8239603?s=200&v=4" width="20" height="20"/><a href="https://f-droid.org/en/packages/net.osmand.plus/">OsmAnd~</a>🇳🇱 ⭐❤
+• <img src="https://skigallix.com/wp-content/uploads/2018/12/OsmAnd_logo.png" width="20" height="20"/><a href="https://f-droid.org/en/packages/net.osmand.plus/">OsmAnd~</a>🇳🇱 ⭐❤👑
 
 • <img src="https://avatars.githubusercontent.com/u/76659619?s=200&v=4" width="20" height="20"/><a href="https://organicmaps.app/">Organic Map</a>🇪🇪
 
@@ -241,7 +243,7 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝘄𝗲𝗮𝘁𝗵𝗲𝗿 𝗮𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/3127/3127236.png" width="20" height="20"/>:
 
-• <img src="https://f-droid.org/repo/cz.martykan.forecastie/en-US/icon_laqgosbqKeQqKeaITfRLLuyL5tuTrogyMqeVm7GuDFE=.png" width="20" height="20"/><a href="https://f-droid.org/en/packages/cz.martykan.forecastie/">Forecastie</a>🌍 ⭐❤
+• <img src="https://f-droid.org/repo/cz.martykan.forecastie/en-US/icon_laqgosbqKeQqKeaITfRLLuyL5tuTrogyMqeVm7GuDFE=.png" width="20" height="20"/><a href="https://f-droid.org/en/packages/cz.martykan.forecastie/">Forecastie</a>🌍 ⭐❤👑
 
 • <img src="https://f-droid.org/repo/icons-640/wangdaye.com.geometricweather.30013.png" width="20" height="20"/><a href="https://f-droid.org/packages/wangdaye.com.geometricweather/">Geometric Weather</a>🇨🇳
 
@@ -250,7 +252,7 @@ __________________________________________
 ____________________________________________________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗡𝗼𝘁𝗲𝘀 𝗔𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/3131/3131636.png" width="20" height="20"/>:
 
-• <img src="https://avatars.githubusercontent.com/u/24537496?s=200&v=4" width="20" height="20"/><a href="https://f-droid.org/en/packages/com.standardnotes/">Standard Notes</a>🌍 ⭐❤
+• <img src="https://avatars.githubusercontent.com/u/24537496?s=200&v=4" width="20" height="20"/><a href="https://f-droid.org/en/packages/com.standardnotes/">Standard Notes</a>🌍 ⭐❤👑
 
 • <img src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/LinuxIcons/256x256.png" width="20" height="20"/>[Joplin](https://github.com/laurent22/joplin-android)🏴󠁧󠁢󠁥󠁮󠁧󠁿
 
@@ -260,7 +262,7 @@ __________________________________________
 
 𝘖𝘯𝘭𝘪𝘯𝘦:
 
-• <img src="https://f-droid.org/repo/it.vfsfitvnm.vimusic/en-US/icon_ymX5Rc9eGDW7ajdnZg6DEN8vs852DAnEW_K5IYdUXYU=.png" width="20" height="20"/><a href="https://github.com/vfsfitvnm/ViMusic">ViMusic</a> 🌍❤️
+• <img src="https://f-droid.org/repo/it.vfsfitvnm.vimusic/en-US/icon_ymX5Rc9eGDW7ajdnZg6DEN8vs852DAnEW_K5IYdUXYU=.png" width="20" height="20"/><a href="https://github.com/vfsfitvnm/ViMusic">ViMusic</a> 🌍❤️👑
 
 • <img src="https://sangwan5688.github.io/BlackHole/logo_50x50.png" width="20" height="20"/><a href="https://f-droid.org/en/packages/com.shadow.blackhole/">BlackHole</a> 🇮🇳
 
@@ -276,7 +278,7 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗽𝗼𝗱𝗰𝗮𝘀𝘁 𝗮𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/4047/4047719.png" width="20" height="20"/>:
 
-• <img src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png" width="20" height="20"/><a href="https://f-droid.org/en/packages/de.danoeh.antennapod/">Antennapod</a>🌍 ⭐❤ (𝘐𝘧 𝘺𝘰𝘶 𝘭𝘪𝘬𝘦 𝘭𝘪𝘴𝘵𝘦𝘯𝘪𝘯𝘨 𝘵𝘰 𝘱𝘰𝘥𝘤𝘢𝘴𝘵 ,𝘵𝘩𝘦𝘳𝘦 𝘢𝘳𝘦 𝘮𝘢𝘯𝘺 𝘱𝘰𝘥𝘤𝘢𝘴𝘵𝘴 𝘵𝘰 𝘭𝘦𝘢𝘳𝘯 𝘱𝘳𝘪𝘷𝘢𝘤𝘺 & 𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺)
+• <img src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png" width="20" height="20"/><a href="https://f-droid.org/en/packages/de.danoeh.antennapod/">Antennapod</a>🌍 ⭐❤👑 (𝘐𝘧 𝘺𝘰𝘶 𝘭𝘪𝘬𝘦 𝘭𝘪𝘴𝘵𝘦𝘯𝘪𝘯𝘨 𝘵𝘰 𝘱𝘰𝘥𝘤𝘢𝘴𝘵 ,𝘵𝘩𝘦𝘳𝘦 𝘢𝘳𝘦 𝘮𝘢𝘯𝘺 𝘱𝘰𝘥𝘤𝘢𝘴𝘵𝘴 𝘵𝘰 𝘭𝘦𝘢𝘳𝘯 𝘱𝘳𝘪𝘷𝘢𝘤𝘺 & 𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺)
 
 
 
@@ -287,7 +289,7 @@ __________________________________________
 • <img src="https://f-droid.org/repo/com.brouken.player/en-US/icon_ouHp6y6QCaKaGove62VJTkgiuuiRUIire5BfHJjE5LA=.png" width="20" height="20"/><a href="https://github.com/moneytoo/Player">Just (video) Player</a>🌍 ⭐❤️
 
 
-• <img src="https://f-droid.org/repo/org.videolan.vlc/en-US/icon_yAfSvPRJukZzMMfUzvbYqwaD1XmHXNtiPBtuPVHW-6s=.png" width="20" height="20"/><a href="https://www.f-droid.org/packages/org.videolan.vlc/">VLC</a>🇫🇷
+• <img src="https://f-droid.org/repo/org.videolan.vlc/en-US/icon_yAfSvPRJukZzMMfUzvbYqwaD1XmHXNtiPBtuPVHW-6s=.png" width="20" height="20"/><a href="https://www.f-droid.org/packages/org.videolan.vlc/">VLC</a>🇫🇷👑
 
 • <img src="https://f-droid.org/repo/is.xyz.mpv/en-US/icon_majm6xpwWsZ5twn2JJsYZaQuMUEOErcgOnvFqv2EGiw=.png" width="20" height="20"/>[MPV](https://github.com/mpv-android/mpv-android)🌍
 
@@ -305,18 +307,18 @@ __________________________________________
 
 • <img src="https://forum.f-droid.org/uploads/default/original/2X/7/727ddb630f58086fb97f05e794b25d61cb901b3c.png" width="20" height="20"/><a href="https://f-droid.org/archive/com.artifex.mupdfdemo_111.apk">MuPDF viewer </a>🌍 (𝘖𝘯𝘭𝘺 𝘴𝘶𝘱𝘱𝘰𝘳𝘵𝘴 𝘗𝘋𝘍)
 
-• <img src="https://f-droid.org/repo/com.foobnix.pro.pdf.reader/en-US/icon_y15Jxhzp6YrmjLC-wtc27B6XLTcArf7yK-2WlpNaoe0=.png" width="20" height="20"/><a href="https://www.f-droid.org/packages/com.foobnix.pro.pdf.reader/">Librera PRO</a>🇺🇦 ⭐❤ (𝘚𝘶𝘱𝘱𝘰𝘳𝘵𝘴 𝘢𝘭𝘮𝘰𝘴𝘵 𝘢𝘭𝘭 𝘧𝘰𝘳𝘮𝘢𝘵𝘴)
+• <img src="https://f-droid.org/repo/com.foobnix.pro.pdf.reader/en-US/icon_y15Jxhzp6YrmjLC-wtc27B6XLTcArf7yK-2WlpNaoe0=.png" width="20" height="20"/><a href="https://www.f-droid.org/packages/com.foobnix.pro.pdf.reader/">Librera PRO</a>🇺🇦 ⭐❤👑 (𝘚𝘶𝘱𝘱𝘰𝘳𝘵𝘴 𝘢𝘭𝘮𝘰𝘴𝘵 𝘢𝘭𝘭 𝘧𝘰𝘳𝘮𝘢𝘵𝘴)
 
-• <img src="https://gitlab.com/uploads/-/system/project/avatar/38392439/ic_launcher.png" width="20" height="20"/>[MJ PDF Reader](https://apt.izzysoft.de/fdroid/repo/com.gitlab.mudlej.MjPdfReader_44.apk) ⭐❤️ (𝘋𝘢𝘳𝘬 𝘮𝘰𝘥𝘦 𝘢𝘷𝘢𝘪𝘭𝘢𝘣𝘭𝘦)
+• <img src="https://gitlab.com/uploads/-/system/project/avatar/38392439/ic_launcher.png" width="20" height="20"/>[MJ PDF Reader](https://apt.izzysoft.de/fdroid/repo/com.gitlab.mudlej.MjPdfReader_44.apk) ⭐❤️👑 (𝘋𝘢𝘳𝘬 𝘮𝘰𝘥𝘦 𝘢𝘷𝘢𝘪𝘭𝘢𝘣𝘭𝘦)
 
 
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗚𝗮𝗹𝗹𝗲𝗿𝘆 𝗮𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/2659/2659360.png" width="20" height="20"/>:
 
-• <img src="https://img.utdstc.com/icon/f43/b39/f43b39d98ef3f8791e01f39a89485b62fa6cd5a9613668bc7ba6d499ba2255eb:200" width="20" height="20"/><a href="https://www.f-droid.org/packages/com.simplemobiletools.gallery.pro/">Simple Gallery PRO</a>🇸🇰
+• <img src="https://img.utdstc.com/icon/f43/b39/f43b39d98ef3f8791e01f39a89485b62fa6cd5a9613668bc7ba6d499ba2255eb:200" width="20" height="20"/><a href="https://www.f-droid.org/packages/com.simplemobiletools.gallery.pro/">Simple Gallery PRO</a>🇸🇰👑
 
-• <img src="https://f-droid.org/repo/deckers.thibault.aves.libre/en-US/icon_tWKzpcXoHtPXfPaAi6S4sCtAbGO-5BohGTBzafSvyjs=.png" width="20" height="20"/>[Aves](https://github.com/deckerst/aves)🇨🇵
+• <img src="https://f-droid.org/repo/deckers.thibault.aves.libre/en-US/icon_tWKzpcXoHtPXfPaAi6S4sCtAbGO-5BohGTBzafSvyjs=.png" width="20" height="20"/>[Aves](https://github.com/deckerst/aves)🇨🇵👑
 
 
 __________________________________________
@@ -324,7 +326,7 @@ __________________________________________
 
 • <img src="https://f-droid.org/repo/com.amaze.filemanager/en-US/icon_Ar4jMriDD9t5ixn9iV8E5ydl7ijhf5eMcjF0qOTBLu0=.png" width="20" height="20"/><a href="https://www.f-droid.org/packages/com.amaze.filemanager/">Amaze File Manager </a>🇮🇳
 
-• <img src="https://f-droid.org/repo/me.zhanghai.android.files/en-US/icon_BFY8kIAZkrB0kKwXt1uVDgghMociormUlcOIedEh2mA=.png" width="20" height="20"/>[Material Files](https://www.f-droid.org/packages/me.zhanghai.android.files/)🇺🇲
+• <img src="https://f-droid.org/repo/me.zhanghai.android.files/en-US/icon_BFY8kIAZkrB0kKwXt1uVDgghMociormUlcOIedEh2mA=.png" width="20" height="20"/>[Material Files](https://www.f-droid.org/packages/me.zhanghai.android.files/)🇺🇲👑
 
 ❌𝘋𝘰𝘯𝘰𝘵 𝘶𝘴𝘦 𝘍𝘪𝘭𝘦𝘴 𝘣𝘺 𝘎𝘰𝘰𝘨𝘭𝘦
 
@@ -332,11 +334,11 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/174/174883.png" width="20" height="20"/>:(𝘢𝘥-𝘧𝘳𝘦𝘦)
 
-• <img src="https://f-droid.org/repo/org.schabi.newpipe/en-US/icon_OHy4y1W-fJCNhHHOBCM9V_cxZNJJgbcNkB-x7UDTY9Q=.png" width="20" height="20"/><a href="https://newpipe.net/">Newpipe</a>🌍 ⭐❤ 
+• <img src="https://f-droid.org/repo/org.schabi.newpipe/en-US/icon_OHy4y1W-fJCNhHHOBCM9V_cxZNJJgbcNkB-x7UDTY9Q=.png" width="20" height="20"/><a href="https://newpipe.net/">Newpipe</a>🌍 ⭐❤👑
 
-• <img src="https://f-droid.org/repo/com.github.libretube/en-US/icon_nwju-baXbhCMazDgl9689lv_lktN93m_85KZf67Zktw=.png" width="20" height="20"/>[LibreTube](https://github.com/libre-tube/LibreTube)🌍 (𝘈𝘥𝘴+𝘴𝘱𝘰𝘯𝘴𝘰𝘳 𝘉𝘭𝘰𝘤𝘬)
+• <img src="https://f-droid.org/repo/com.github.libretube/en-US/icon_nwju-baXbhCMazDgl9689lv_lktN93m_85KZf67Zktw=.png" width="20" height="20"/>[LibreTube](https://github.com/libre-tube/LibreTube)🌍❤️ (𝘈𝘥𝘴+𝘴𝘱𝘰𝘯𝘴𝘰𝘳 𝘉𝘭𝘰𝘤𝘬)
 
-• <img src="https://avatars.githubusercontent.com/u/101597779?s=200&v=4" width="20" height="20"/>[Youtube Revanced](https://github.com/revanced/revanced-manager)🌍 
+• <img src="https://avatars.githubusercontent.com/u/101597779?s=200&v=4" width="20" height="20"/>[Youtube Revanced](https://github.com/revanced/revanced-manager)🌍❤️ 
 (Youtube Mod patcher, [Learn how to Install](https://youtu.be/lYtSFqgGLaw) )
 (𝘠𝘰𝘶 𝘯𝘦𝘦𝘥 𝘵𝘰 𝘴𝘪𝘨𝘯 𝘪𝘯 𝘸𝘪𝘵𝘩 𝘎𝘮𝘢𝘪𝘭 𝘵𝘰 𝘚𝘶𝘣𝘴𝘤𝘳𝘪𝘣𝘦 𝘵𝘰 𝘢𝘯𝘺 𝘤𝘩𝘢𝘯𝘯𝘦𝘭,𝘴𝘰 𝘪𝘧 𝘶 𝘸𝘢𝘯𝘵 𝘦𝘹𝘵𝘳𝘦𝘮𝘦 𝘱𝘳𝘪𝘷𝘢𝘤𝘺 ,𝘢𝘷𝘰𝘪𝘥 𝘶𝘴𝘪𝘯𝘨 𝘪𝘵)
 __________________________________________
@@ -344,7 +346,7 @@ __________________________________________
 
 • <img src="https://f-droid.org/repo/com.jonjomckay.fritter/en-US/icon_JE_RgOtVat6t3yiaehvGuyyCLTrEC2V-UMGyDjQJlEo=.png" width="20" height="20"/><a href="https://www.f-droid.org/packages/com.jonjomckay.fritter/">Fritter</a>🌍 ❤
 
-• <img src="https://f-droid.org/repo/com.plexer0.nitter/en-US/icon_Kh4S6V1yqClUU5mFhmZ-bOb_yAuYi2V_bGbjMyQEUW8=.png" width="20" height="20"/><a href="https://github.com/zedeus/nitter/wiki/Instances">Nitter</a>🌍 (𝘞𝘦𝘣 𝘢𝘱𝘱)
+• <img src="https://f-droid.org/repo/com.plexer0.nitter/en-US/icon_Kh4S6V1yqClUU5mFhmZ-bOb_yAuYi2V_bGbjMyQEUW8=.png" width="20" height="20"/><a href="https://github.com/zedeus/nitter/wiki/Instances">Nitter</a>🌍👑 (𝘞𝘦𝘣 𝘢𝘱𝘱)
 
 ❌𝘋𝘰𝘯𝘰𝘵 𝘶𝘴𝘦 𝘢𝘯𝘺 𝘴𝘰𝘤𝘪𝘢𝘭 𝘮𝘦𝘥𝘪𝘢 𝘞𝘪𝘵𝘩 𝘢𝘤𝘤𝘰𝘶𝘯𝘵. 
 
@@ -352,7 +354,7 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗥𝗲𝗱𝗱𝗶𝘁 𝗖𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png" width="20" height="20"/>:
 
-• <img src="https://f-droid.org/repo/ml.docilealligator.infinityforreddit/en-US/icon_k3rHUumkceuBhQzl7CBHaIMfJn_o1lRDPP4ldA3I7Zw=.png" width="20" height="20"/><a href="https://www.f-droid.org/packages/ml.docilealligator.infinityforreddit/">Infinity for reddit</a>🌍 ❤
+• <img src="https://f-droid.org/repo/ml.docilealligator.infinityforreddit/en-US/icon_k3rHUumkceuBhQzl7CBHaIMfJn_o1lRDPP4ldA3I7Zw=.png" width="20" height="20"/><a href="https://www.f-droid.org/packages/ml.docilealligator.infinityforreddit/">Infinity for reddit</a>🌍❤👑
 
 • <img src="https://avatars.githubusercontent.com/u/117129612?v=4&s=160" width="20" height="20"/><a href="https://github.com/libreddit/libreddit-instances/blob/master/instances.md">Libreddit</a>🌍 (𝘞𝘦𝘣 𝘈𝘱𝘱)
 
