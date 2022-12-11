@@ -51,7 +51,7 @@ _________________________________________
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗘𝗺𝗮𝗶𝗹 𝗽𝗿𝗼𝘃𝗶𝗱𝗲𝗿<img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" width="20" height="20"/>:
+☆ 𝗕𝗲𝘀𝘁 𝗘𝗺𝗮𝗶𝗹 𝗽𝗿𝗼𝘃𝗶𝗱𝗲𝗿<img src="https://cdn-icons-png.flaticon.com/512/3062/3062634.png" width="20" height="20"/>:
 
 • <img src="https://proton.me/static/proton-mail-badge-0e258be9edc6287a49fd01558c106073.svg" width="20" height="20"/> <a href="https://account.proton.me/signup">Proton Mail</a>🇨🇭 ⭐❤
 
@@ -72,7 +72,7 @@ __________________________________________
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗩𝗣𝗡:
+☆ 𝗕𝗲𝘀𝘁 𝗩𝗣𝗡<img src="https://cdn-icons-png.flaticon.com/512/5075/5075561.png" width="20" height="20"/>:
 
 • <img src="https://seeklogo.com/images/P/proton-vpn-logo-A50452564D-seeklogo.com.png" width="20" height="20"/><a href="https://protonvpn.com/">Proton VPN</a>🇨🇭 (3 𝘤𝘰𝘶𝘯𝘵𝘳𝘪𝘦𝘴 𝘸𝘪𝘵𝘩 𝘧𝘳𝘦𝘦 𝘱𝘭𝘢𝘯) ❤
 
@@ -86,7 +86,7 @@ __________________________________________
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝙄𝙣𝙨𝙩𝙖𝙣𝙩 𝗠𝗲𝘀𝘀𝗮𝗴𝗶𝗻𝗴 𝗮𝗽𝗽(𝘖𝘯𝘭𝘪𝘯𝘦):
+☆ 𝗕𝗲𝘀𝘁 𝙄𝙣𝙨𝙩𝙖𝙣𝙩 𝗠𝗲𝘀𝘀𝗮𝗴𝗶𝗻𝗴 𝗮𝗽𝗽(𝘖𝘯𝘭𝘪𝘯𝘦)<img src="https://cdn-icons-png.flaticon.com/512/2190/2190552.png" width="20" height="20"/>:
 
 • <img src="https://idroot.us/wp-content/uploads/2021/01/Signal-messenger-300x300.png" width="20" height="20"/><a href="https://signal.org/en/">Signal</a>🇺🇲⭐❤
 
@@ -96,7 +96,7 @@ __________________________________________
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝘿𝙚𝙛𝙖𝙪𝙡𝙩 𝗠𝗲𝘀𝘀𝗮𝗴𝗶𝗻𝗴 𝗮𝗽𝗽(𝘖𝘧𝘧𝘭𝘪𝘯𝘦):
+☆ 𝗕𝗲𝘀𝘁 𝘿𝙚𝙛𝙖𝙪𝙡𝙩 𝗠𝗲𝘀𝘀𝗮𝗴𝗶𝗻𝗴 𝗮𝗽𝗽(𝘖𝘧𝘧𝘭𝘪𝘯𝘦)<img src="https://cdn-icons-png.flaticon.com/512/4457/4457168.png" width="20" height="20"/>:
 
 • <img src="https://vectorified.com/images/text-message-icon-android-26.png" width="20" height="20"/><a href="https://github.com/SimpleMobileTools/Simple-SMS-Messenger">Simple SMS Messenger</a> ⭐❤️
 
@@ -105,7 +105,7 @@ __________________________________________
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗗𝗡𝗦:
+☆ 𝗕𝗲𝘀𝘁 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗗𝗡𝗦<img src="https://cdn-icons-png.flaticon.com/512/1779/1779407.png" width="20" height="20"/>:
 
 𝘾𝙪𝙨𝙩𝙤𝙢𝙞𝙯𝙖𝙗𝙡𝙚 : 
 
@@ -124,7 +124,7 @@ __________________________________________
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗽𝗮𝘀𝘀𝘄𝗼𝗿𝗱 𝗺𝗮𝗻𝗮𝗴𝗲𝗿:
+☆ 𝗕𝗲𝘀𝘁 𝗽𝗮𝘀𝘀𝘄𝗼𝗿𝗱 𝗺𝗮𝗻𝗮𝗴𝗲𝗿<img src="https://cdn-icons-png.flaticon.com/512/3256/3256783.png" width="20" height="20"/>:
 
 𝙊𝙣𝙡𝙞𝙣𝙚:
 
@@ -141,7 +141,7 @@ __________________________________________
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝟮𝗙𝗔 𝗔𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰𝗮𝘁𝗼𝗿 𝗮𝗽𝗽:
+☆ 𝗕𝗲𝘀𝘁 𝟮𝗙𝗔 𝗔𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰𝗮𝘁𝗼𝗿 𝗮𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/5541/5541632.png" width="20" height="20"/>:
 
 • <img src="https://www.thinkprivacy.net/assets/img/tools/aegis.png" width="20" height="20"/><a href="https://getaegis.app/">Aegis</a>🌍 ⭐❤
 
@@ -150,7 +150,7 @@ __________________________________________
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗙𝗶𝗹𝗲 𝗲𝗻𝗰𝗿𝘆𝗽𝘁𝗶𝗼𝗻 𝗮𝗽𝗽:
+☆ 𝗕𝗲𝘀𝘁 𝗙𝗶𝗹𝗲 𝗲𝗻𝗰𝗿𝘆𝗽𝘁𝗶𝗼𝗻 𝗮𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/4291/4291599.png" width="20" height="20"/>:
 
 𝙁𝙧𝙚𝙚:
 
@@ -163,7 +163,7 @@ __________________________________________
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗖𝗹𝗼𝘂𝗱 𝘀𝗲𝗿𝘃𝗶𝗰𝗲:
+☆ 𝗕𝗲𝘀𝘁 𝗖𝗹𝗼𝘂𝗱 𝘀𝗲𝗿𝘃𝗶𝗰𝗲<img src="https://cdn-icons-png.flaticon.com/512/3305/3305673.png" width="20" height="20"/>:
 
 • <img src="https://www.itopnews.de/appicons/icons.php?src=https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/61/2a/b6/612ab6fa-afc9-b7df-dab3-68923b5e006d/AppIcon-Release-External-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg&zc=3" width="20" height="20"/><a href="https://proton.me/drive">Proton Drive</a>🇨🇭 (1𝘎𝘉 𝘧𝘳𝘦𝘦 𝘴𝘵𝘰𝘳𝘢𝘨𝘦) ⭐❤
 
@@ -180,7 +180,7 @@ __________________________________________
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗙𝗶𝗿𝗲𝘄𝗮𝗹𝗹:
+☆ 𝗕𝗲𝘀𝘁 𝗙𝗶𝗿𝗲𝘄𝗮𝗹𝗹<img src="https://cdn-icons-png.flaticon.com/512/2653/2653500.png" width="20" height="20"/>:
 
 • <img src="https://docs.rethinkdns.com/img/app_icon.svg" width="20" height="20"/><a href="https://github.com/celzero/rethink-app">Rethink: DNS + Firewall</a>🌍⭐❤️
 
@@ -191,7 +191,7 @@ __________________________________________
 
 
 __________________________________________
-☆𝗕𝗲𝘀𝘁 𝗞𝗲𝘆𝗯𝗼𝗮𝗿𝗱:
+☆𝗕𝗲𝘀𝘁 𝗞𝗲𝘆𝗯𝗼𝗮𝗿𝗱<img src="https://cdn-icons-png.flaticon.com/512/5021/5021416.png" width="20" height="20"/>:
 
 • <img src="https://www.gadgetreview.com/wp-content/uploads/OpenBoard-Keyboard-for-Android.png" width="20" height="20"/>[OpenBoard](https://github.com/openboard-team/openboard)🌍⭐❤️
 
@@ -201,14 +201,14 @@ __________________________________________
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗣𝗹𝗮𝘆𝘀𝘁𝗼𝗿𝗲 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:
+☆ 𝗕𝗲𝘀𝘁 𝗣𝗹𝗮𝘆𝘀𝘁𝗼𝗿𝗲 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/3845/3845822.png" width="20" height="20"/>:
 
 • <img src="https://github.com/whyorean/AuroraStore/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="20" height="20"/><a href="https://f-droid.org/packages/com.aurora.store/">Aurora Store</a>🇮🇳 
 
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗙𝗢𝗦𝗦 𝗮𝗽𝗽 𝘀𝘁𝗼𝗿𝗲:
+☆ 𝗕𝗲𝘀𝘁 𝗙𝗢𝗦𝗦 𝗮𝗽𝗽 𝘀𝘁𝗼𝗿𝗲<img src="https://cdn-icons-png.flaticon.com/512/3845/3845822.png" width="20" height="20"/>:
 
 • <img src="https://avatars.githubusercontent.com/u/8239603?s=200&v=4" width="20" height="20"/><a href="https://f-droid.org/">Fdroid</a>🌍 ⭐❤
 
