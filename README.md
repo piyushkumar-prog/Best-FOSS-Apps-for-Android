@@ -51,7 +51,7 @@ _________________________________________
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗘𝗺𝗮𝗶𝗹 𝗽𝗿𝗼𝘃𝗶𝗱𝗲𝗿:
+☆ 𝗕𝗲𝘀𝘁 𝗘𝗺𝗮𝗶𝗹 𝗽𝗿𝗼𝘃𝗶𝗱𝗲𝗿<img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" width="20" height="20"/>:
 
 • <img src="https://proton.me/static/proton-mail-badge-0e258be9edc6287a49fd01558c106073.svg" width="20" height="20"/> <a href="https://account.proton.me/signup">Proton Mail</a>🇨🇭 ⭐❤
 
@@ -60,7 +60,7 @@ __________________________________________
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗘𝗺𝗮𝗶𝗹 𝗖𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:
+☆ 𝗕𝗲𝘀𝘁 𝗘𝗺𝗮𝗶𝗹 𝗖𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/911/911993.png" width="20" height="20"/>:
 
 • <img src="https://apk-s.io/wp-content/uploads/fairemail-android-logo.png" width="20" height="20"/><a href="https://email.faircode.eu/">FairEmail</a>🇳🇱 ⭐❤
 
@@ -215,14 +215,14 @@ __________________________________________
 
 
 __________________________________________
-☆𝗕𝗲𝘀𝘁 𝗙𝗱𝗿𝗼𝗶𝗱 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:
+☆𝗕𝗲𝘀𝘁 𝗙𝗱𝗿𝗼𝗶𝗱 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/3845/3845822.png" width="20" height="20"/>:
 
 • <img src="https://github.com/Iamlooker/Droid-ify/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="20" height="20"/><a href="https://f-droid.org/packages/com.looker.droidify/">Droid-ify</a>🌍 ⭐❤
 
 
 
 __________________________________________
-☆𝗕𝗲𝘀𝘁 𝗪𝗼𝗿𝗸 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗔𝗽𝗽:
+☆𝗕𝗲𝘀𝘁 𝗪𝗼𝗿𝗸 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗔𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/5403/5403802.png" width="20" height="20"/>:
 
 • <img src="https://f-droid.org/repo/net.typeblog.shelter/en-US/icon_SadI7N5owTo-UKqex_wGEQdfXb3rvqoD4y_DXKRRRl8=.png" width="20" height="20"/>[Shelter](https://www.f-droid.org/packages/net.typeblog.shelter/)🌍⭐❤️
 
@@ -231,7 +231,7 @@ __________________________________________
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗡𝗮𝘃𝗶𝗴𝗮𝘁𝗶𝗼𝗻 𝗮𝗽𝗽(𝗠𝗮𝗽):
+☆ 𝗕𝗲𝘀𝘁 𝗡𝗮𝘃𝗶𝗴𝗮𝘁𝗶𝗼𝗻 𝗮𝗽𝗽(𝗠𝗮𝗽)<img src="https://cdn-icons-png.flaticon.com/128/854/854929.png" width="20" height="20"/>:
 
 • <img src="https://avatars.githubusercontent.com/u/8239603?s=200&v=4" width="20" height="20"/><a href="https://f-droid.org/en/packages/net.osmand.plus/">OsmAnd~</a>🇳🇱 ⭐❤
 
@@ -239,7 +239,7 @@ __________________________________________
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝘄𝗲𝗮𝘁𝗵𝗲𝗿 𝗮𝗽𝗽:
+☆ 𝗕𝗲𝘀𝘁 𝘄𝗲𝗮𝘁𝗵𝗲𝗿 𝗮𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/3127/3127236.png" width="20" height="20"/>:
 
 • <img src="https://f-droid.org/repo/cz.martykan.forecastie/en-US/icon_laqgosbqKeQqKeaITfRLLuyL5tuTrogyMqeVm7GuDFE=.png" width="20" height="20"/><a href="https://f-droid.org/en/packages/cz.martykan.forecastie/">Forecastie</a>🌍 ⭐❤
 
@@ -248,7 +248,7 @@ __________________________________________
 
 
 ____________________________________________________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗡𝗼𝘁𝗲𝘀 𝗔𝗽𝗽:
+☆ 𝗕𝗲𝘀𝘁 𝗡𝗼𝘁𝗲𝘀 𝗔𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/3131/3131636.png" width="20" height="20"/>:
 
 • <img src="https://avatars.githubusercontent.com/u/24537496?s=200&v=4" width="20" height="20"/><a href="https://f-droid.org/en/packages/com.standardnotes/">Standard Notes</a>🌍 ⭐❤
 
@@ -256,7 +256,7 @@ ________________________________________________________________________________
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗠𝘂𝘀𝗶𝗰 𝗔𝗽𝗽:
+☆ 𝗕𝗲𝘀𝘁 𝗠𝘂𝘀𝗶𝗰 𝗔𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/2995/2995101.png" width="20" height="20"/>:
 
 𝘖𝘯𝘭𝘪𝘯𝘦:
 
@@ -274,7 +274,7 @@ __________________________________________
 • <img src="https://f-droid.org/repo/org.videolan.vlc/en-US/icon_yAfSvPRJukZzMMfUzvbYqwaD1XmHXNtiPBtuPVHW-6s=.png" width="20" height="20"/><a href="https://www.f-droid.org/packages/org.videolan.vlc/">VLC</a>🇫🇷
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗽𝗼𝗱𝗰𝗮𝘀𝘁 𝗮𝗽𝗽:
+☆ 𝗕𝗲𝘀𝘁 𝗽𝗼𝗱𝗰𝗮𝘀𝘁 𝗮𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/4047/4047719.png" width="20" height="20"/>:
 
 • <img src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png" width="20" height="20"/><a href="https://f-droid.org/en/packages/de.danoeh.antennapod/">Antennapod</a>🌍 ⭐❤ (𝘐𝘧 𝘺𝘰𝘶 𝘭𝘪𝘬𝘦 𝘭𝘪𝘴𝘵𝘦𝘯𝘪𝘯𝘨 𝘵𝘰 𝘱𝘰𝘥𝘤𝘢𝘴𝘵 ,𝘵𝘩𝘦𝘳𝘦 𝘢𝘳𝘦 𝘮𝘢𝘯𝘺 𝘱𝘰𝘥𝘤𝘢𝘴𝘵𝘴 𝘵𝘰 𝘭𝘦𝘢𝘳𝘯 𝘱𝘳𝘪𝘷𝘢𝘤𝘺 & 𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺)
 
@@ -282,7 +282,7 @@ __________________________________________
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗩𝗶𝗱𝗲𝗼 𝗣𝗹𝗮𝘆𝗲𝗿:
+☆ 𝗕𝗲𝘀𝘁 𝗩𝗶𝗱𝗲𝗼 𝗣𝗹𝗮𝘆𝗲𝗿<img src="https://cdn-icons-png.flaticon.com/128/2972/2972128.png" width="20" height="20"/>:
 
 • <img src="https://f-droid.org/repo/com.brouken.player/en-US/icon_ouHp6y6QCaKaGove62VJTkgiuuiRUIire5BfHJjE5LA=.png" width="20" height="20"/><a href="https://github.com/moneytoo/Player">Just (video) Player</a>🌍 ⭐❤️
 
@@ -292,7 +292,7 @@ __________________________________________
 • <img src="https://f-droid.org/repo/is.xyz.mpv/en-US/icon_majm6xpwWsZ5twn2JJsYZaQuMUEOErcgOnvFqv2EGiw=.png" width="20" height="20"/>[MPV](https://github.com/mpv-android/mpv-android)🌍
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗮𝗽𝗽 𝘁𝗼 𝗕𝗹𝗼𝗰𝗸 𝗦𝗽𝗼𝘁𝗶𝗳𝘆 𝗮𝗱𝘀:
+☆ 𝗕𝗲𝘀𝘁 𝗮𝗽𝗽 𝘁𝗼 𝗕𝗹𝗼𝗰𝗸 𝗦𝗽𝗼𝘁𝗶𝗳𝘆 𝗮𝗱𝘀<img src="https://cdn-icons-png.flaticon.com/512/2626/2626284.png" width="20" height="20"/>:
 
 • <img src="https://image.winudf.com/v2/image1/bGl2ZS50ZWVrYW1zdXRoYXIubXV0aWZ5X2ljb25fMTYwMzA1ODE0M18wMzQ/icon.png?w=100&fakeurl=1&type=.webp" width="20" height="20"/><a href="https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify">Mutify</a>🇮🇳 (𝘐𝘧 𝘺𝘰𝘶 𝘭𝘪𝘬𝘦 𝘚𝘱𝘰𝘵𝘪𝘧𝘺,𝘴𝘰 𝘫𝘶𝘴𝘵 𝘮𝘶𝘵𝘦 𝘢𝘥𝘴🎧)
 
@@ -301,7 +301,7 @@ __________________________________________
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗣𝗗𝗙 𝗥𝗲𝗮𝗱𝗲𝗿 𝗮𝗽𝗽:
+☆ 𝗕𝗲𝘀𝘁 𝗣𝗗𝗙 𝗥𝗲𝗮𝗱𝗲𝗿 𝗮𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/4725/4725510.png" width="20" height="20"/>:
 
 • <img src="https://forum.f-droid.org/uploads/default/original/2X/7/727ddb630f58086fb97f05e794b25d61cb901b3c.png" width="20" height="20"/><a href="https://f-droid.org/archive/com.artifex.mupdfdemo_111.apk">MuPDF viewer </a>🌍 (𝘖𝘯𝘭𝘺 𝘴𝘶𝘱𝘱𝘰𝘳𝘵𝘴 𝘗𝘋𝘍)
 
@@ -312,7 +312,7 @@ __________________________________________
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗚𝗮𝗹𝗹𝗲𝗿𝘆 𝗮𝗽𝗽:
+☆ 𝗕𝗲𝘀𝘁 𝗚𝗮𝗹𝗹𝗲𝗿𝘆 𝗮𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/2659/2659360.png" width="20" height="20"/>:
 
 • <img src="https://img.utdstc.com/icon/f43/b39/f43b39d98ef3f8791e01f39a89485b62fa6cd5a9613668bc7ba6d499ba2255eb:200" width="20" height="20"/><a href="https://www.f-droid.org/packages/com.simplemobiletools.gallery.pro/">Simple Gallery PRO</a>🇸🇰
 
@@ -320,7 +320,7 @@ __________________________________________
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗙𝗶𝗹𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿:
+☆ 𝗕𝗲𝘀𝘁 𝗙𝗶𝗹𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿<img src="https://cdn-icons-png.flaticon.com/512/3767/3767094.png" width="20" height="20"/>:
 
 • <img src="https://f-droid.org/repo/com.amaze.filemanager/en-US/icon_Ar4jMriDD9t5ixn9iV8E5ydl7ijhf5eMcjF0qOTBLu0=.png" width="20" height="20"/><a href="https://www.f-droid.org/packages/com.amaze.filemanager/">Amaze File Manager </a>🇮🇳
 
@@ -330,7 +330,7 @@ __________________________________________
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:(𝘢𝘥-𝘧𝘳𝘦𝘦)
+☆ 𝗕𝗲𝘀𝘁 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/174/174883.png" width="20" height="20"/>:(𝘢𝘥-𝘧𝘳𝘦𝘦)
 
 • <img src="https://f-droid.org/repo/org.schabi.newpipe/en-US/icon_OHy4y1W-fJCNhHHOBCM9V_cxZNJJgbcNkB-x7UDTY9Q=.png" width="20" height="20"/><a href="https://newpipe.net/">Newpipe</a>🌍 ⭐❤ 
 
@@ -340,7 +340,7 @@ __________________________________________
 (Youtube Mod patcher, [Learn how to Install](https://youtu.be/lYtSFqgGLaw) )
 (𝘠𝘰𝘶 𝘯𝘦𝘦𝘥 𝘵𝘰 𝘴𝘪𝘨𝘯 𝘪𝘯 𝘸𝘪𝘵𝘩 𝘎𝘮𝘢𝘪𝘭 𝘵𝘰 𝘚𝘶𝘣𝘴𝘤𝘳𝘪𝘣𝘦 𝘵𝘰 𝘢𝘯𝘺 𝘤𝘩𝘢𝘯𝘯𝘦𝘭,𝘴𝘰 𝘪𝘧 𝘶 𝘸𝘢𝘯𝘵 𝘦𝘹𝘵𝘳𝘦𝘮𝘦 𝘱𝘳𝘪𝘷𝘢𝘤𝘺 ,𝘢𝘷𝘰𝘪𝘥 𝘶𝘴𝘪𝘯𝘨 𝘪𝘵)
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗧𝘄𝗶𝘁𝘁𝗲𝗿 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:(𝘈𝘤𝘤𝘦𝘴𝘴 𝘵𝘸𝘦𝘦𝘵𝘴 𝘸𝘪𝘵𝘩𝘰𝘶𝘵 𝘈𝘤𝘤𝘰𝘶𝘯𝘵)
+☆ 𝗕𝗲𝘀𝘁 𝗧𝘄𝗶𝘁𝘁𝗲𝗿 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="20" height="20"/>:(𝘈𝘤𝘤𝘦𝘴𝘴 𝘵𝘸𝘦𝘦𝘵𝘴 𝘸𝘪𝘵𝘩𝘰𝘶𝘵 𝘈𝘤𝘤𝘰𝘶𝘯𝘵)
 
 • <img src="https://f-droid.org/repo/com.jonjomckay.fritter/en-US/icon_JE_RgOtVat6t3yiaehvGuyyCLTrEC2V-UMGyDjQJlEo=.png" width="20" height="20"/><a href="https://www.f-droid.org/packages/com.jonjomckay.fritter/">Fritter</a>🌍 ❤
 
@@ -350,7 +350,7 @@ __________________________________________
 
 
 __________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗥𝗲𝗱𝗱𝗶𝘁 𝗖𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:
+☆ 𝗕𝗲𝘀𝘁 𝗥𝗲𝗱𝗱𝗶𝘁 𝗖𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽<img src="https://cdn-icons-png.flaticon.com/512/3670/3670226.png" width="20" height="20"/>:
 
 • <img src="https://f-droid.org/repo/ml.docilealligator.infinityforreddit/en-US/icon_k3rHUumkceuBhQzl7CBHaIMfJn_o1lRDPP4ldA3I7Zw=.png" width="20" height="20"/><a href="https://www.f-droid.org/packages/ml.docilealligator.infinityforreddit/">Infinity for reddit</a>🌍 ❤
 
@@ -359,7 +359,7 @@ __________________________________________
 
 
 __________________________________________
-☆ 𝘽𝙚𝙨𝙩 𝙞𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢 𝙘𝙡𝙞𝙚𝙣𝙩:(𝘞𝘦𝘣 𝘈𝘱𝘱)
+☆ 𝘽𝙚𝙨𝙩 𝙞𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢 𝙘𝙡𝙞𝙚𝙣𝙩<img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="20" height="20"/>:(𝘞𝘦𝘣 𝘈𝘱𝘱)
 
 • <a href="https://dumpor.com/">Dumpor</a>🌍
 
@@ -372,7 +372,7 @@ __________________________________________
 
 
 __________________________________________
-☆𝘽𝙚𝙨𝙩 𝙃𝙚𝙖𝙡𝙩𝙝 𝘼𝙥𝙥:
+☆𝘽𝙚𝙨𝙩 𝙃𝙚𝙖𝙡𝙩𝙝 𝘼𝙥𝙥<img src="https://cdn-icons-png.flaticon.com/512/4228/4228724.png" width="20" height="20"/>:
 
 • <img src="https://f-droid.org/repo/org.isoron.uhabits/en-US/icon_dhJtIjNYdwt-e9Ky5Xm91xiWo0HtQPSEiEHTCAigQeQ=.png" width="20" height="20"/>[Loop Habit Tracker](https://f-droid.org/repo/org.isoron.uhabits_20101.apk)🇺🇲
 
