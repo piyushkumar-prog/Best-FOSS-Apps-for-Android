@@ -6,20 +6,20 @@ ________________________
 [❤ - My personal Fav]
 __________________________
 
-☆ 𝗕𝗲𝘀𝘁 𝗕𝗿𝗼𝘄𝘀𝗲𝗿𝘀:
+☆ 𝗕𝗲𝘀𝘁 𝗕𝗿𝗼𝘄𝘀𝗲𝗿𝘀 <img src="https://cdn-icons-png.flaticon.com/128/3003/3003530.png" width="25" height="25"/>:
 
-• <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/brave_browser_logo_icon_153013.png" width="15" height="15"/> <a href="https://play.google.com/store/apps/details?id=com.brave.browser">Brave</a>🇺🇲 ⭐❤ ([𝙃𝙤𝙬 𝙩𝙤 𝙝𝙖𝙧𝙙𝙚𝙣 𝘽𝙧𝙖𝙫𝙚 𝘽𝙧𝙤𝙬𝙨𝙚𝙧](https://github.com/Finalboss77/Hardening-Brave-Browser) )
+• <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/brave_browser_logo_icon_153013.png" width="20" height="20"/> <a href="https://play.google.com/store/apps/details?id=com.brave.browser">Brave</a>🇺🇲 ⭐❤ ([𝙃𝙤𝙬 𝙩𝙤 𝙝𝙖𝙧𝙙𝙚𝙣 𝘽𝙧𝙖𝙫𝙚 𝘽𝙧𝙤𝙬𝙨𝙚𝙧](https://github.com/Finalboss77/Hardening-Brave-Browser) )
    
 (𝘏𝘢𝘳𝘥𝘦𝘯 𝘉𝘳𝘢𝘷𝘦 𝘉𝘳𝘰𝘸𝘴𝘦𝘳 𝘣𝘦𝘧𝘰𝘳𝘦 𝘶𝘴𝘪𝘯𝘨 𝘪𝘵)
 
 
 
                
-• <img src="https://user-images.githubusercontent.com/104879897/206898853-4de2afcb-dfe0-434b-8aff-945cf2895a0d.png" width="15" height="15"/> <a href="https://www.mozilla.org/en-GB/firefox/new/">Firefox</a>🇺🇲 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘍𝘖𝘚𝘚 𝘷𝘦𝘳𝘴𝘪𝘰𝘯𝘴 eg.<a href="https://www.f-droid.org/packages/org.mozilla.fennec_fdroid/">Fennec </a> , <a href="https://f-droid.org/packages/us.spotco.fennec_dos/">Mull</a> ⭐❤️
+• <img src="https://user-images.githubusercontent.com/104879897/206898853-4de2afcb-dfe0-434b-8aff-945cf2895a0d.png" width="20" height="20"/> <a href="https://www.mozilla.org/en-GB/firefox/new/">Firefox</a>🇺🇲 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘍𝘖𝘚𝘚 𝘷𝘦𝘳𝘴𝘪𝘰𝘯𝘴 eg.<a href="https://www.f-droid.org/packages/org.mozilla.fennec_fdroid/">Fennec </a> , <a href="https://f-droid.org/packages/us.spotco.fennec_dos/">Mull</a> ⭐❤️
 
 (𝘛𝘰 𝘶𝘴𝘦 𝘍𝘪𝘳𝘦𝘧𝘰𝘹 ,𝘺𝘰𝘶 𝘩𝘢𝘷𝘦 𝘵𝘰 𝘮𝘢𝘬𝘦 𝘮𝘢𝘯𝘺 𝘤𝘩𝘢𝘯𝘨𝘦𝘴 𝘢𝘯𝘥 𝘢𝘥𝘥 𝘴𝘰𝘮𝘦 𝘢𝘥𝘰𝘯𝘴 𝘵𝘰 𝘺𝘰𝘶𝘳 𝘣𝘳𝘰𝘸𝘴𝘦𝘳. <a href="https://chrisx.xyz/blog/yet-another-firefox-hardening-guide/">Learn how to make Firefox more privacy friendly </a> )
 
-• <a href="https://www.bromite.org/">Bromite</a>🌍 ⭐
+•<img src="https://fornote.net/wp-content/uploads/2022/05/bromite-browser.png" width="50" height="20"/><a href="https://www.bromite.org/">Bromite</a>🌍 ⭐
 
 (𝘐𝘧 𝘺𝘰𝘶 𝘸𝘢𝘯𝘵 𝘊𝘩𝘳𝘰𝘮𝘦 𝘪𝘯𝘵𝘦𝘳𝘧𝘢𝘤𝘦 𝘢𝘯𝘥 𝘺𝘰𝘶 𝘮𝘢𝘺 𝘭𝘪𝘬𝘦 𝘉𝘳𝘰𝘮𝘪𝘵𝘦)
 
@@ -28,19 +28,19 @@ __________________________
 
 
 _________________________________________
-☆ 𝗕𝗲𝘀𝘁 𝗦𝗲𝗮𝗿𝗰𝗵 𝗘𝗻𝗴𝗶𝗻𝗲:
+☆ 𝗕𝗲𝘀𝘁 𝗦𝗲𝗮𝗿𝗰𝗵 𝗘𝗻𝗴𝗶𝗻𝗲<img src="https://cdn-icons-png.flaticon.com/512/954/954591.png" width="20" height="20"/>:
 
-• <a href="https://search.brave.com/">Brave Search</a>🇺🇲 ⭐❤
-
-
-• <a href="https://duckduckgo.com/">DuckDuckGo</a>🇺🇲 ⭐
+• <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/brave_browser_logo_icon_153013.png" width="20" height="20"/> <a href="https://search.brave.com/">Brave Search</a>🇺🇲 ⭐❤
 
 
-• <a href="https://www.startpage.com/">Startpage</a>🇳🇱 (𝘕𝘰𝘵 𝘢𝘷𝘢𝘪𝘭𝘢𝘣𝘭𝘦 𝘸𝘰𝘳𝘭𝘥𝘸𝘪𝘥𝘦)
+• <img src="https://logodix.com/logo/48248.png" width="20" height="20"/> <a href="https://duckduckgo.com/">DuckDuckGo</a>🇺🇲 ⭐
 
-• <a href="https://search.albony.xyz/?cookies_disabled=1">Whoogle</a>🌍
 
-• <a href="https://searx.space/#">SearX</a>🌍
+• <img src="https://www.startpage.com/startpageblog/wp-content/uploads/2021/05/linkedin-profile-image.png" width="20" height="20"/> <a href="https://www.startpage.com/">Startpage</a>🇳🇱
+
+• <img src="https://gitlab.com/uploads/-/system/project/avatar/26743398/android-icon-192x192.png" width="20" height="20"/> <a href="https://search.albony.xyz/?cookies_disabled=1">Whoogle</a>🌍
+
+• <img src="https://opencollective-production.s3.us-west-1.amazonaws.com/990b2ff0-53d8-11ea-81ed-c3ccfe6a8efe.png" width="20" height="20"/><a href="https://searx.space/#">SearX</a>🌍
 
 
 (𝘐 𝘶𝘴𝘦 𝘍𝘪𝘷𝘦 𝘴𝘦𝘢𝘳𝘤𝘩 𝘦𝘯𝘨𝘪𝘯𝘦 𝘵𝘰 𝘥𝘦𝘤𝘳𝘦𝘢𝘴𝘦 𝘵𝘩𝘦 𝘤𝘩𝘢𝘯𝘤𝘦𝘴 𝘰𝘧 𝘧𝘢𝘭𝘭𝘪𝘯𝘨 𝘣𝘢𝘤𝘬 𝘵𝘰 𝘎𝘰𝘰𝘨𝘭𝘦 𝘧𝘰𝘳 𝘴𝘰𝘮𝘦 𝘴𝘦𝘢𝘳𝘤𝘩 𝘳𝘦𝘴𝘶𝘭𝘵.
@@ -53,18 +53,18 @@ _________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗘𝗺𝗮𝗶𝗹 𝗽𝗿𝗼𝘃𝗶𝗱𝗲𝗿:
 
-• <a href="https://account.proton.me/signup">Proton Mail</a>🇨🇭 ⭐❤
+• <img src="https://avatars3.githubusercontent.com/u/6953970?s=280&v=4" width="20" height="20"/> <a href="https://account.proton.me/signup">Proton Mail</a>🇨🇭 ⭐❤
 
-• <a href="https://tutanota.com/">Tutanota </a>🇩🇪  
+• <img src="https://image.winudf.com/v2/image/ZGUudHV0YW8udHV0YW5vdGFfaWNvbl8xNTI4MTIyNzk1XzAwMw/icon.png?w=170&fakeurl=1&type=.png" width="20" height="20"/><a href="https://tutanota.com/">Tutanota </a>🇩🇪  
 
 
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗘𝗺𝗮𝗶𝗹 𝗖𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:
 
-• <a href="https://email.faircode.eu/">FairEmail</a>🇳🇱 ⭐❤
+• <img src="https://apk-s.io/wp-content/uploads/fairemail-android-logo.png" width="20" height="20"/><a href="https://email.faircode.eu/">FairEmail</a>🇳🇱 ⭐❤
 
-• <a href="https://k9mail.app/">K9Mail</a>🇺🇲 ⭐❤
+• <img src="https://cdn.pngsumo.com/releases-k9mail-k-9-github-k9-mail-png-400_400.jpg" width="20" height="20"/><a href="https://k9mail.app/">K9Mail</a>🇺🇲 ⭐❤
 
 
 (𝘐 𝘭𝘪𝘬𝘦 𝘣𝘰𝘵𝘩 𝘢𝘱𝘱𝘴,𝘪𝘵𝘴 𝘶𝘱 𝘵𝘰 𝘺𝘰𝘶 𝘸𝘩𝘪𝘤𝘩 𝘰𝘯𝘦'𝘴 𝘪𝘯𝘵𝘦𝘳𝘧𝘢𝘤𝘦 𝘢𝘯𝘥 𝘧𝘦𝘢𝘵𝘶𝘳𝘦𝘴 𝘺𝘰𝘶 𝘭𝘪𝘬𝘦)
@@ -74,11 +74,11 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗩𝗣𝗡:
 
-• <a href="https://protonvpn.com/">Proton VPN</a>🇨🇭 (3 𝘤𝘰𝘶𝘯𝘵𝘳𝘪𝘦𝘴 𝘸𝘪𝘵𝘩 𝘧𝘳𝘦𝘦 𝘱𝘭𝘢𝘯) ❤
+• <img src="https://seeklogo.com/images/P/proton-vpn-logo-A50452564D-seeklogo.com.png" width="20" height="20"/><a href="https://protonvpn.com/">Proton VPN</a>🇨🇭 (3 𝘤𝘰𝘶𝘯𝘵𝘳𝘪𝘦𝘴 𝘸𝘪𝘵𝘩 𝘧𝘳𝘦𝘦 𝘱𝘭𝘢𝘯) ❤
 
-• <a href="https://mullvad.net/en/">Mullvad VPN</a>🇸🇪 (𝘗𝘳𝘰𝘵𝘰𝘯 𝘝𝘗𝘕{𝒘𝒊𝒕𝒉 𝒑𝒂𝒊𝒅 𝒑𝒍𝒂𝒏} & 𝘔𝘶𝘭𝘭𝘷𝘢𝘥 𝘢𝘭𝘴𝘰 𝘱𝘳𝘰𝘷𝘪𝘥𝘦 𝘋𝘕𝘚 𝘣𝘢𝘴𝘦𝘥 𝘵𝘳𝘢𝘤𝘬𝘦𝘳+𝘢𝘥𝘴+𝘔𝘢𝘭𝘸𝘢𝘳𝘦 𝘉𝘭𝘰𝘤𝘬𝘪𝘯𝘨)
+• <img src="https://www.aeres-evaluation.fr/wp-content/uploads/2019/07/mullvad-vpn-logo.png" width="20" height="20"/><a href="https://mullvad.net/en/">Mullvad VPN</a>🇸🇪 (𝘗𝘳𝘰𝘵𝘰𝘯 𝘝𝘗𝘕{𝒘𝒊𝒕𝒉 𝒑𝒂𝒊𝒅 𝒑𝒍𝒂𝒏} & 𝘔𝘶𝘭𝘭𝘷𝘢𝘥 𝘢𝘭𝘴𝘰 𝘱𝘳𝘰𝘷𝘪𝘥𝘦 𝘋𝘕𝘚 𝘣𝘢𝘴𝘦𝘥 𝘵𝘳𝘢𝘤𝘬𝘦𝘳+𝘢𝘥𝘴+𝘔𝘢𝘭𝘸𝘢𝘳𝘦 𝘉𝘭𝘰𝘤𝘬𝘪𝘯𝘨)
 
-• <a href="https://www.ivpn.net/">IVPN</a>🇬🇮
+• <img src="https://topvpnsoftware.com/wp-content/uploads/2019/01/246x0w.jpg" width="20" height="20"/><a href="https://www.ivpn.net/">IVPN</a>🇬🇮
 
 
 (𝘝𝘗𝘕𝘴 𝘢𝘳𝘦 𝘯𝘰𝘵 𝘯𝘦𝘤𝘦𝘴𝘴𝘢𝘳𝘺 𝘧𝘰𝘳 𝘱𝘳𝘪𝘷𝘢𝘤𝘺,𝘺𝘰𝘶 𝘤𝘢𝘯 𝘶𝘴𝘦 𝘝𝘗𝘕 𝘵𝘰 𝘩𝘪𝘥𝘦 𝘺𝘰𝘶𝘳 𝘢𝘤𝘤𝘶𝘳𝘢𝘵𝘦 𝘭𝘰𝘤𝘢𝘵𝘪𝘰𝘯 𝘣𝘶𝘵 𝘝𝘗𝘕 𝘥𝘰𝘯𝘰𝘵 𝘨𝘪𝘷𝘦 𝘺𝘰𝘶 𝘵𝘩𝘢𝘵 𝘩𝘪𝘨𝘩 𝘭𝘷𝘭 𝘢𝘯𝘰𝘯𝘺𝘮𝘪𝘵𝘺 𝘢𝘴 𝘵𝘩𝘦𝘺 𝘢𝘥𝘷𝘦𝘳𝘵𝘪𝘴𝘪𝘯𝘨 <a href="https://youtu.be/9_b8Z2kAFyY">Learn more</a>)
@@ -88,19 +88,19 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝙄𝙣𝙨𝙩𝙖𝙣𝙩 𝗠𝗲𝘀𝘀𝗮𝗴𝗶𝗻𝗴 𝗮𝗽𝗽(𝘖𝘯𝘭𝘪𝘯𝘦):
 
-• <a href="https://signal.org/en/">Signal</a>🇺🇲⭐❤
+• <img src="https://idroot.us/wp-content/uploads/2021/01/Signal-messenger-300x300.png" width="20" height="20"/><a href="https://signal.org/en/">Signal</a>🇺🇲⭐❤
 
 • [Session](https://github.com/oxen-io/session-android)🌍 (𝘞𝘪𝘵𝘩𝘰𝘶𝘵 𝘱𝘩𝘰𝘯𝘦 𝘯𝘶𝘮𝘣𝘦𝘳)
 
-• [Element](https://www.f-droid.org/packages/im.vector.app/)🌍 ( [𝘔𝘢𝘵𝘳𝘪𝘹](https://matrix.org/) 𝘊𝘭𝘪𝘦𝘯𝘵)
+• <img src="https://appedus.com/wp-content/uploads/2021/03/Element-App-Review-Appedus.png" width="20" height="20"/>[Element](https://www.f-droid.org/packages/im.vector.app/)🌍 ( [𝘔𝘢𝘵𝘳𝘪𝘹](https://matrix.org/) 𝘊𝘭𝘪𝘦𝘯𝘵)
 
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝘿𝙚𝙛𝙖𝙪𝙡𝙩 𝗠𝗲𝘀𝘀𝗮𝗴𝗶𝗻𝗴 𝗮𝗽𝗽(𝘖𝘧𝘧𝘭𝘪𝘯𝘦):
 
-• <a href="https://github.com/SimpleMobileTools/Simple-SMS-Messenger">Simple SMS Messenger</a> ⭐❤️
+• <img src="https://vectorified.com/images/text-message-icon-android-26.png" width="20" height="20"/><a href="https://github.com/SimpleMobileTools/Simple-SMS-Messenger">Simple SMS Messenger</a> ⭐❤️
 
-• [QKSMS](https://www.f-droid.org/packages/com.moez.QKSMS/)🇨🇦
+• <img src="https://1.bp.blogspot.com/-Ho5SZvgSkuM/WtSrEcql5NI/AAAAAAAAEyE/gUofW97uH0kwRx6bzM1zZibw0Gbtb_QsQCK4BGAYYCw/s400/qk-sms.png" width="20" height="20"/>[QKSMS](https://www.f-droid.org/packages/com.moez.QKSMS/)🇨🇦
 
 
 
@@ -109,15 +109,15 @@ __________________________________________
 
 𝘾𝙪𝙨𝙩𝙤𝙢𝙞𝙯𝙖𝙗𝙡𝙚 : 
 
-• <a href="https://nextdns.io/">Nextdns</a>🇺🇲 (𝘈𝘥 & 𝘛𝘳𝘢𝘤𝘬𝘦𝘳 𝘣𝘭𝘰𝘤𝘬𝘦𝘳 + 𝘗𝘢𝘳𝘦𝘯𝘵𝘢𝘭 𝘤𝘰𝘯𝘵𝘳𝘰𝘭) ⭐❤
+• <img src="https://avatars3.githubusercontent.com/u/48380765?s=200&v=4" width="20" height="20"/><a href="https://nextdns.io/">Nextdns</a>🇺🇲 (𝘈𝘥 & 𝘛𝘳𝘢𝘤𝘬𝘦𝘳 𝘣𝘭𝘰𝘤𝘬𝘦𝘳 + 𝘗𝘢𝘳𝘦𝘯𝘵𝘢𝘭 𝘤𝘰𝘯𝘵𝘳𝘰𝘭) ⭐❤
 
 ❌𝘋𝘰𝘯𝘰𝘵 𝘶𝘴𝘦 𝘗𝘢𝘳𝘦𝘯𝘵𝘢𝘭 𝘊𝘰𝘯𝘵𝘳𝘰𝘭 𝘢𝘱𝘱 𝘢𝘯𝘥 𝘯𝘰𝘯-𝘍𝘖𝘚𝘚 𝘈𝘥-𝘉𝘭𝘰𝘤𝘬𝘦𝘳
 
 𝙉𝙤𝙩 𝘾𝙪𝙨𝙩𝙤𝙢𝙞𝙯𝙖𝙗𝙡𝙚 :
 
-• <a href="https://www.quad9.net/">Quad9</a>🇨🇭
+• <img src="https://avatars.githubusercontent.com/u/34136369?s=280&v=4" width="20" height="20"/><a href="https://www.quad9.net/">Quad9</a>🇨🇭
 
-• <a href="https://adguard-dns.io/en/welcome.html">Adguard DNS</a>🇨🇾  
+• <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/adguard_logo_icon_167905.png" width="20" height="20"/><a href="https://adguard-dns.io/en/welcome.html">Adguard DNS</a>🇨🇾  
 
 <a href="https://www.online-tech-tips.com/computer-tips/what-is-private-dns-and-how-to-use-it/">Learn to setup Private DNS</a>
 
@@ -128,11 +128,11 @@ __________________________________________
 
 𝙊𝙣𝙡𝙞𝙣𝙚:
 
-• <a href="https://bitwarden.com/">Bitwarden</a>🇺🇲 ⭐❤
+• <img src="https://hund-client-logos.s3.amazonaws.com/uploads/square-5e81e1e910bdfb739a1300da-09c2775c-4639-47ec-9638-4a2cf546f05a.png" width="20" height="20"/><a href="https://bitwarden.com/">Bitwarden</a>🇺🇲 ⭐❤
 
 𝙊𝙛𝙛𝙡𝙞𝙣𝙚:
 
-• <a href="https://www.keepassdx.com/">KeepassDx</a>🇫🇷 ⭐❤
+• <img src="https://framalibre.org/sites/default/files/leslogos/ic_launcher_round.png" width="20" height="20"/><a href="https://www.keepassdx.com/">KeepassDx</a>🇫🇷 ⭐❤
 
 
 (✅ 𝘜𝘴𝘦 𝘣𝘰𝘵𝘩 𝘴𝘦𝘳𝘷𝘪𝘤𝘦𝘴 𝘧𝘰𝘳 𝘦𝘢𝘴𝘺 𝘢𝘤𝘤𝘦𝘴𝘴𝘪𝘣𝘪𝘭𝘪𝘵𝘺 𝘢𝘯𝘥 𝘴𝘦𝘤𝘶𝘳𝘦 𝘣𝘢𝘤𝘬𝘶𝘱)
@@ -143,7 +143,7 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝟮𝗙𝗔 𝗔𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰𝗮𝘁𝗼𝗿 𝗮𝗽𝗽:
 
-• <a href="https://getaegis.app/">Aegis</a>🌍 ⭐❤
+• <img src="https://www.thinkprivacy.net/assets/img/tools/aegis.png" width="20" height="20"/><a href="https://getaegis.app/">Aegis</a>🌍 ⭐❤
 
 (𝘐 𝘳𝘦𝘤𝘰𝘮𝘮𝘦𝘯𝘥 𝘺𝘰𝘶 𝘵𝘰 𝘸𝘢𝘵𝘤𝘩 𝘴𝘰𝘮𝘦 𝘵𝘶𝘵𝘰𝘳𝘪𝘢𝘭𝘴 𝘷𝘪𝘥𝘦𝘰 𝘣𝘦𝘧𝘰𝘳𝘦 𝘦𝘯𝘢𝘣𝘭𝘪𝘯𝘨 2𝘍𝘈 ,𝘢𝘯𝘥 𝘮𝘢𝘬𝘦 𝘢 𝘱𝘭𝘢𝘯 𝘰𝘯 𝘴𝘪𝘵𝘶𝘢𝘵𝘪𝘰𝘯 𝘸𝘩𝘦𝘯 𝘺𝘰𝘶 𝘭𝘰𝘴𝘵 𝘢𝘤𝘤𝘦𝘴𝘴 𝘵𝘰 𝘺𝘰𝘶𝘳 𝘢𝘤𝘤𝘰𝘶𝘯𝘵 ,𝘧𝘳𝘰𝘮 𝘸𝘩𝘦𝘳𝘦 𝘺𝘰𝘶 𝘴𝘵𝘢𝘳𝘵 𝘢𝘯𝘥 𝘸𝘩𝘪𝘤𝘩 𝘢𝘤𝘤𝘰𝘶𝘯𝘵 𝘺𝘰𝘶 𝘳𝘦𝘤𝘰𝘷𝘦𝘳 𝘧𝘪𝘳𝘴𝘵 𝘦𝘵𝘤..)
 
