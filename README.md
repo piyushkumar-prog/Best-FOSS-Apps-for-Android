@@ -19,7 +19,7 @@ __________________________
 
 (𝘛𝘰 𝘶𝘴𝘦 𝘍𝘪𝘳𝘦𝘧𝘰𝘹 ,𝘺𝘰𝘶 𝘩𝘢𝘷𝘦 𝘵𝘰 𝘮𝘢𝘬𝘦 𝘮𝘢𝘯𝘺 𝘤𝘩𝘢𝘯𝘨𝘦𝘴 𝘢𝘯𝘥 𝘢𝘥𝘥 𝘴𝘰𝘮𝘦 𝘢𝘥𝘰𝘯𝘴 𝘵𝘰 𝘺𝘰𝘶𝘳 𝘣𝘳𝘰𝘸𝘴𝘦𝘳. <a href="https://chrisx.xyz/blog/yet-another-firefox-hardening-guide/">Learn how to make Firefox more privacy friendly </a> )
 
-•<img src="https://fornote.net/wp-content/uploads/2022/05/bromite-browser.png" width="50" height="20"/><a href="https://www.bromite.org/">Bromite</a>🌍 ⭐
+•<img src="https://www.bromite.org/bromite.png" width="20" height="20"/><a href="https://www.bromite.org/">Bromite</a>🌍 ⭐
 
 (𝘐𝘧 𝘺𝘰𝘶 𝘸𝘢𝘯𝘵 𝘊𝘩𝘳𝘰𝘮𝘦 𝘪𝘯𝘵𝘦𝘳𝘧𝘢𝘤𝘦 𝘢𝘯𝘥 𝘺𝘰𝘶 𝘮𝘢𝘺 𝘭𝘪𝘬𝘦 𝘉𝘳𝘰𝘮𝘪𝘵𝘦)
 
@@ -53,7 +53,7 @@ _________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗘𝗺𝗮𝗶𝗹 𝗽𝗿𝗼𝘃𝗶𝗱𝗲𝗿:
 
-• <img src="https://avatars3.githubusercontent.com/u/6953970?s=280&v=4" width="20" height="20"/> <a href="https://account.proton.me/signup">Proton Mail</a>🇨🇭 ⭐❤
+• <img src="https://proton.me/static/proton-mail-badge-0e258be9edc6287a49fd01558c106073.svg" width="20" height="20"/> <a href="https://account.proton.me/signup">Proton Mail</a>🇨🇭 ⭐❤
 
 • <img src="https://image.winudf.com/v2/image/ZGUudHV0YW8udHV0YW5vdGFfaWNvbl8xNTI4MTIyNzk1XzAwMw/icon.png?w=170&fakeurl=1&type=.png" width="20" height="20"/><a href="https://tutanota.com/">Tutanota </a>🇩🇪  
 
@@ -90,7 +90,7 @@ __________________________________________
 
 • <img src="https://idroot.us/wp-content/uploads/2021/01/Signal-messenger-300x300.png" width="20" height="20"/><a href="https://signal.org/en/">Signal</a>🇺🇲⭐❤
 
-• [Session](https://github.com/oxen-io/session-android)🌍 (𝘞𝘪𝘵𝘩𝘰𝘶𝘵 𝘱𝘩𝘰𝘯𝘦 𝘯𝘶𝘮𝘣𝘦𝘳)
+• <img src="https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fdownloadr2.apkmirror.com%2Fwp-content%2Fuploads%2F2020%2F09%2F99%2F5f5d3ef6ee0ae.png" width="20" height="20"/>[Session](https://github.com/oxen-io/session-android)🌍 (𝘞𝘪𝘵𝘩𝘰𝘶𝘵 𝘱𝘩𝘰𝘯𝘦 𝘯𝘶𝘮𝘣𝘦𝘳)
 
 • <img src="https://appedus.com/wp-content/uploads/2021/03/Element-App-Review-Appedus.png" width="20" height="20"/>[Element](https://www.f-droid.org/packages/im.vector.app/)🌍 ( [𝘔𝘢𝘵𝘳𝘪𝘹](https://matrix.org/) 𝘊𝘭𝘪𝘦𝘯𝘵)
 
@@ -186,7 +186,7 @@ __________________________________________
 
 • <img src="https://user-images.githubusercontent.com/104879897/206905049-08615220-54db-44c6-a83c-a4cc9f1ea448.png" width="20" height="20"/><a href="https://github.com/TrackerControl/tracker-control-android">TrackerControl</a>🇬🇧
 
-• <img src="https://www.apkjugaad.com/wp-content/uploads/2020/12/NetGuard-no-root-firewall-Logo-min.jpg" width="20" height="20"/><a href="https://github.com/M66B/NetGuard">NetGuard</a>🇳🇱
+• <img src="https://raw.githubusercontent.com/M66B/NetGuard/master/app/src/main/res/mipmap-hdpi/ic_launcher.png" width="20" height="20"/><a href="https://github.com/M66B/NetGuard">NetGuard</a>🇳🇱
 
 
 
@@ -224,7 +224,7 @@ __________________________________________
 __________________________________________
 ☆𝗕𝗲𝘀𝘁 𝗪𝗼𝗿𝗸 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗔𝗽𝗽:
 
-• [Shelter](https://www.f-droid.org/packages/net.typeblog.shelter/)🌍⭐❤️
+• <img src="https://f-droid.org/repo/net.typeblog.shelter/en-US/icon_SadI7N5owTo-UKqex_wGEQdfXb3rvqoD4y_DXKRRRl8=.png" width="20" height="20"/>[Shelter](https://www.f-droid.org/packages/net.typeblog.shelter/)🌍⭐❤️
 
 (𝘞𝘰𝘳𝘬 𝘗𝘳𝘰𝘧𝘪𝘭𝘦 𝘪𝘴 𝘶𝘴𝘦 𝘵𝘰 𝘪𝘴𝘰𝘭𝘢𝘵𝘦 𝘢𝘱𝘱𝘴 𝘵𝘩𝘢𝘵 𝘢𝘳𝘦 𝘯𝘰𝘵 𝘨𝘰𝘰𝘥 𝘧𝘰𝘳 𝘰𝘶𝘳 𝘪𝘯𝘵𝘦𝘳𝘯𝘦𝘵 𝘱𝘳𝘪𝘷𝘢𝘤𝘺 𝘣𝘶𝘵 𝘺𝘰𝘶 𝘩𝘢𝘷𝘦 𝘵𝘰 𝘶𝘴𝘦 𝘪𝘵 𝘧𝘰𝘳 𝘞𝘰𝘳𝘬 𝘰𝘳 𝘢𝘯𝘺 𝘰𝘵𝘩𝘦𝘳 𝘳𝘦𝘢𝘴𝘰𝘯𝘴)
 
@@ -243,7 +243,7 @@ __________________________________________
 
 • <img src="https://f-droid.org/repo/cz.martykan.forecastie/en-US/icon_laqgosbqKeQqKeaITfRLLuyL5tuTrogyMqeVm7GuDFE=.png" width="20" height="20"/><a href="https://f-droid.org/en/packages/cz.martykan.forecastie/">Forecastie</a>🌍 ⭐❤
 
-• <a href="https://f-droid.org/packages/wangdaye.com.geometricweather/">Geometric Weather</a>🇨🇳
+• <img src="https://f-droid.org/repo/icons-640/wangdaye.com.geometricweather.30013.png" width="20" height="20"/><a href="https://f-droid.org/packages/wangdaye.com.geometricweather/">Geometric Weather</a>🇨🇳
 
 
 
@@ -303,28 +303,28 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗣𝗗𝗙 𝗥𝗲𝗮𝗱𝗲𝗿 𝗮𝗽𝗽:
 
-• <a href="https://github.com/GrapheneOS/PdfViewer">PDF Viewer </a>🌍 ⭐❤ (𝘖𝘯𝘭𝘺 𝘴𝘶𝘱𝘱𝘰𝘳𝘵𝘴 𝘗𝘋𝘍)
+• <img src="https://forum.f-droid.org/uploads/default/original/2X/7/727ddb630f58086fb97f05e794b25d61cb901b3c.png" width="20" height="20"/><a href="https://f-droid.org/archive/com.artifex.mupdfdemo_111.apk">MuPDF viewer </a>🌍 (𝘖𝘯𝘭𝘺 𝘴𝘶𝘱𝘱𝘰𝘳𝘵𝘴 𝘗𝘋𝘍)
 
-• <a href="https://www.f-droid.org/packages/com.foobnix.pro.pdf.reader/">Librera PRO</a>🇺🇦 ⭐❤ (𝘚𝘶𝘱𝘱𝘰𝘳𝘵𝘴 𝘢𝘭𝘮𝘰𝘴𝘵 𝘢𝘭𝘭 𝘧𝘰𝘳𝘮𝘢𝘵𝘴)
+• <img src="https://f-droid.org/repo/com.foobnix.pro.pdf.reader/en-US/icon_y15Jxhzp6YrmjLC-wtc27B6XLTcArf7yK-2WlpNaoe0=.png" width="20" height="20"/><a href="https://www.f-droid.org/packages/com.foobnix.pro.pdf.reader/">Librera PRO</a>🇺🇦 ⭐❤ (𝘚𝘶𝘱𝘱𝘰𝘳𝘵𝘴 𝘢𝘭𝘮𝘰𝘴𝘵 𝘢𝘭𝘭 𝘧𝘰𝘳𝘮𝘢𝘵𝘴)
 
-• [MJ PDF Reader](https://apt.izzysoft.de/fdroid/repo/com.gitlab.mudlej.MjPdfReader_44.apk) (𝘋𝘢𝘳𝘬 𝘮𝘰𝘥𝘦 𝘢𝘷𝘢𝘪𝘭𝘢𝘣𝘭𝘦)
+• <img src="https://gitlab.com/uploads/-/system/project/avatar/38392439/ic_launcher.png" width="20" height="20"/>[MJ PDF Reader](https://apt.izzysoft.de/fdroid/repo/com.gitlab.mudlej.MjPdfReader_44.apk) ⭐❤️ (𝘋𝘢𝘳𝘬 𝘮𝘰𝘥𝘦 𝘢𝘷𝘢𝘪𝘭𝘢𝘣𝘭𝘦)
 
 
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗚𝗮𝗹𝗹𝗲𝗿𝘆 𝗮𝗽𝗽:
 
-• <a href="https://www.f-droid.org/packages/com.simplemobiletools.gallery.pro/">Simple Gallery PRO</a>🇸🇰
+• <img src="https://img.utdstc.com/icon/f43/b39/f43b39d98ef3f8791e01f39a89485b62fa6cd5a9613668bc7ba6d499ba2255eb:200" width="20" height="20"/><a href="https://www.f-droid.org/packages/com.simplemobiletools.gallery.pro/">Simple Gallery PRO</a>🇸🇰
 
-• [Aves](https://github.com/deckerst/aves)🇨🇵
+• <img src="https://f-droid.org/repo/deckers.thibault.aves.libre/en-US/icon_tWKzpcXoHtPXfPaAi6S4sCtAbGO-5BohGTBzafSvyjs=.png" width="20" height="20"/>[Aves](https://github.com/deckerst/aves)🇨🇵
 
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗙𝗶𝗹𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿:
 
-• <a href="https://www.f-droid.org/packages/com.amaze.filemanager/">Amaze File Manager </a>🇮🇳
+• <img src="https://f-droid.org/repo/com.amaze.filemanager/en-US/icon_Ar4jMriDD9t5ixn9iV8E5ydl7ijhf5eMcjF0qOTBLu0=.png" width="20" height="20"/><a href="https://www.f-droid.org/packages/com.amaze.filemanager/">Amaze File Manager </a>🇮🇳
 
-• [Material Files](https://www.f-droid.org/packages/me.zhanghai.android.files/)🇺🇲
+• <img src="https://f-droid.org/repo/me.zhanghai.android.files/en-US/icon_BFY8kIAZkrB0kKwXt1uVDgghMociormUlcOIedEh2mA=.png" width="20" height="20"/>[Material Files](https://www.f-droid.org/packages/me.zhanghai.android.files/)🇺🇲
 
 ❌𝘋𝘰𝘯𝘰𝘵 𝘶𝘴𝘦 𝘍𝘪𝘭𝘦𝘴 𝘣𝘺 𝘎𝘰𝘰𝘨𝘭𝘦
 
@@ -332,19 +332,19 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:(𝘢𝘥-𝘧𝘳𝘦𝘦)
 
-• <a href="https://newpipe.net/">Newpipe</a>🌍 ⭐❤ 
+• <img src="https://f-droid.org/repo/org.schabi.newpipe/en-US/icon_OHy4y1W-fJCNhHHOBCM9V_cxZNJJgbcNkB-x7UDTY9Q=.png" width="20" height="20"/><a href="https://newpipe.net/">Newpipe</a>🌍 ⭐❤ 
 
-• [LibreTube](https://github.com/libre-tube/LibreTube)🌍 (𝘈𝘥𝘴+𝘴𝘱𝘰𝘯𝘴𝘰𝘳 𝘉𝘭𝘰𝘤𝘬)
+• <img src="https://f-droid.org/repo/com.github.libretube/en-US/icon_nwju-baXbhCMazDgl9689lv_lktN93m_85KZf67Zktw=.png" width="20" height="20"/>[LibreTube](https://github.com/libre-tube/LibreTube)🌍 (𝘈𝘥𝘴+𝘴𝘱𝘰𝘯𝘴𝘰𝘳 𝘉𝘭𝘰𝘤𝘬)
 
-• [Youtube Revanced](https://github.com/revanced/revanced-manager)🌍 
+• <img src="https://avatars.githubusercontent.com/u/101597779?s=200&v=4" width="20" height="20"/>[Youtube Revanced](https://github.com/revanced/revanced-manager)🌍 
 (Youtube Mod patcher, [Learn how to Install](https://youtu.be/lYtSFqgGLaw) )
 (𝘠𝘰𝘶 𝘯𝘦𝘦𝘥 𝘵𝘰 𝘴𝘪𝘨𝘯 𝘪𝘯 𝘸𝘪𝘵𝘩 𝘎𝘮𝘢𝘪𝘭 𝘵𝘰 𝘚𝘶𝘣𝘴𝘤𝘳𝘪𝘣𝘦 𝘵𝘰 𝘢𝘯𝘺 𝘤𝘩𝘢𝘯𝘯𝘦𝘭,𝘴𝘰 𝘪𝘧 𝘶 𝘸𝘢𝘯𝘵 𝘦𝘹𝘵𝘳𝘦𝘮𝘦 𝘱𝘳𝘪𝘷𝘢𝘤𝘺 ,𝘢𝘷𝘰𝘪𝘥 𝘶𝘴𝘪𝘯𝘨 𝘪𝘵)
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗧𝘄𝗶𝘁𝘁𝗲𝗿 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:(𝘈𝘤𝘤𝘦𝘴𝘴 𝘵𝘸𝘦𝘦𝘵𝘴 𝘸𝘪𝘵𝘩𝘰𝘶𝘵 𝘈𝘤𝘤𝘰𝘶𝘯𝘵)
 
-• <a href="https://www.f-droid.org/packages/com.jonjomckay.fritter/">Fritter</a>🌍 ❤
+• <img src="https://f-droid.org/repo/com.jonjomckay.fritter/en-US/icon_JE_RgOtVat6t3yiaehvGuyyCLTrEC2V-UMGyDjQJlEo=.png" width="20" height="20"/><a href="https://www.f-droid.org/packages/com.jonjomckay.fritter/">Fritter</a>🌍 ❤
 
-• <a href="https://nitter.net/">Nitter</a>🌍 (𝘞𝘦𝘣 𝘢𝘱𝘱)
+• <img src="https://f-droid.org/repo/com.plexer0.nitter/en-US/icon_Kh4S6V1yqClUU5mFhmZ-bOb_yAuYi2V_bGbjMyQEUW8=.png" width="20" height="20"/><a href="https://github.com/zedeus/nitter/wiki/Instances">Nitter</a>🌍 (𝘞𝘦𝘣 𝘢𝘱𝘱)
 
 ❌𝘋𝘰𝘯𝘰𝘵 𝘶𝘴𝘦 𝘢𝘯𝘺 𝘴𝘰𝘤𝘪𝘢𝘭 𝘮𝘦𝘥𝘪𝘢 𝘞𝘪𝘵𝘩 𝘢𝘤𝘤𝘰𝘶𝘯𝘵. 
 
@@ -352,16 +352,14 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗥𝗲𝗱𝗱𝗶𝘁 𝗖𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:
 
-• <a href="https://www.f-droid.org/packages/ml.docilealligator.infinityforreddit/">Infinity for reddit</a>🌍 ❤
+• <img src="https://f-droid.org/repo/ml.docilealligator.infinityforreddit/en-US/icon_k3rHUumkceuBhQzl7CBHaIMfJn_o1lRDPP4ldA3I7Zw=.png" width="20" height="20"/><a href="https://www.f-droid.org/packages/ml.docilealligator.infinityforreddit/">Infinity for reddit</a>🌍 ❤
 
-• <a href="https://libredd.it/">Libreddit</a>🌍 (𝘞𝘦𝘣 𝘈𝘱𝘱)
+• <img src="https://avatars.githubusercontent.com/u/117129612?v=4&s=160" width="20" height="20"/><a href="https://github.com/libreddit/libreddit-instances/blob/master/instances.md">Libreddit</a>🌍 (𝘞𝘦𝘣 𝘈𝘱𝘱)
 
 
 
 __________________________________________
 ☆ 𝘽𝙚𝙨𝙩 𝙞𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢 𝙘𝙡𝙞𝙚𝙣𝙩:(𝘞𝘦𝘣 𝘈𝘱𝘱)
-
-• <a href="https://bibliogram.art/">Biblogram</a>🌍
 
 • <a href="https://dumpor.com/">Dumpor</a>🌍
 
@@ -376,7 +374,7 @@ __________________________________________
 __________________________________________
 ☆𝘽𝙚𝙨𝙩 𝙃𝙚𝙖𝙡𝙩𝙝 𝘼𝙥𝙥:
 
-• [Loop Habit Tracker](https://f-droid.org/repo/org.isoron.uhabits_20101.apk)🇺🇲
+• <img src="https://f-droid.org/repo/org.isoron.uhabits/en-US/icon_dhJtIjNYdwt-e9Ky5Xm91xiWo0HtQPSEiEHTCAigQeQ=.png" width="20" height="20"/>[Loop Habit Tracker](https://f-droid.org/repo/org.isoron.uhabits_20101.apk)🇺🇲
 
 
 
