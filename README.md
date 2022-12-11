@@ -154,48 +154,48 @@ __________________________________________
 
 𝙁𝙧𝙚𝙚:
 
-• <a href="https://www.openkeychain.org/">Openkeychain</a>🇩🇪(𝘙𝘦𝘲𝘶𝘪𝘳𝘦𝘴 𝘢𝘱𝘱 𝘵𝘰 𝘦𝘯𝘤𝘳𝘺𝘱𝘵𝘪𝘰𝘯/𝘥𝘦𝘤𝘳𝘺𝘱𝘵𝘪𝘰𝘯)
+• <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/OpenKeychain_Logo.svg/325px-OpenKeychain_Logo.svg.png" width="20" height="20"/><a href="https://www.openkeychain.org/">Openkeychain</a>🇩🇪(𝘙𝘦𝘲𝘶𝘪𝘳𝘦𝘴 𝘢𝘱𝘱 𝘵𝘰 𝘦𝘯𝘤𝘳𝘺𝘱𝘵𝘪𝘰𝘯/𝘥𝘦𝘤𝘳𝘺𝘱𝘵𝘪𝘰𝘯)
 
 𝙋𝙖𝙞𝙙:
 
-• <a href="https://cryptomator.org/">Cryptomator</a>🇩🇪
+• <img src="https://cryptomator.org/presskit/cryptomator-logo.png" width="20" height="20"/><a href="https://cryptomator.org/">Cryptomator</a>🇩🇪
 
 
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗖𝗹𝗼𝘂𝗱 𝘀𝗲𝗿𝘃𝗶𝗰𝗲:
 
-• <a href="https://proton.me/drive">Proton Drive</a>🇨🇭 (1𝘎𝘉 𝘧𝘳𝘦𝘦 𝘴𝘵𝘰𝘳𝘢𝘨𝘦) ⭐❤
+• <img src="https://www.itopnews.de/appicons/icons.php?src=https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/61/2a/b6/612ab6fa-afc9-b7df-dab3-68923b5e006d/AppIcon-Release-External-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg&zc=3" width="20" height="20"/><a href="https://proton.me/drive">Proton Drive</a>🇨🇭 (1𝘎𝘉 𝘧𝘳𝘦𝘦 𝘴𝘵𝘰𝘳𝘢𝘨𝘦) ⭐❤
 
 (𝘕𝘖𝘛𝘌: 𝘸𝘩𝘦𝘯 𝘺𝘰𝘶 𝘤𝘳𝘦𝘢𝘵𝘦 𝘱𝘳𝘰𝘵𝘰𝘯 𝘢𝘤𝘤𝘰𝘶𝘯𝘵 𝘺𝘰𝘶 𝘨𝘦𝘵 500𝘔𝘉 𝘧𝘳𝘦𝘦 𝘴𝘵𝘰𝘳𝘢𝘨𝘦, 𝘣𝘶𝘵 𝘢𝘧𝘵𝘦𝘳 𝘤𝘰𝘮𝘱𝘭𝘦𝘵𝘪𝘯𝘨 𝘴𝘰𝘮𝘦 𝘵𝘢𝘴𝘬 𝘨𝘪𝘷𝘦𝘯 𝘣𝘺 𝘱𝘳𝘰𝘵𝘰𝘯 𝘥𝘳𝘪𝘷𝘦 𝘺𝘰𝘶 𝘸𝘪𝘭𝘭 𝘨𝘦𝘵 𝘮𝘰𝘳𝘦 500𝘔𝘣 𝘧𝘳𝘦𝘦 𝘴𝘵𝘰𝘳𝘢𝘨𝘦)
 
-• <a href="https://nextcloud.com/">NextCloud</a>🇩🇪 (𝘚𝘦𝘭𝘧 𝘩𝘰𝘴𝘵𝘦𝘥)(𝘛𝘩𝘦𝘳𝘦 𝘢𝘳𝘦 𝘧𝘳𝘦𝘦 𝘴𝘦𝘳𝘷𝘦𝘳𝘴 𝘢𝘭𝘴𝘰 𝘣𝘶𝘵 𝘯𝘰𝘵 𝘴𝘶𝘳𝘦 𝘵𝘩𝘢𝘵 𝘵𝘩𝘦𝘺 𝘦𝘯𝘤𝘳𝘺𝘱𝘵 𝘰𝘶𝘳 𝘥𝘢𝘵𝘢 𝘴𝘢𝘧𝘦𝘭𝘺 𝘰𝘳 𝘯𝘰𝘵,𝘣𝘶𝘵 𝘪𝘧 𝘺𝘰𝘶 𝘸𝘢𝘯𝘵 𝘵𝘰 𝘵𝘳𝘺 ,𝘺𝘰𝘶 𝘤𝘢𝘯 𝘤𝘩𝘰𝘰𝘴𝘦 [𝘞ö𝘭𝘬𝘭𝘪](https://woelkli.com/en) )
+• <img src="https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/nextcloud-icon.png" width="20" height="20"/><a href="https://nextcloud.com/">NextCloud</a>🇩🇪 (𝘚𝘦𝘭𝘧 𝘩𝘰𝘴𝘵𝘦𝘥)(𝘛𝘩𝘦𝘳𝘦 𝘢𝘳𝘦 𝘧𝘳𝘦𝘦 𝘴𝘦𝘳𝘷𝘦𝘳𝘴 𝘢𝘭𝘴𝘰 𝘣𝘶𝘵 𝘯𝘰𝘵 𝘴𝘶𝘳𝘦 𝘵𝘩𝘢𝘵 𝘵𝘩𝘦𝘺 𝘦𝘯𝘤𝘳𝘺𝘱𝘵 𝘰𝘶𝘳 𝘥𝘢𝘵𝘢 𝘴𝘢𝘧𝘦𝘭𝘺 𝘰𝘳 𝘯𝘰𝘵,𝘣𝘶𝘵 𝘪𝘧 𝘺𝘰𝘶 𝘸𝘢𝘯𝘵 𝘵𝘰 𝘵𝘳𝘺 ,𝘺𝘰𝘶 𝘤𝘢𝘯 𝘤𝘩𝘰𝘰𝘴𝘦 [𝘞ö𝘭𝘬𝘭𝘪](https://woelkli.com/en) )
 
-• <a href="https://tresorit.com/">Tresorit</a>🌍 (3𝘎𝘉 𝘍𝘳𝘦𝘦 𝘸𝘪𝘵𝘩 [𝘛𝘳𝘦𝘴𝘰𝘳𝘪𝘵 𝘉𝘢𝘴𝘪𝘤](https://tresorit.com/pricing/basic) )
+• <img src="https://mobile-cdn.softpedia.com/apk/images/icon_tresorit.png" width="20" height="20"/><a href="https://tresorit.com/">Tresorit</a>🌍 (3𝘎𝘉 𝘍𝘳𝘦𝘦 𝘸𝘪𝘵𝘩 [𝘛𝘳𝘦𝘴𝘰𝘳𝘪𝘵 𝘉𝘢𝘴𝘪𝘤](https://tresorit.com/pricing/basic) )
 
-• <a href="https://filen.io/">Filen</a>🇩🇪 (10𝘎𝘉 𝘧𝘳𝘦𝘦)
+• <img src="https://filen.io/images/logo_light.svg" width="20" height="20"/><a href="https://filen.io/">Filen</a>🇩🇪 (10𝘎𝘉 𝘧𝘳𝘦𝘦)
 
-• <a href="https://mega.io/">MEGA</a>🇳🇿 (20𝘎B 𝘧𝘳𝘦𝘦) (For some [reasons](https://www.forbes.com/sites/anthonykosner/2013/01/19/kim-dotcoms-new-mega-encrypted-cloud-storage-see-no-evil-store-no-evil/) Donot use Mega for your sensitive personal data)
+• <img src="https://cdn.freebiesupply.com/logos/large/2x/mega-icon-logo-png-transparent.png" width="20" height="20"/><a href="https://mega.io/">MEGA</a>🇳🇿 (20𝘎B 𝘧𝘳𝘦𝘦) (For some [reasons](https://www.forbes.com/sites/anthonykosner/2013/01/19/kim-dotcoms-new-mega-encrypted-cloud-storage-see-no-evil-store-no-evil/) Donot use Mega for your sensitive personal data)
 
 
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗙𝗶𝗿𝗲𝘄𝗮𝗹𝗹:
 
-• <a href="https://github.com/celzero/rethink-app">Rethink: DNS + Firewall</a>🌍⭐❤️
+• <img src="https://docs.rethinkdns.com/img/app_icon.svg" width="20" height="20"/><a href="https://github.com/celzero/rethink-app">Rethink: DNS + Firewall</a>🌍⭐❤️
 
-• <a href="https://github.com/TrackerControl/tracker-control-android">TrackerControl</a>🇬🇧
+• <img src="https://user-images.githubusercontent.com/104879897/206905049-08615220-54db-44c6-a83c-a4cc9f1ea448.png" width="20" height="20"/><a href="https://github.com/TrackerControl/tracker-control-android">TrackerControl</a>🇬🇧
 
-• <a href="https://github.com/M66B/NetGuard">NetGuard</a>🇳🇱
+• <img src="https://www.apkjugaad.com/wp-content/uploads/2020/12/NetGuard-no-root-firewall-Logo-min.jpg" width="20" height="20"/><a href="https://github.com/M66B/NetGuard">NetGuard</a>🇳🇱
 
 
 
 __________________________________________
 ☆𝗕𝗲𝘀𝘁 𝗞𝗲𝘆𝗯𝗼𝗮𝗿𝗱:
 
-• [OpenBoard](https://github.com/openboard-team/openboard)🌍⭐❤️
+• <img src="https://www.gadgetreview.com/wp-content/uploads/OpenBoard-Keyboard-for-Android.png" width="20" height="20"/>[OpenBoard](https://github.com/openboard-team/openboard)🌍⭐❤️
 
-• [Florisboard](https://github.com/florisboard/florisboard)🌍
+• <img src="https://github.com/florisboard/florisboard/blob/master/.github/repo_icon.png" width="20" height="20"/>[Florisboard](https://github.com/florisboard/florisboard)🌍
 
 
 
@@ -203,21 +203,21 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗣𝗹𝗮𝘆𝘀𝘁𝗼𝗿𝗲 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:
 
-• <a href="https://f-droid.org/packages/com.aurora.store/">Aurora Store</a>🇮🇳 
+• <img src="https://github.com/whyorean/AuroraStore/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="20" height="20"/><a href="https://f-droid.org/packages/com.aurora.store/">Aurora Store</a>🇮🇳 
 
 
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗙𝗢𝗦𝗦 𝗮𝗽𝗽 𝘀𝘁𝗼𝗿𝗲:
 
-• <a href="https://f-droid.org/">Fdroid</a>🌍 ⭐❤
+• <img src="https://avatars.githubusercontent.com/u/8239603?s=200&v=4" width="20" height="20"/><a href="https://f-droid.org/">Fdroid</a>🌍 ⭐❤
 
 
 
 __________________________________________
 ☆𝗕𝗲𝘀𝘁 𝗙𝗱𝗿𝗼𝗶𝗱 𝗰𝗹𝗶𝗲𝗻𝘁 𝗮𝗽𝗽:
 
-• <a href="https://f-droid.org/packages/com.looker.droidify/">Droid-ify</a>🌍 ⭐❤
+• <img src="https://github.com/Iamlooker/Droid-ify/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="20" height="20"/><a href="https://f-droid.org/packages/com.looker.droidify/">Droid-ify</a>🌍 ⭐❤
 
 
 
@@ -233,15 +233,15 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗡𝗮𝘃𝗶𝗴𝗮𝘁𝗶𝗼𝗻 𝗮𝗽𝗽(𝗠𝗮𝗽):
 
-• <a href="https://f-droid.org/en/packages/net.osmand.plus/">OsmAnd~</a>🇳🇱 ⭐❤
+• <img src="https://avatars.githubusercontent.com/u/8239603?s=200&v=4" width="20" height="20"/><a href="https://f-droid.org/en/packages/net.osmand.plus/">OsmAnd~</a>🇳🇱 ⭐❤
 
-• <a href="https://organicmaps.app/">Organic App</a>🇪🇪
+• <img src="https://avatars.githubusercontent.com/u/76659619?s=200&v=4" width="20" height="20"/><a href="https://organicmaps.app/">Organic Map</a>🇪🇪
 
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝘄𝗲𝗮𝘁𝗵𝗲𝗿 𝗮𝗽𝗽:
 
-• <a href="https://f-droid.org/en/packages/cz.martykan.forecastie/">Forecastie</a>🌍 ⭐❤
+• <img src="https://f-droid.org/repo/cz.martykan.forecastie/en-US/icon_laqgosbqKeQqKeaITfRLLuyL5tuTrogyMqeVm7GuDFE=.png" width="20" height="20"/><a href="https://f-droid.org/en/packages/cz.martykan.forecastie/">Forecastie</a>🌍 ⭐❤
 
 • <a href="https://f-droid.org/packages/wangdaye.com.geometricweather/">Geometric Weather</a>🇨🇳
 
@@ -250,9 +250,9 @@ __________________________________________
 ____________________________________________________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗡𝗼𝘁𝗲𝘀 𝗔𝗽𝗽:
 
-• <a href="https://f-droid.org/en/packages/com.standardnotes/">Standard Notes</a>🌍 ⭐❤
+• <img src="https://avatars.githubusercontent.com/u/24537496?s=200&v=4" width="20" height="20"/><a href="https://f-droid.org/en/packages/com.standardnotes/">Standard Notes</a>🌍 ⭐❤
 
-• [Joplin](https://github.com/laurent22/joplin-android)🏴󠁧󠁢󠁥󠁮󠁧󠁿
+• <img src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/LinuxIcons/256x256.png" width="20" height="20"/>[Joplin](https://github.com/laurent22/joplin-android)🏴󠁧󠁢󠁥󠁮󠁧󠁿
 
 
 __________________________________________
@@ -260,23 +260,23 @@ __________________________________________
 
 𝘖𝘯𝘭𝘪𝘯𝘦:
 
-• <a href="https://github.com/vfsfitvnm/ViMusic">ViMusic</a> 🌍❤️
+• <img src="https://f-droid.org/repo/it.vfsfitvnm.vimusic/en-US/icon_ymX5Rc9eGDW7ajdnZg6DEN8vs852DAnEW_K5IYdUXYU=.png" width="20" height="20"/><a href="https://github.com/vfsfitvnm/ViMusic">ViMusic</a> 🌍❤️
 
-• <a href="https://f-droid.org/en/packages/com.shadow.blackhole/">BlackHole</a> 🇮🇳
+• <img src="https://sangwan5688.github.io/BlackHole/logo_50x50.png" width="20" height="20"/><a href="https://f-droid.org/en/packages/com.shadow.blackhole/">BlackHole</a> 🇮🇳
 
 
 𝘖𝘧𝘧𝘭𝘪𝘯𝘦:
 
-• <a href="https://retromusic.app/">Retro Music Player</a>🇮🇳 ( 𝘔𝘪𝘯𝘪𝘮𝘢𝘭𝘪𝘴𝘵𝘪𝘤 𝘪𝘯𝘵𝘦𝘳𝘧𝘢𝘤𝘦 )
+• <img src="https://apt.izzysoft.de/fdroid/repo/icons/code.name.monkey.retromusic.10597.png" width="20" height="20"/><a href="https://retromusic.app/">Retro Music Player</a>🇮🇳 ( 𝘔𝘪𝘯𝘪𝘮𝘢𝘭𝘪𝘴𝘵𝘪𝘤 𝘪𝘯𝘵𝘦𝘳𝘧𝘢𝘤𝘦 )
 
-• [Metro](https://www.f-droid.org/packages/io.github.muntashirakon.Music/)🌍 (𝘍𝘰𝘳𝘬 𝘰𝘧 𝘙𝘦𝘵𝘳𝘰 𝘔𝘶𝘴𝘪𝘤 𝘸𝘪𝘵𝘩 𝘎𝘰𝘰𝘨𝘭𝘦 𝘗𝘭𝘢𝘺 𝘈𝘗𝘐 𝘳𝘦𝘮𝘰𝘷𝘦𝘥 𝘢𝘯𝘥 𝘢𝘭𝘭 𝘱𝘳𝘰 𝘧𝘦𝘢𝘵𝘶𝘳𝘦𝘴 𝘶𝘯𝘭𝘰𝘤𝘬𝘦𝘥)
+• <img src="https://f-droid.org/repo/io.github.muntashirakon.Music/en-US/icon_5LD2RbQWtAYguCLyTB7Asa91NkhZu1s6T_IdqngqUR8=.png" width="20" height="20"/>[Metro](https://www.f-droid.org/packages/io.github.muntashirakon.Music/)🌍 (𝘍𝘰𝘳𝘬 𝘰𝘧 𝘙𝘦𝘵𝘳𝘰 𝘔𝘶𝘴𝘪𝘤 𝘸𝘪𝘵𝘩 𝘎𝘰𝘰𝘨𝘭𝘦 𝘗𝘭𝘢𝘺 𝘈𝘗𝘐 𝘳𝘦𝘮𝘰𝘷𝘦𝘥 𝘢𝘯𝘥 𝘢𝘭𝘭 𝘱𝘳𝘰 𝘧𝘦𝘢𝘵𝘶𝘳𝘦𝘴 𝘶𝘯𝘭𝘰𝘤𝘬𝘦𝘥)
 
-• <a href="https://www.f-droid.org/packages/org.videolan.vlc/">VLC</a>🇫🇷
+• <img src="https://f-droid.org/repo/org.videolan.vlc/en-US/icon_yAfSvPRJukZzMMfUzvbYqwaD1XmHXNtiPBtuPVHW-6s=.png" width="20" height="20"/><a href="https://www.f-droid.org/packages/org.videolan.vlc/">VLC</a>🇫🇷
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗽𝗼𝗱𝗰𝗮𝘀𝘁 𝗮𝗽𝗽:
 
-• <a href="https://f-droid.org/en/packages/de.danoeh.antennapod/">Antennapod</a>🌍 ⭐❤ (𝘐𝘧 𝘺𝘰𝘶 𝘭𝘪𝘬𝘦 𝘭𝘪𝘴𝘵𝘦𝘯𝘪𝘯𝘨 𝘵𝘰 𝘱𝘰𝘥𝘤𝘢𝘴𝘵 ,𝘵𝘩𝘦𝘳𝘦 𝘢𝘳𝘦 𝘮𝘢𝘯𝘺 𝘱𝘰𝘥𝘤𝘢𝘴𝘵𝘴 𝘵𝘰 𝘭𝘦𝘢𝘳𝘯 𝘱𝘳𝘪𝘷𝘢𝘤𝘺 & 𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺)
+• <img src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png" width="20" height="20"/><a href="https://f-droid.org/en/packages/de.danoeh.antennapod/">Antennapod</a>🌍 ⭐❤ (𝘐𝘧 𝘺𝘰𝘶 𝘭𝘪𝘬𝘦 𝘭𝘪𝘴𝘵𝘦𝘯𝘪𝘯𝘨 𝘵𝘰 𝘱𝘰𝘥𝘤𝘢𝘴𝘵 ,𝘵𝘩𝘦𝘳𝘦 𝘢𝘳𝘦 𝘮𝘢𝘯𝘺 𝘱𝘰𝘥𝘤𝘢𝘴𝘵𝘴 𝘵𝘰 𝘭𝘦𝘢𝘳𝘯 𝘱𝘳𝘪𝘷𝘢𝘤𝘺 & 𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺)
 
 
 
@@ -284,19 +284,19 @@ __________________________________________
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗩𝗶𝗱𝗲𝗼 𝗣𝗹𝗮𝘆𝗲𝗿:
 
-• <a href="https://github.com/moneytoo/Player">Just (video) Player</a>🌍 ⭐❤️
+• <img src="https://f-droid.org/repo/com.brouken.player/en-US/icon_ouHp6y6QCaKaGove62VJTkgiuuiRUIire5BfHJjE5LA=.png" width="20" height="20"/><a href="https://github.com/moneytoo/Player">Just (video) Player</a>🌍 ⭐❤️
 
 
-• <a href="https://www.f-droid.org/packages/org.videolan.vlc/">VLC</a>🇫🇷
+• <img src="https://f-droid.org/repo/org.videolan.vlc/en-US/icon_yAfSvPRJukZzMMfUzvbYqwaD1XmHXNtiPBtuPVHW-6s=.png" width="20" height="20"/><a href="https://www.f-droid.org/packages/org.videolan.vlc/">VLC</a>🇫🇷
 
-• [MPV](https://github.com/mpv-android/mpv-android)🌍
+• <img src="https://f-droid.org/repo/is.xyz.mpv/en-US/icon_majm6xpwWsZ5twn2JJsYZaQuMUEOErcgOnvFqv2EGiw=.png" width="20" height="20"/>[MPV](https://github.com/mpv-android/mpv-android)🌍
 
 __________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗮𝗽𝗽 𝘁𝗼 𝗕𝗹𝗼𝗰𝗸 𝗦𝗽𝗼𝘁𝗶𝗳𝘆 𝗮𝗱𝘀:
 
-• <a href="https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify">Mutify</a>🇮🇳 (𝘐𝘧 𝘺𝘰𝘶 𝘭𝘪𝘬𝘦 𝘚𝘱𝘰𝘵𝘪𝘧𝘺,𝘴𝘰 𝘫𝘶𝘴𝘵 𝘮𝘶𝘵𝘦 𝘢𝘥𝘴🎧)
+• <img src="https://image.winudf.com/v2/image1/bGl2ZS50ZWVrYW1zdXRoYXIubXV0aWZ5X2ljb25fMTYwMzA1ODE0M18wMzQ/icon.png?w=100&fakeurl=1&type=.webp" width="20" height="20"/><a href="https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify">Mutify</a>🇮🇳 (𝘐𝘧 𝘺𝘰𝘶 𝘭𝘪𝘬𝘦 𝘚𝘱𝘰𝘵𝘪𝘧𝘺,𝘴𝘰 𝘫𝘶𝘴𝘵 𝘮𝘶𝘵𝘦 𝘢𝘥𝘴🎧)
 
-• [Xmanager-Spotify](https://github.com/xManager-v2/xManager-Spotify)🌍
+• <img src="https://image.winudf.com/v2/image1/Y29tLnhjM2ZmZjBlLnhzcG90aWZ5bWFuYWdlcl9pY29uXzE2MTIwMDk4NzZfMDUz/icon.png?w=100&fakeurl=1&type=.webp" width="20" height="20"/>[Xmanager-Spotify](https://github.com/xManager-v2/xManager-Spotify)🌍
 (𝘛𝘩𝘪𝘴 𝘢𝘱𝘱 𝘪𝘴 𝘢𝘯 𝘢𝘱𝘱 𝘴𝘵𝘰𝘳𝘦 𝘧𝘰𝘳 𝘚𝘱𝘰𝘵𝘪𝘧𝘺 𝘔𝘰𝘥 𝘢𝘱𝘱𝘴,𝘪 𝘳𝘦𝘤𝘰𝘮𝘮𝘢𝘯𝘥 𝘵𝘰 𝘯𝘰𝘵 𝘶𝘴𝘦 𝘵𝘩𝘦𝘴𝘦 𝘢𝘱𝘱𝘴 𝘢𝘴 𝘪𝘵 𝘯𝘦𝘦𝘥 𝘢 𝘴𝘱𝘰𝘵𝘪𝘧𝘺 𝘢𝘤𝘤𝘰𝘶𝘯𝘵,𝘶𝘴𝘦 𝘰𝘵𝘩𝘦𝘳 𝘍𝘰𝘴𝘴 𝘮𝘶𝘴𝘪𝘤 𝘢𝘱𝘱𝘴 𝘮𝘦𝘯𝘵𝘪𝘰𝘯𝘦𝘥 𝘪𝘯 𝘵𝘩𝘪𝘴 𝘭𝘪𝘴𝘵)
 
 
