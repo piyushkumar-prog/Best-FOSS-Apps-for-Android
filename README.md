@@ -8,14 +8,14 @@ __________________________
 
 ☆ 𝗕𝗲𝘀𝘁 𝗕𝗿𝗼𝘄𝘀𝗲𝗿𝘀:
 
-• <a href="https://play.google.com/store/apps/details?id=com.brave.browser">Brave</a>🇺🇲 ⭐❤ ([𝙃𝙤𝙬 𝙩𝙤 𝙝𝙖𝙧𝙙𝙚𝙣 𝘽𝙧𝙖𝙫𝙚 𝘽𝙧𝙤𝙬𝙨𝙚𝙧](https://github.com/Finalboss77/Hardening-Brave-Browser) )
+• <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/brave_browser_logo_icon_153013.png" width="15" height="15"/> <a href="https://play.google.com/store/apps/details?id=com.brave.browser">Brave</a>🇺🇲 ⭐❤ ([𝙃𝙤𝙬 𝙩𝙤 𝙝𝙖𝙧𝙙𝙚𝙣 𝘽𝙧𝙖𝙫𝙚 𝘽𝙧𝙤𝙬𝙨𝙚𝙧](https://github.com/Finalboss77/Hardening-Brave-Browser) )
    
 (𝘏𝘢𝘳𝘥𝘦𝘯 𝘉𝘳𝘢𝘷𝘦 𝘉𝘳𝘰𝘸𝘴𝘦𝘳 𝘣𝘦𝘧𝘰𝘳𝘦 𝘶𝘴𝘪𝘯𝘨 𝘪𝘵)
 
 
 
                
-• <a href="https://www.mozilla.org/en-GB/firefox/new/">Firefox</a>🇺🇲 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘍𝘖𝘚𝘚 𝘷𝘦𝘳𝘴𝘪𝘰𝘯𝘴 eg.<a href="https://www.f-droid.org/packages/org.mozilla.fennec_fdroid/">Fennec </a> , <a href="https://f-droid.org/packages/us.spotco.fennec_dos/">Mull</a> ⭐❤️
+• <img src="https://user-images.githubusercontent.com/104879897/206898853-4de2afcb-dfe0-434b-8aff-945cf2895a0d.png" width="15" height="15"/> <a href="https://www.mozilla.org/en-GB/firefox/new/">Firefox</a>🇺🇲 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘍𝘖𝘚𝘚 𝘷𝘦𝘳𝘴𝘪𝘰𝘯𝘴 eg.<a href="https://www.f-droid.org/packages/org.mozilla.fennec_fdroid/">Fennec </a> , <a href="https://f-droid.org/packages/us.spotco.fennec_dos/">Mull</a> ⭐❤️
 
 (𝘛𝘰 𝘶𝘴𝘦 𝘍𝘪𝘳𝘦𝘧𝘰𝘹 ,𝘺𝘰𝘶 𝘩𝘢𝘷𝘦 𝘵𝘰 𝘮𝘢𝘬𝘦 𝘮𝘢𝘯𝘺 𝘤𝘩𝘢𝘯𝘨𝘦𝘴 𝘢𝘯𝘥 𝘢𝘥𝘥 𝘴𝘰𝘮𝘦 𝘢𝘥𝘰𝘯𝘴 𝘵𝘰 𝘺𝘰𝘶𝘳 𝘣𝘳𝘰𝘸𝘴𝘦𝘳. <a href="https://chrisx.xyz/blog/yet-another-firefox-hardening-guide/">Learn how to make Firefox more privacy friendly </a> )
 
